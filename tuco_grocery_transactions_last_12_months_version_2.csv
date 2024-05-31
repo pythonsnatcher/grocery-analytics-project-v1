@@ -1,0 +1,1148 @@
+TransactionID,Date,Hour,CustomerID,Item,Category,Price,Quantity,Discount,Promotion,PaymentMethod,Weather,Cost
+b7e002fa-c652-4b27-b10e-35d01da3355d,2023-10-15,21,4704b710-27b1-4457-b6cc-43ca39a8aefe,onions,produce,9.25,1,0,Loyalty Rewards Points,card,sunny,5.99
+d60166d2-8d34-4683-9ea9-2dd4210cc313,2023-07-06,17,6ab0408d-858d-49f8-9c8f-ccb030863d39,carrots,produce,1.09,1,0,Free Gift with Purchase,card,rainy,0.82
+d4b13b3f-029c-4b4a-a325-1f4779a675e7,2024-04-18,20,c19aab83-5ba9-46ba-9dcb-33fd9d771c6b,grapes,produce,2.22,2,0,Buy One Get One Free,card,sunny,1.49
+d4b13b3f-029c-4b4a-a325-1f4779a675e7,2024-04-18,20,c19aab83-5ba9-46ba-9dcb-33fd9d771c6b,cookies,snacks,14.4,2,0,Loyalty Rewards Points,cash,sunny,10.82
+7b8bf19a-d4b0-48c2-8592-ace2f5ecf0ef,2023-06-10,16,e2c7ba83-ace1-417f-ad47-387aef896943,fish,seafood,8.07,1,0,Free Gift with Purchase,card,rainy,5.32
+53fc7160-80e9-465f-ba22-ee7f85989ad3,2024-01-22,18,beb2b5d2-2bd1-43e9-babc-af23a237e525,grapes,produce,2.22,1,0,Loyalty Rewards Points,cash,cloudy,1.45
+759adfe8-64d9-4ea3-9309-975d95d96fab,2023-10-10,19,dcc834d7-4d97-45e6-925c-ef32bd1c040e,chocolate,snacks,2.3,1,0,Buy One Get One Free,card,cloudy,1.7
+33bf8942-58f2-4eda-aa2f-324ea7c0a20c,2024-05-19,9,48f9f486-0405-483e-9252-2c1fd0b29c5e,milk,dairy,4.85,1,0,Free Gift with Purchase,card,rainy,3.2
+b79b3484-6662-4b07-8e11-f6163254d64c,2024-05-07,19,18c506b5-75c6-4382-97ed-82f4e4600e83,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,stormy,6.8
+e9c30b0e-f5d3-49a3-874a-33c3c6cfe583,2023-09-08,11,32593b87-5d33-4375-94dd-b39afeb550ee,onions,produce,9.25,1,0,Loyalty Rewards Points,cash,cloudy,6.17
+6b1f9be0-8fd9-41a9-ac0b-9d4c62df414b,2024-04-09,14,8b443181-39cf-489b-a919-1acb2623d620,eggs,dairy,11.31,1,0,Buy One Get One Free,card,cloudy,7.93
+9f650d25-e735-4937-809b-f35441dd5237,2024-01-12,10,81d7134d-06f3-45a1-9272-4bab6ea6ebbc,chips,snacks,5.71,1,0,Buy One Get One Free,cash,cloudy,4.14
+806f09a7-0171-4b98-ba54-da029b955dc9,2024-01-18,15,ed7d8d07-a543-4582-a763-22408bedde88,onions,produce,9.25,1,0,Buy One Get One Free,card,stormy,6.94
+8c4c3237-3454-4ecb-adb7-5039a85f48d5,2023-09-15,19,4a5c0b20-0e03-4b65-9675-5662b8ff92b8,pork,meat,4.06,1,0,Loyalty Rewards Points,card,rainy,2.62
+7da940c5-2b5a-40fa-8328-c19915098cf3,2023-08-06,16,c9c24587-422f-43aa-b482-f844ef4ea499,ice cream,dairy,12.86,1,0,20% Off Entire Purchase,card,sunny,9.4
+28b21bb4-655b-4b5e-9420-03a2759c124e,2024-01-19,19,73cfe038-c927-40c1-af53-a56b71769abc,potatoes,produce,4.09,1,0,20% Off Entire Purchase,cash,rainy,2.93
+3084fee4-e376-43cb-a19c-e703e06504b0,2023-07-03,21,e010e57f-72be-4fb6-be66-c77ecc297b64,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,cloudy,10.93
+26343549-c972-478d-89c8-0356078367de,2023-08-30,16,4c9040d1-7635-4a1d-8d2e-8a8136aef421,fish,seafood,8.07,2,0,Free Gift with Purchase,card,sunny,6.2
+26343549-c972-478d-89c8-0356078367de,2023-08-30,16,4c9040d1-7635-4a1d-8d2e-8a8136aef421,ice cream,dairy,12.86,2,0,Buy One Get One Free,card,sunny,8.21
+6cf62acd-b409-4ffa-9c9f-8337be6c8d56,2023-10-13,20,1af911da-fa52-4431-95d5-3f34ceac4936,cookies,snacks,14.4,1,0,20% Off Entire Purchase,card,stormy,10.15
+75c5def4-c6d6-4a32-b3e3-3dc1f28b7305,2023-06-23,19,8e006e6e-487c-46c7-be3e-970fbac5febe,apples,produce,10.47,1,0,Loyalty Rewards Points,card,stormy,6.98
+e6cfc01d-f4ad-4589-8d5c-4785647cac5e,2023-06-04,17,12793525-459f-4107-936b-723b95dcb4eb,rice,grains,1.37,1,0,Free Gift with Purchase,cash,cloudy,1.05
+e6b85305-f9a8-4148-b001-fedf5104804e,2024-04-12,17,df6740dd-8edc-4901-943c-1eb2d2998638,grapes,produce,2.22,2,0,20% Off Entire Purchase,card,stormy,1.5
+e6b85305-f9a8-4148-b001-fedf5104804e,2024-04-12,17,df6740dd-8edc-4901-943c-1eb2d2998638,milk,dairy,4.85,2,0,Buy One Get One Free,card,stormy,3.06
+80b707bb-9d8d-4a87-a24d-a7a9922e9e06,2023-11-07,10,39ed8f4f-e937-402d-be3d-27c0139d64c7,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,sunny,3.4
+7be41b74-60c9-4493-9def-e8924040952e,2023-07-27,12,d595fd50-6289-40f2-9265-f4985421cd6c,ice cream,dairy,12.86,1,0,Loyalty Rewards Points,card,cloudy,9.13
+06805f93-1868-40ab-915e-c0bd68b05998,2023-06-19,21,c570d45e-498d-4c7e-a796-11c9e9b135ba,bananas,produce,13.49,1,0,Loyalty Rewards Points,cash,stormy,8.68
+2fcf3f09-e905-4712-8a65-28fc049f6e05,2023-09-28,15,a82239c1-d1c1-4632-aff2-fdc7d8a49d11,tea,beverage,3.18,1,0,Buy One Get One Free,card,stormy,2.03
+1aac8008-fd81-476a-8e94-441b03286305,2024-03-05,15,a6cfca36-19cd-4400-82d4-43bf6ed5f5ca,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,rainy,2.74
+e1dd5396-59a7-4e5c-88e2-e719f2e13384,2024-01-01,11,b91709e5-c3e3-419c-abf7-fb469fcf5c64,cereal,grains,10.1,1,0,Buy One Get One Free,cash,stormy,6.72
+fe22486e-4c1f-41f0-8c1f-fc9c6477330f,2024-02-06,21,11b8b6c5-5d33-4f09-a8cc-52dbd5b32cf9,onions,produce,9.25,2,0,Buy One Get One Free,card,sunny,5.85
+fe22486e-4c1f-41f0-8c1f-fc9c6477330f,2024-02-06,21,11b8b6c5-5d33-4f09-a8cc-52dbd5b32cf9,chocolate,snacks,2.3,2,0,Loyalty Rewards Points,cash,sunny,1.5
+4559801e-5a7a-4e6b-8071-536698402e97,2023-08-30,12,463082ea-efcb-496b-b2ad-82029e43a60f,apples,produce,10.47,1,0,Loyalty Rewards Points,cash,stormy,7.15
+56a87c4b-c73e-4ea1-8951-e4e5870f1da6,2024-02-13,21,eb7f8c8d-dc1f-4832-bc7c-32e1cc31817c,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,stormy,4.4
+31893625-5ccf-472f-9304-0ec7a46c2efa,2023-07-28,12,2948b350-c42a-466c-b55d-a5624809b606,butter,dairy,1.35,1,0,Buy One Get One Free,cash,rainy,0.96
+6f491e60-329c-487f-b902-4d79708b7655,2024-03-31,9,3655d104-6fbb-4803-88f6-5c0aca04e227,potatoes,produce,4.09,1,0,20% Off Entire Purchase,card,sunny,3.1
+a43815f4-48de-43ed-8b1f-f7615d926864,2023-10-30,17,b5e638fb-93de-4e00-8e88-06580c4777df,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,sunny,3.46
+aab7e34a-f589-4b5a-836a-738472ee9aa4,2024-01-28,10,11133a27-3caa-4295-bee3-815fadf8f6ca,butter,dairy,1.35,1,0,Loyalty Rewards Points,cash,cloudy,0.97
+854f22dd-4103-4551-bb46-4947099c0682,2023-08-26,13,0c6d9944-08ec-4ede-9f8d-eb4644632f8e,pork,meat,4.06,1,0,Loyalty Rewards Points,card,cloudy,2.69
+0e3be29d-b360-4aa5-b23a-c6c475da61f7,2024-03-18,19,8b8aa93a-b6cc-4010-814a-676793be2de1,pizza,frozen,9.45,1,0,Buy One Get One Free,card,rainy,6.95
+f312effe-5383-4b70-a3a5-61744e74c5d4,2023-10-31,16,9c4bc1c7-4af5-404c-8ba9-0964eab43fb6,bananas,produce,13.49,2,0,Free Gift with Purchase,card,sunny,9.0
+f312effe-5383-4b70-a3a5-61744e74c5d4,2023-10-31,16,9c4bc1c7-4af5-404c-8ba9-0964eab43fb6,potatoes,produce,4.09,2,0,Free Gift with Purchase,cash,sunny,3.08
+5e1e80a4-581e-4698-ae42-148ce5618216,2023-12-20,11,f7fd0ea2-650a-4bbc-b6bf-92af7db81321,coffee,beverage,5.76,1,0,Buy One Get One Free,cash,stormy,3.87
+4c19ae86-6485-400d-a183-8a5f4e0b4c29,2024-01-28,19,c9801d7f-fe10-4563-b584-a942268912f0,eggs,dairy,11.31,1,0,Buy One Get One Free,card,sunny,7.54
+7fc607ee-f9b8-4f6f-b6ab-c962f305c77d,2024-02-23,13,a274d58f-846f-4ef3-a391-749d2cd0f974,coffee,beverage,5.76,1,0,Free Gift with Purchase,cash,rainy,3.91
+d3b478e2-6cf5-4ead-896d-23bb8cd1c6f2,2023-10-23,13,4fd2d8db-e2a3-427a-81b2-ea979ecee73d,pasta,grains,3.78,2,0,Buy One Get One Free,cash,sunny,2.53
+d3b478e2-6cf5-4ead-896d-23bb8cd1c6f2,2023-10-23,13,4fd2d8db-e2a3-427a-81b2-ea979ecee73d,chocolate,snacks,2.3,2,0,Free Gift with Purchase,card,sunny,1.7
+bb4f3faf-f452-4a6c-818f-021b0d831695,2024-04-10,20,c0907a21-b478-48e7-81f8-03b41b409318,pasta,grains,3.78,1,0,Buy One Get One Free,card,stormy,2.68
+7d365bb9-533f-4a69-8c38-07a614fb726e,2023-06-15,20,8bbde28d-35fd-4bcf-9c4e-91a6cfe65322,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,cloudy,1.57
+31de33af-2d29-42e0-9b15-3499f50068e1,2024-05-09,11,459d04bf-c077-45c9-b6eb-4a67546f1495,ice cream,dairy,12.86,1,0,Buy One Get One Free,cash,sunny,9.78
+57d78a66-1979-4f14-bae6-b10f6208b948,2024-03-11,12,32dc4b88-7f9c-4060-9734-e05c5f5ac5a8,fish,seafood,8.07,1,0,Loyalty Rewards Points,card,cloudy,5.97
+4c72d60e-ccde-4e36-83ff-10ff98825050,2023-09-01,12,996669cf-6daa-4f2f-8697-b016c6ab3539,chips,snacks,5.71,1,0,Loyalty Rewards Points,card,cloudy,3.74
+50b3ed44-3baa-4c2a-881c-3cc56c969bbf,2023-11-27,11,28e84d13-ff18-4b7b-b262-b9af8c9385d5,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,rainy,2.81
+8054f743-c4ec-4ab1-af95-12fe8170e413,2024-05-23,11,9b66f522-98e9-4981-9b29-4856a10b2a2d,butter,dairy,1.35,1,0,20% Off Entire Purchase,card,sunny,1.01
+f7b05dd3-115e-431f-b012-faed045ebb95,2024-02-03,16,c133f908-ec9a-4e8f-aaa3-2897e77f4dac,chips,snacks,5.71,1,0,20% Off Entire Purchase,card,rainy,4.29
+48e2c807-f01f-4e18-ae83-c1e13f5c6fe8,2024-05-19,19,b64ab125-0892-42a8-95c5-3169179a0d37,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,cloudy,5.19
+8efd1850-4ad3-482b-b221-b1fc19d60d56,2024-03-11,19,7d31448b-b865-494e-85b4-fdc207147983,chocolate,snacks,2.3,1,0,Buy One Get One Free,card,stormy,1.62
+213483e1-2dc6-4b98-a49a-32ae87a2e644,2023-10-05,13,6209c6e0-abce-4019-9ba8-4d7c2f8f6fbd,chicken,meat,6.91,1,0,Loyalty Rewards Points,cash,cloudy,4.39
+0af43946-1957-4a6e-afb4-cdda8729a8ec,2023-12-17,20,c28b037c-76af-41b0-8fee-60dc98aef4af,potatoes,produce,4.09,1,0,20% Off Entire Purchase,cash,rainy,2.64
+51c01997-3df3-4010-9c53-c3607d7c0b2d,2023-12-01,9,b8cad533-0270-4017-ae0b-856f966edf50,pizza,frozen,9.45,2,0,20% Off Entire Purchase,cash,stormy,6.67
+51c01997-3df3-4010-9c53-c3607d7c0b2d,2023-12-01,9,b8cad533-0270-4017-ae0b-856f966edf50,chips,snacks,5.71,2,0,Free Gift with Purchase,cash,stormy,3.94
+793090a6-daae-41c1-9016-6c7c93b1d840,2024-02-16,19,79b800cb-f193-4885-b3cd-6eb74180deb6,beef,meat,1.42,1,0,Loyalty Rewards Points,cash,sunny,1.0
+1891a593-aaaa-4953-b9c5-c578d930ac29,2023-11-28,15,2803dea7-76d2-4235-9fa4-90f718807771,bananas,produce,13.49,1,0,Loyalty Rewards Points,card,rainy,9.29
+53bdde4a-0ef0-4b79-b7c6-59a915333be7,2023-09-26,18,10c2b779-bffa-4e8f-97fc-d36d88d2bd64,chocolate,snacks,2.3,1,0,Free Gift with Purchase,card,rainy,1.45
+d8a690c1-8831-4327-b6fb-1a2322020a9f,2024-05-18,15,30c04eeb-11e5-4a05-a1cc-1e077d084fdb,cereal,grains,10.1,1,0,Loyalty Rewards Points,card,rainy,7.32
+8f99691e-2587-4263-a4f5-757afb9562df,2023-12-10,19,ece9193a-c3a9-4816-af0a-1a3d68a5d7fc,soda,beverage,10.77,1,0,Free Gift with Purchase,card,sunny,7.74
+10d55351-c515-4085-b196-ce0819d071dc,2023-11-25,21,09e996c1-b74d-4501-8bfb-cf0557b1f4ae,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,cloudy,1.65
+2b72451d-6321-4eb3-97dc-3f1f53923add,2024-05-16,9,b37f2e50-e3c5-487c-b542-64719908b5ee,carrots,produce,1.09,1,0,Buy One Get One Free,cash,cloudy,0.82
+c95f9054-84a0-401f-9a52-794f037f46e1,2023-08-17,15,cacfe916-5089-4dd0-9fcf-1b394321963f,rice,grains,1.37,1,0,20% Off Entire Purchase,card,cloudy,0.96
+d20ba7d1-579f-404b-ab2f-7f7e5312c37d,2024-02-17,19,16abb039-ff63-43c0-95b6-7ca0c0ce9a20,yogurt,dairy,2.35,1,0,Buy One Get One Free,cash,sunny,1.73
+48e93655-5a3e-4c53-aab8-43d93d4b8d68,2024-01-09,12,049d3ad3-ff47-4819-80bb-2693dc860127,coffee,beverage,5.76,1,0,Buy One Get One Free,card,cloudy,4.05
+4a70d313-fa1a-43c2-bdcb-286ee7494cee,2023-12-24,10,6743d76d-4b41-431b-aa56-afb92d96e2a9,cereal,grains,10.1,2,0,Free Gift with Purchase,cash,stormy,7.11
+4a70d313-fa1a-43c2-bdcb-286ee7494cee,2023-12-24,10,6743d76d-4b41-431b-aa56-afb92d96e2a9,soda,beverage,10.77,2,0,Loyalty Rewards Points,cash,stormy,7.71
+7b80a8b8-aeeb-4ad8-b5e4-78ff44ad1b11,2024-01-25,11,dcdd8f8d-4982-40f3-b232-dcf0be519103,cookies,snacks,14.4,1,0,Free Gift with Purchase,cash,stormy,9.57
+153bc113-5fea-46b9-850b-2033d7a5eb64,2024-03-02,19,ebe8ed64-2101-4eb2-a142-db292a89bd3c,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,cloudy,3.54
+89894032-3161-4470-8a29-996cc2075b9d,2023-10-30,14,b14aa4b7-b2af-4b8f-8989-9d88b14ffee2,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,rainy,3.15
+43c3f9d4-54a6-4607-b3a3-5504134fe553,2023-10-09,20,2c82e410-2c68-403e-a2ec-6c9bf438f90e,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,cloudy,3.34
+08a7ddf4-3eed-4e88-8082-202c7b78eb33,2023-08-08,15,e52ff885-e8de-4dbf-b13b-76f4e6787fcf,pasta,grains,3.78,1,0,Buy One Get One Free,cash,sunny,2.59
+bd471e6f-a148-441a-948a-caac75d37865,2024-02-01,16,5a4666b8-85d6-46dd-a14a-c36f66ddda3a,beef,meat,1.42,1,0,Loyalty Rewards Points,card,sunny,1.04
+d128448e-2230-4626-befc-9530234077b0,2023-12-28,16,478cc428-623d-4340-9835-39dfabd29faa,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,cloudy,5.47
+c2f35c04-ce6b-4493-aa71-abcee34f73ea,2024-02-03,20,1abaf432-65e0-48a6-a320-c8aa4250f114,pizza,frozen,9.45,1,0,Buy One Get One Free,cash,cloudy,6.12
+c9526bcd-a9be-4dcb-99bc-8e1c769ca15a,2024-05-18,18,96c182e9-9710-41a2-9d7f-d416ec2e4c5b,pasta,grains,3.78,2,0,20% Off Entire Purchase,card,sunny,2.84
+c9526bcd-a9be-4dcb-99bc-8e1c769ca15a,2024-05-18,18,96c182e9-9710-41a2-9d7f-d416ec2e4c5b,eggs,dairy,11.31,2,0,Free Gift with Purchase,card,sunny,7.54
+e848dfad-7116-4f19-a79c-dec6e2a49780,2024-03-05,16,89eb41c2-4c86-4d75-b9a4-f6472db941d7,ice cream,dairy,12.86,1,0,Loyalty Rewards Points,cash,rainy,8.78
+5fb398b9-f0ac-48b6-b23e-cfb885243bc4,2024-01-18,10,f7be8da6-7899-4f24-b847-d6bc64bb19ae,onions,produce,9.25,2,0,Free Gift with Purchase,card,stormy,7.12
+5fb398b9-f0ac-48b6-b23e-cfb885243bc4,2024-01-18,10,f7be8da6-7899-4f24-b847-d6bc64bb19ae,butter,dairy,1.35,2,0,Buy One Get One Free,card,stormy,0.97
+4dba8671-76c6-4c40-aaba-bb15d138021b,2023-07-27,12,53021dd3-c843-43f8-aea9-d1fae7b87b6a,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,cloudy,0.71
+f89066e6-3dd1-45b6-a667-866140564c60,2024-03-23,19,aa72119b-836f-4c57-954c-1ecfa6eb5f3d,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,sunny,9.38
+069cce69-ebc3-4d24-8321-ce9cff79e9da,2023-07-07,11,7c6d6b9b-42dd-443f-be9c-9817e922c18d,apples,produce,10.47,1,0,Buy One Get One Free,card,sunny,8.01
+6f7211e3-35b6-427e-a4a2-894088f0d4fc,2024-04-09,13,1acf1adf-7a07-4d37-bca6-1265c105e7f0,coffee,beverage,5.76,1,0,20% Off Entire Purchase,card,stormy,3.79
+9f294c09-3b5c-447f-953a-844f32c1c271,2024-01-28,20,7e8c5d66-26bf-4966-b07b-cde505a43679,carrots,produce,1.09,1,0,Buy One Get One Free,cash,rainy,0.81
+eba3dddd-292b-4a7b-a4da-ea81e214163d,2024-02-13,17,2dee9775-6d97-4eaf-82d5-b05fded255aa,milk,dairy,4.85,1,0,Free Gift with Purchase,card,stormy,3.4
+c7dd6e3b-2c0e-4eb3-8b6f-d6f079472f4c,2024-05-14,15,abaf3516-0322-4ed6-9d29-7aa10c507f73,fish,seafood,8.07,2,0,Loyalty Rewards Points,card,stormy,6.09
+c7dd6e3b-2c0e-4eb3-8b6f-d6f079472f4c,2024-05-14,15,abaf3516-0322-4ed6-9d29-7aa10c507f73,orange juice,beverage,12.28,2,0,Free Gift with Purchase,cash,stormy,8.49
+f7032723-ba5f-441b-8a4b-f21866dcd3a1,2023-07-03,16,147e5c38-055f-4fc3-92c6-5b84b2460d1c,lettuce,produce,12.33,1,0,20% Off Entire Purchase,card,stormy,8.23
+e8f3669d-fc47-4509-ae33-0580b71a2222,2024-01-16,13,1a23c35f-38bb-4c61-8f67-b25ced83760a,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,stormy,7.17
+ae241809-506d-4b30-b59a-e93e3a195d95,2023-08-08,9,11999cd1-b41b-4338-9770-74e942ada6e1,apples,produce,10.47,1,0,Free Gift with Purchase,cash,stormy,7.31
+588c0a7d-4a98-4912-a1ff-053c6c36ff3d,2023-06-05,14,05f140ed-f77b-486d-b03f-9e309786b8e8,coffee,beverage,5.76,1,0,Buy One Get One Free,card,rainy,4.34
+4f7b9a35-8b03-4f62-9893-1608d66da3c9,2024-02-12,10,a6715748-4923-4227-a3c4-2ad73f558af9,tomatoes,produce,8.63,1,0,20% Off Entire Purchase,cash,cloudy,6.11
+372e79c2-31b7-4861-aed6-5fba462d1b9f,2023-08-12,19,aaf2f3f4-4362-450d-bcc4-a0df98097308,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,stormy,6.4
+827c0688-15ae-4454-b0f0-62a1a68384a9,2023-07-10,20,908030cb-5831-44ee-8c7e-694f0e874305,lettuce,produce,12.33,1,0,Free Gift with Purchase,cash,cloudy,8.4
+3c0cd831-cad6-4764-9cc7-a3cd3852ad79,2024-04-04,20,02dd53df-c262-42b7-9928-7d0b1451c01c,cereal,grains,10.1,1,0,Free Gift with Purchase,card,rainy,6.75
+b52c4e39-a7d6-4539-994a-dfcfdf00dcb9,2024-04-30,10,5ad102bf-1029-4a0c-9469-a639187350d5,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,cloudy,2.24
+e3f1f054-f58f-42f8-a709-5d2faf714a37,2024-01-15,12,8b6d8d91-5ec4-4d15-84c8-314478b87303,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,stormy,9.45
+4d5f5821-abac-4bb3-a6cc-1854a1493d7f,2023-07-12,12,b8ec240b-2e12-4fb5-abcf-57190b969c95,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,rainy,7.04
+00161f92-af27-4887-8903-4a6ea90b8d14,2023-10-25,9,1ea93b44-1555-40b2-9cfa-5e4781eed74d,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,sunny,4.39
+2bd28dbb-66c0-42c9-a47c-8885405cd79b,2023-12-31,9,34d2bc03-8724-4ef1-9146-55811fa59d0f,cereal,grains,10.1,1,0,Buy One Get One Free,cash,rainy,6.84
+f5c15112-b632-4c81-b369-ece1dde8b050,2023-12-25,16,204754cf-68fe-4a18-8793-a86bb29f6bb9,rice,grains,1.37,1,0,Buy One Get One Free,card,sunny,0.96
+4ae66600-607f-4b3c-9136-650ad10afba6,2023-10-31,11,a4275dda-832e-4e10-b8aa-233c088d209b,grapes,produce,2.22,2,0,Loyalty Rewards Points,card,rainy,1.57
+4ae66600-607f-4b3c-9136-650ad10afba6,2023-10-31,11,a4275dda-832e-4e10-b8aa-233c088d209b,cheese,dairy,4.12,2,0,Loyalty Rewards Points,cash,rainy,3.04
+4da9488e-94e2-4cd9-95ad-a17ddf9bfe69,2024-05-25,16,df5f9522-7db3-4837-b623-65fff9c3ab24,pasta,grains,3.78,1,0,Buy One Get One Free,card,rainy,2.54
+6763d77b-31c5-4bd4-a30d-50c37e156edd,2023-12-13,21,095edf72-6877-4ff0-9dc7-72d3256af651,chicken,meat,6.91,1,0,20% Off Entire Purchase,card,cloudy,4.99
+d98b72b9-770c-45c7-8658-419ff5f22f77,2024-04-11,11,ed5660e1-bc1e-4062-ae07-f336716c999c,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,sunny,2.62
+bba745f2-9eff-4190-9b12-94fb47b969b8,2023-11-23,9,db7915a4-1df3-41a8-805f-eb2c28c68237,beef,meat,1.42,1,0,Loyalty Rewards Points,card,cloudy,1.03
+f724691b-2501-4a0d-832d-52ec60bc806c,2023-11-17,19,e6fa32d1-955d-4fac-9747-6cc1e256233e,chips,snacks,5.71,1,0,20% Off Entire Purchase,cash,cloudy,4.23
+fdc0dfda-ffc0-4491-9d16-7404a5b9fe59,2024-03-23,10,4f9b1933-7ed5-4d08-8a4e-214721394a7c,pizza,frozen,9.45,1,0,20% Off Entire Purchase,card,cloudy,6.3
+08a45ad6-18ce-465c-bf67-e33a8827a459,2024-04-25,9,e39edcb3-b376-4cfa-811a-0c0c20475e2c,carrots,produce,1.09,1,0,Free Gift with Purchase,cash,cloudy,0.8
+d6e82b4d-0ac2-408b-b974-b851d0e8f0a5,2023-06-24,10,b299f76d-8358-4855-8c7b-7da56a61bbc0,coffee,beverage,5.76,1,0,Free Gift with Purchase,cash,stormy,3.95
+ce8de702-f155-408f-849c-04f10d5c3253,2024-01-03,16,e48042ce-73db-44dc-9513-6819df53e5fa,ice cream,dairy,12.86,1,0,Free Gift with Purchase,cash,sunny,8.88
+f3565687-42dc-490a-9bb8-76daee7d59b6,2023-06-06,9,a7d48057-aba3-4c9a-9072-1b79e4710f8b,soda,beverage,10.77,1,0,Buy One Get One Free,cash,sunny,8.05
+58a511e7-c12f-4900-ab02-cfd3b4ab82b3,2024-03-05,18,5c55d399-ce62-402c-bd3d-571677e5f4b3,apples,produce,10.47,1,0,Loyalty Rewards Points,cash,sunny,7.29
+de5ff979-dee7-41cc-a3a4-507151402755,2023-09-21,11,28c05a2c-c0ff-4b5f-845c-8dd7d6319f7f,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,cash,stormy,6.61
+4b373f69-4c8c-4b50-81cc-a554acc83897,2023-06-24,15,83ccf206-d80a-4a3c-97c3-dae03e73b9de,cheese,dairy,4.12,1,0,Free Gift with Purchase,cash,rainy,3.09
+cde27bad-887b-413c-b30e-9cfb113519d2,2024-02-15,20,bd5a3b08-6afc-469f-8351-ad4e36f34162,rice,grains,1.37,1,0,Buy One Get One Free,cash,stormy,1.02
+0a29fa36-4a29-4b58-bd63-466aae0546d3,2024-01-24,10,2590045f-0fec-48ff-acef-ee88f095ecf9,cheese,dairy,4.12,1,0,Loyalty Rewards Points,card,rainy,3.16
+ca9e2830-3949-4126-bb3d-273ae31a552a,2023-08-19,19,a4c45252-c455-4054-92b5-529da15c57e9,bananas,produce,13.49,1,0,Loyalty Rewards Points,cash,stormy,9.48
+80132e97-4262-4a3a-925d-b25abf9704dc,2023-07-17,21,06ce4323-92aa-4304-af4c-1bd7b8c57b07,onions,produce,9.25,1,0,Free Gift with Purchase,cash,sunny,6.0
+65d5b7a8-0884-4cc8-8cfc-3a8267cf9108,2024-02-13,20,b549d1af-7e35-4aa2-a069-ee6fc8e6c240,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,cash,stormy,9.11
+65d5b7a8-0884-4cc8-8cfc-3a8267cf9108,2024-02-13,20,b549d1af-7e35-4aa2-a069-ee6fc8e6c240,carrots,produce,1.09,2,0,Loyalty Rewards Points,card,stormy,0.77
+8a4d6bb5-2f53-4fd0-a23f-d6eb9e466f98,2024-02-10,12,c4a0408d-5ea4-4474-ac6c-ddbe5e2e624e,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,sunny,2.97
+644d9a57-75ce-498a-9abd-a557e07652e1,2024-02-14,20,a41bcbde-f29e-47a9-86cd-b45eaeac8b5e,chicken,meat,6.91,1,0,Loyalty Rewards Points,cash,rainy,4.76
+f349e4e8-00f8-4d6f-8934-5cc9806da95b,2023-11-08,12,cbfd085a-1116-49ea-ad6d-7545e380b08c,rice,grains,1.37,1,0,20% Off Entire Purchase,card,stormy,0.9
+dad4802d-d06b-4a19-ba78-a76487731a77,2023-07-27,13,1dcf785c-34a7-4e07-97a8-f847e013dae7,chips,snacks,5.71,1,0,Buy One Get One Free,cash,stormy,4.0
+dc86624d-7580-4dae-bd29-fdb6f5929aae,2024-04-12,20,7038630c-b6d2-4f81-b0ad-ef896dcdf6dc,lettuce,produce,12.33,1,0,Loyalty Rewards Points,card,rainy,9.49
+0c0bc582-6015-4e86-85d6-7c61e3c1362b,2024-01-16,16,ea652d1d-d658-4ee4-9447-568404b38422,onions,produce,9.25,1,0,Loyalty Rewards Points,cash,stormy,6.82
+8435e55a-c1a6-4fda-be50-c2ea9840528e,2024-03-08,14,320eb118-d8f4-4d57-be16-c702e55593d0,grapes,produce,2.22,1,0,20% Off Entire Purchase,cash,cloudy,1.58
+cc99cd37-c978-43c3-818b-0627b037e94f,2024-05-22,9,2722d15c-5653-460e-a775-02b81609aff7,coffee,beverage,5.76,1,0,Loyalty Rewards Points,cash,rainy,4.37
+e6db962c-6f62-464b-b9dc-1e938b2d327c,2024-05-08,19,67076e0c-ded2-4fa2-9fab-1375661f52dd,butter,dairy,1.35,1,0,Free Gift with Purchase,card,cloudy,0.87
+d580361f-1cd0-4443-9e3f-083f60d3f409,2024-02-14,16,1e42f672-2f61-46ae-8219-e177d3df946f,cereal,grains,10.1,1,0,20% Off Entire Purchase,cash,sunny,6.38
+451f71a2-31ec-46bd-9f33-90ef0c3065b8,2024-02-15,19,2b86bf68-35e3-4218-9e5a-86a4e565c7c2,chips,snacks,5.71,2,0,Loyalty Rewards Points,card,cloudy,3.87
+451f71a2-31ec-46bd-9f33-90ef0c3065b8,2024-02-15,19,2b86bf68-35e3-4218-9e5a-86a4e565c7c2,chicken,meat,6.91,2,0,Loyalty Rewards Points,cash,cloudy,5.18
+ffc8351b-31c5-4576-9b31-545795b9a34e,2023-06-21,19,98adae9b-55e5-4f1f-a213-d9609b7a8da6,butter,dairy,1.35,1,0,20% Off Entire Purchase,cash,stormy,0.97
+783f8418-ba6b-4145-a8ab-966650447fd8,2024-01-07,12,e5d35ea8-4f52-4051-aa06-a3369f36fe21,cheese,dairy,4.12,1,0,Buy One Get One Free,cash,sunny,3.03
+ff50c83d-a308-443c-b18e-def41f88debf,2023-06-20,11,757054b0-9f2f-4194-9b73-58f3b058f2d0,butter,dairy,1.35,1,0,Buy One Get One Free,cash,rainy,0.91
+925682c2-dfcf-4b07-a561-6f066bc0cfd7,2023-09-04,14,6d0ba009-2a19-4163-83e2-46c42d861f51,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,rainy,1.56
+03d71f40-c299-4c60-a63b-13c8f254c402,2024-02-19,11,e5dfe86a-9ae5-405c-91ff-d5a10b0ea9a8,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,sunny,0.98
+c6544dae-ba31-4f1d-9e7c-2629282c5d38,2024-04-16,18,f76c9067-02d0-4236-93e7-5fb6b2317cc6,orange juice,beverage,12.28,1,0,Free Gift with Purchase,card,cloudy,8.17
+4ec1c242-ea10-4452-a43e-5bc9e5aac159,2023-09-14,21,52e8adfe-a467-494b-8616-c05695e62ba7,soda,beverage,10.77,1,0,Buy One Get One Free,cash,stormy,7.61
+de4567da-dca9-415c-98fd-25df3d86bcdd,2024-01-01,14,9701fcd2-7f99-4701-8b87-7763ba1275cf,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,rainy,2.75
+e0437ebb-9de0-4412-a543-509c8dc1b37d,2024-04-18,12,7cc2bfec-0f90-446f-9ab5-6937f18f59d4,cheese,dairy,4.12,1,0,Free Gift with Purchase,cash,stormy,2.73
+fb3c7ea5-96c2-450e-ba16-03b364898a51,2024-01-24,20,e817acf2-6425-448f-98a7-936a512a857f,chocolate,snacks,2.3,2,0,Buy One Get One Free,card,rainy,1.58
+fb3c7ea5-96c2-450e-ba16-03b364898a51,2024-01-24,20,e817acf2-6425-448f-98a7-936a512a857f,soda,beverage,10.77,2,0,Loyalty Rewards Points,cash,rainy,8.16
+93eba883-02ba-44e0-a22a-9758b7259384,2023-07-01,21,16fe1e5f-f03b-40f5-b3f4-70c546a8e1d0,fish,seafood,8.07,1,0,20% Off Entire Purchase,cash,cloudy,5.33
+58f81d64-376e-44e4-a8ef-983f286d41d0,2023-11-06,19,a4316803-a01f-4580-b525-b0718ef62546,ice cream,dairy,12.86,1,0,Buy One Get One Free,cash,cloudy,9.23
+0e15b073-a1fa-4733-b9f3-e31e96b858e9,2023-12-09,21,c4dd1a04-851e-484a-b160-f3bbb38a41a6,fish,seafood,8.07,2,0,Free Gift with Purchase,cash,stormy,5.23
+0e15b073-a1fa-4733-b9f3-e31e96b858e9,2023-12-09,21,c4dd1a04-851e-484a-b160-f3bbb38a41a6,tea,beverage,3.18,2,0,20% Off Entire Purchase,card,stormy,2.34
+abbeb551-3dc1-4621-9b06-1d3a734b2211,2024-05-01,11,a965dee3-1f87-4e1c-a421-fcea0c16f7ba,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,rainy,6.31
+31f8cf72-7679-4dc4-81c8-70836784334a,2023-07-08,16,17fddc64-506d-4843-8b1f-78e8d20cf3b0,pork,meat,4.06,1,0,Loyalty Rewards Points,card,rainy,3.01
+e4692cd9-b9f5-4c70-999d-e53db3931893,2024-04-19,11,de5e38d1-e95a-4c55-a540-4bce0fb64caa,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,cloudy,2.3
+41f9c68d-ffe7-4148-97fb-d266c5f80d66,2023-06-07,10,3a36f9c8-07b2-4ae7-b37f-914683db1467,onions,produce,9.25,2,0,Free Gift with Purchase,cash,stormy,6.42
+41f9c68d-ffe7-4148-97fb-d266c5f80d66,2023-06-07,10,3a36f9c8-07b2-4ae7-b37f-914683db1467,cheese,dairy,4.12,2,0,Free Gift with Purchase,card,stormy,3.07
+048579e1-55a2-401d-945a-8f72e33106b9,2023-11-26,19,385a131f-c6a3-4c5a-bc0f-ef7e8e3f3fa4,carrots,produce,1.09,1,0,Free Gift with Purchase,card,cloudy,0.82
+d64cff9d-36cb-4d1c-b065-2640f444c23a,2023-06-02,19,826d35c9-33dd-4184-a207-a9ddeafac7dd,cereal,grains,10.1,1,0,Free Gift with Purchase,cash,sunny,7.65
+343fd988-2edf-4cda-8d7f-8fc67fea7e78,2024-03-15,10,9deef194-46d3-4221-b295-382d42e16e3c,butter,dairy,1.35,2,0,Buy One Get One Free,card,cloudy,1.04
+343fd988-2edf-4cda-8d7f-8fc67fea7e78,2024-03-15,10,9deef194-46d3-4221-b295-382d42e16e3c,beef,meat,1.42,2,0,20% Off Entire Purchase,cash,cloudy,0.94
+33c85fa8-83e6-4f99-8576-6852da76cdcc,2023-07-06,16,39e616ab-cb5c-4f4a-8f39-1e6f35bad62a,tea,beverage,3.18,1,0,Loyalty Rewards Points,card,rainy,2.31
+b878f09e-5ef9-49f9-9909-61fff0356aa8,2024-05-20,15,d99d4265-45e7-4d83-9c44-7eafc3dc0ff3,carrots,produce,1.09,1,0,Free Gift with Purchase,card,sunny,0.75
+6fa8ef91-58b7-47ba-9857-7d568d6a6a29,2024-05-16,20,66d98e6e-d94f-4c42-9f84-925c64f13080,cereal,grains,10.1,1,0,Free Gift with Purchase,card,rainy,7.71
+02f4fe86-42cc-42cf-9756-06624ff4d4ce,2024-02-29,19,03378517-6d73-43fd-9cb4-8cb2e5257ef4,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,cash,rainy,8.35
+60c57719-e5b6-4d2b-bd46-82b891915d4d,2023-07-17,12,dd7d37ba-ffca-4d48-8928-09803db05e7b,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,card,sunny,1.6
+dbc8c0c2-e849-4c99-8583-ccf613f9ca3f,2023-09-25,9,8a40a9a9-f20e-4c52-97b9-27cfda0a5877,eggs,dairy,11.31,1,0,20% Off Entire Purchase,card,rainy,8.37
+b2203144-b2d0-462c-a9d8-8032c5c0c2c7,2024-02-09,21,2b87684a-af13-4466-86b7-6e4244c9c740,chocolate,snacks,2.3,1,0,Free Gift with Purchase,card,cloudy,1.73
+55598341-4a48-4fba-9b0d-44561393aa00,2023-06-02,21,be6e11dc-e1d4-43e4-b1a5-3babbcb2e72c,eggs,dairy,11.31,1,0,Free Gift with Purchase,card,sunny,8.69
+d58486fd-269d-4bc6-ad04-50ddc0ea84f3,2024-02-17,10,dfea5f5d-681b-428f-a177-70f3bb1c7b40,fish,seafood,8.07,2,0,Free Gift with Purchase,card,sunny,5.97
+d58486fd-269d-4bc6-ad04-50ddc0ea84f3,2024-02-17,10,dfea5f5d-681b-428f-a177-70f3bb1c7b40,chips,snacks,5.71,2,0,Buy One Get One Free,card,sunny,3.74
+618e9096-9730-473f-beec-5f3d1a53d45a,2024-01-30,20,cf3466e9-87e5-4401-b0d8-df6e189b2020,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,stormy,2.03
+a83d7382-2956-4a46-85c6-d3f1c229e574,2024-05-22,17,ce617401-ca11-4ca9-9c24-a3cfff11d4b1,grapes,produce,2.22,1,0,Buy One Get One Free,cash,sunny,1.69
+90849fca-2c99-4ae2-b644-2e0e51440e12,2023-12-06,16,fb500865-8732-4ec9-bbe8-d6c1c1783e33,tomatoes,produce,8.63,2,0,Buy One Get One Free,cash,sunny,5.92
+90849fca-2c99-4ae2-b644-2e0e51440e12,2023-12-06,16,fb500865-8732-4ec9-bbe8-d6c1c1783e33,yogurt,dairy,2.35,2,0,Loyalty Rewards Points,card,sunny,1.71
+942caacc-ab00-4989-9b72-a7a694a13d0c,2023-09-27,10,e25f74cc-efcf-44b4-952b-abe6ed4f4ef1,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,rainy,3.14
+35218d7c-f506-4348-b9e7-418bd8e63c02,2023-10-13,18,4dbd10b3-8d7c-48be-bf9e-77d0df09f8d0,carrots,produce,1.09,1,0,Buy One Get One Free,card,rainy,0.75
+45e8fb2d-c2d0-4d19-8162-e814f426b7a8,2024-03-20,15,2532cc0d-bbd4-4464-b87d-43fe4052be8a,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,stormy,2.56
+5eab532b-f702-4c2e-a453-affb131e7d60,2024-05-10,15,d0a10b13-49ad-4a30-86f6-8afba1ecb5e5,pork,meat,4.06,1,0,Free Gift with Purchase,card,sunny,2.94
+c202b8dd-0141-4027-9669-c1e688fd9953,2024-02-22,19,72f9c967-cd01-4f71-9d60-4cfd8f780629,chocolate,snacks,2.3,2,0,Buy One Get One Free,cash,stormy,1.48
+c202b8dd-0141-4027-9669-c1e688fd9953,2024-02-22,19,72f9c967-cd01-4f71-9d60-4cfd8f780629,milk,dairy,4.85,2,0,Buy One Get One Free,cash,stormy,3.61
+ea20815a-4f5c-4d45-82e8-e8fa0aa695b1,2023-07-21,19,a934dd55-416e-483e-a60c-2e2adb9c24dc,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,card,sunny,1.7
+939038b1-3385-4eec-bce2-eea1c954c71e,2024-01-30,13,f92f4d63-2385-4a2e-a795-365ebbfe796c,lettuce,produce,12.33,1,0,20% Off Entire Purchase,cash,rainy,8.64
+8864c1a0-90b1-426b-8f7a-1079a9638841,2024-05-11,12,c70c82e8-04bb-4e86-a47d-7d514b8c0150,onions,produce,9.25,1,0,Free Gift with Purchase,card,sunny,6.3
+4989bc8f-2f06-4408-b95a-e6c5f05d873b,2024-04-18,21,0a4833d9-7652-4761-9b82-f8699a412922,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,stormy,10.72
+efc24a58-fd7e-4556-881d-76c4e28f5930,2023-12-19,9,7e184d35-ff9b-4667-96fc-74a7a633dece,cookies,snacks,14.4,1,0,Free Gift with Purchase,cash,cloudy,9.69
+f9d7d9a5-7fed-411a-bb6f-8a64cc392467,2024-01-31,9,432c4469-6657-41f9-ada7-ee17e293cfe2,lettuce,produce,12.33,1,0,Buy One Get One Free,card,cloudy,8.9
+a9f6b7fc-b60e-4691-87e7-84f352fdfc5e,2024-05-15,20,84716b7e-d89c-4551-9d98-4ba9975a1a2a,potatoes,produce,4.09,2,0,Loyalty Rewards Points,cash,sunny,2.79
+a9f6b7fc-b60e-4691-87e7-84f352fdfc5e,2024-05-15,20,84716b7e-d89c-4551-9d98-4ba9975a1a2a,bananas,produce,13.49,2,0,Free Gift with Purchase,cash,sunny,8.8
+556d529d-4331-4626-bf0f-f9c0f1e06a94,2024-01-18,21,18765b7a-65d5-4860-897e-3fdc15e67ac5,eggs,dairy,11.31,1,0,Buy One Get One Free,card,sunny,7.37
+6a23a6ef-e67a-48e8-b377-d1495d0b4010,2023-07-25,13,318ac0f6-7b45-42a7-a380-27da3df96774,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,cash,stormy,6.17
+6647406a-7dcb-4f61-adec-178e8eab7e19,2024-03-08,12,5eb7b54d-ba27-4189-8d6d-eeb53e71bb6c,cheese,dairy,4.12,1,0,Loyalty Rewards Points,cash,sunny,2.76
+a67b4fe9-b408-4477-9f05-fa689fac37c7,2023-10-04,9,e299460a-b2cf-4553-b9e1-0761d06ee5a0,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,cloudy,0.7
+8b2403ca-47d9-4615-bc40-bac304fc8c5f,2024-04-27,12,258e74ed-4d4b-463f-af1d-a73bc37f6624,beef,meat,1.42,1,0,Buy One Get One Free,cash,cloudy,0.96
+3294230b-1459-44e4-aaea-85e8ce6e814f,2023-06-28,20,cbe0ad82-44ad-4ebe-8a91-2c5886ff15d4,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,stormy,0.97
+c49b219b-2ba8-4703-9349-b924cb617084,2023-07-09,10,8442b70d-ebbf-4ffa-bb8f-c3218b83de89,butter,dairy,1.35,1,0,Loyalty Rewards Points,card,stormy,0.93
+4b2a9640-b791-40f4-94ab-cc01a5955c83,2024-05-11,14,dd962e34-0fb2-40a1-b397-8160ba97ab11,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,stormy,4.15
+c398cbd7-dd54-46b2-a1b4-edce923e0b21,2024-05-15,15,6d05b668-b1c3-4754-9d51-d219fcac2fe4,apples,produce,10.47,1,0,Loyalty Rewards Points,cash,sunny,7.77
+85055e94-3d7e-4328-81e6-f0f8bfc53083,2023-08-26,10,adedf2c0-8d31-415e-8b0f-a5d337bbaaea,grapes,produce,2.22,1,0,Loyalty Rewards Points,card,stormy,1.53
+ee2be0f2-2852-4d02-9f82-26f98565303d,2023-06-29,15,19d9ec8e-793d-4421-9e69-4a9ade267e74,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,rainy,1.5
+5cc194be-ac61-44d1-a9f8-fb00c3744dc5,2023-11-07,17,febb9eb0-e9e6-434b-a55e-b8fb748522cc,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,sunny,10.21
+e087649e-2c31-490f-8f83-d409d4a0e104,2024-02-29,20,616806f0-8adf-4b02-83fb-8cfbf3a7293c,eggs,dairy,11.31,1,0,20% Off Entire Purchase,card,cloudy,7.53
+551fa416-fd60-4fc6-8674-ccd588e1e1ac,2024-01-16,21,09ab6786-bed6-4bff-b600-926186d2e657,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,sunny,10.34
+80070fbe-0a4a-4490-a87c-908d59ecea30,2024-03-23,19,0d7acb53-81cd-473d-aad0-45dc6dc3ff03,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,rainy,8.28
+9b83868c-d63f-4fef-ac0f-9a3a1534a4ab,2023-06-22,16,ff1a5530-7007-40a4-bcb2-3e2457dda62a,chips,snacks,5.71,1,0,Buy One Get One Free,cash,stormy,3.82
+99cd3a5f-5661-4ec9-8bc9-4cccf21808db,2024-02-09,17,52f682fc-7a0f-4710-8dae-fed5d0366a23,cereal,grains,10.1,1,0,Free Gift with Purchase,cash,sunny,6.42
+0b549e55-f0e6-42f2-9033-11007088accf,2024-03-24,10,7b5d331d-1dce-4c36-b6e1-3f68da11ec9e,potatoes,produce,4.09,1,0,Buy One Get One Free,cash,sunny,2.8
+8570f9ff-b267-4ce1-8d55-e7cd65323ba5,2023-10-16,21,501d2272-8594-4fd0-8317-4c2d34caa32d,tomatoes,produce,8.63,1,0,Buy One Get One Free,cash,cloudy,6.04
+87514bc2-da4e-46e4-9cba-e4af609eea71,2024-05-16,10,5f663826-e1fa-4d05-bd32-589330a8d5aa,milk,dairy,4.85,1,0,20% Off Entire Purchase,card,rainy,3.4
+93d0ca58-fbda-42cf-bc34-b1b89a99935c,2024-03-03,12,c015654e-301d-426e-947d-d628ca3f96c1,potatoes,produce,4.09,1,0,20% Off Entire Purchase,cash,stormy,2.88
+7312e8d1-608e-4297-82b9-229a203aa440,2024-03-04,14,e34135da-0d50-402c-b925-ab211df23535,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,rainy,9.75
+b62f6bfc-805e-4c8a-b84b-99487d056197,2023-08-22,10,6744d24e-9089-4dde-b242-665aa33da037,soda,beverage,10.77,2,0,20% Off Entire Purchase,cash,rainy,7.21
+b62f6bfc-805e-4c8a-b84b-99487d056197,2023-08-22,10,6744d24e-9089-4dde-b242-665aa33da037,rice,grains,1.37,2,0,20% Off Entire Purchase,cash,rainy,0.88
+0a23ef24-777b-4290-8044-7e986f5fd17e,2023-06-17,13,243240df-8fd1-408b-a8ad-11face8da950,coffee,beverage,5.76,2,0,Loyalty Rewards Points,cash,stormy,3.88
+0a23ef24-777b-4290-8044-7e986f5fd17e,2023-06-17,13,243240df-8fd1-408b-a8ad-11face8da950,milk,dairy,4.85,2,0,Buy One Get One Free,cash,stormy,3.61
+d2c20c63-c951-462b-b71b-82e9508ca96a,2023-12-10,17,4258c723-f33a-450e-b10e-80b2a8ae72c6,beef,meat,1.42,2,0,Free Gift with Purchase,cash,rainy,1.08
+d2c20c63-c951-462b-b71b-82e9508ca96a,2023-12-10,17,4258c723-f33a-450e-b10e-80b2a8ae72c6,apples,produce,10.47,2,0,20% Off Entire Purchase,card,rainy,6.88
+a4b07c4b-235e-418c-a8c7-fc520e986e74,2023-06-09,10,97cb41e2-3b1c-499c-9a23-4459bbd514f0,cheese,dairy,4.12,1,0,Buy One Get One Free,cash,rainy,2.89
+41b72890-73f1-436f-986f-9532d8c7474e,2024-05-07,21,94eb8dc2-1437-4751-803d-3b4a3fd70f85,eggs,dairy,11.31,1,0,20% Off Entire Purchase,cash,cloudy,7.38
+63d82e3d-bc61-401d-8607-3456a918d808,2023-12-09,9,e2e629d8-5e3c-47ea-9c02-e9c0c0487529,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,stormy,2.11
+1e56dd98-c4b1-40ad-855e-ee94c1a868ec,2024-01-21,21,9d80ce34-4a29-4f2c-b588-ea35e23488c2,grapes,produce,2.22,1,0,Loyalty Rewards Points,card,stormy,1.49
+e4c7307d-4369-418f-82b8-6906f47717bc,2024-03-19,14,82995742-f4cc-43f7-94d7-0de7d078f32e,beef,meat,1.42,1,0,Loyalty Rewards Points,card,stormy,1.05
+4488dbf5-ca42-405c-a017-219a0809d15d,2023-06-18,12,4d95e069-58ea-4a2a-b82e-b0e413566cb6,butter,dairy,1.35,1,0,Free Gift with Purchase,card,cloudy,0.97
+40eb8f54-fb8e-4c7e-8401-ef2b4c72c71c,2023-11-18,20,b5a8b682-d896-4556-86ee-ce0e49059d37,cookies,snacks,14.4,1,0,Loyalty Rewards Points,card,sunny,9.4
+218c67bb-0712-4e95-ba4e-f8e085c2199d,2023-06-11,15,8caf2e2d-7a6d-4838-b3fa-cf46a8b70659,grapes,produce,2.22,1,0,Free Gift with Purchase,card,sunny,1.65
+7bad25a4-e0f2-45bc-ab25-8dea3c6750b6,2023-07-20,15,d7716c76-fac8-4695-bc74-7b177912fbd4,fish,seafood,8.07,1,0,Buy One Get One Free,cash,sunny,5.35
+cc7716fc-b515-488f-8448-b548d50ca202,2023-06-25,12,5def2e39-ea1b-48b4-bac2-1aadbc84accf,cheese,dairy,4.12,1,0,Free Gift with Purchase,card,sunny,3.08
+4520a6e7-fe33-4047-84f1-7fc41eb6d19e,2024-03-29,11,7dada920-ddbc-4e96-abd0-188961008a8a,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,sunny,1.6
+ab052f3e-d36e-4b97-ad9d-b7c0a32281ae,2023-06-06,16,2242adaa-188a-4cc2-865b-597c61fe1914,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,sunny,6.63
+68deae05-f466-46e5-853a-ba1355a1b779,2023-10-24,10,92f335d7-46ac-4d10-b45e-b864d2bc1721,cheese,dairy,4.12,1,0,Loyalty Rewards Points,cash,rainy,2.62
+e4df564b-29d7-4bb3-abdc-39e34866c578,2023-10-29,10,8b98505c-ca21-4d33-9e1e-fb0ab33dee5d,tomatoes,produce,8.63,1,0,Buy One Get One Free,card,sunny,6.16
+ad1dd77b-cff9-4240-af14-f43a1be4190c,2024-01-18,20,2d0bdb0b-4998-49f5-bad8-823e6557151d,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,cloudy,7.12
+cdf56457-ec19-4ae2-93c9-72e562860837,2023-12-12,11,92b71842-ac8b-4762-a8ef-d889e77287a2,fish,seafood,8.07,1,0,Buy One Get One Free,cash,sunny,5.16
+3654acd3-1ad5-46fb-a417-ccc71eb7d090,2024-02-26,16,88e17cd1-5cc9-4403-a624-1e0ea49699c4,fish,seafood,8.07,1,0,Buy One Get One Free,cash,sunny,5.37
+046a0c4e-5a48-4d6c-8ef0-434a8cd38c64,2023-06-12,21,efd8afcd-588c-40d6-aebb-0fc8801ef06c,tea,beverage,3.18,1,0,Buy One Get One Free,cash,sunny,2.3
+9cd97458-3f70-49d9-afc7-53bfa136a384,2023-10-15,11,f0abc9ed-0f7a-47fc-9b57-fb3a5f5ae0cc,pork,meat,4.06,1,0,20% Off Entire Purchase,cash,sunny,3.02
+7fd8cced-a821-48c2-a456-f3a56c498b1e,2023-11-28,20,90d9ca5b-e0d8-4709-aa14-ea43406262f4,chips,snacks,5.71,1,0,Loyalty Rewards Points,card,stormy,3.71
+f96758d3-3998-4366-97aa-c79e0e18768f,2024-02-22,13,420f2e84-5973-44c5-b452-e6c91f9d22b3,bananas,produce,13.49,2,0,Free Gift with Purchase,cash,cloudy,8.58
+f96758d3-3998-4366-97aa-c79e0e18768f,2024-02-22,13,420f2e84-5973-44c5-b452-e6c91f9d22b3,ice cream,dairy,12.86,2,0,Loyalty Rewards Points,cash,cloudy,9.88
+11e701e7-638a-46d5-8dc9-7a223516c6c1,2024-01-07,9,35ae4217-a7c2-4501-ac96-38b6487ab24a,yogurt,dairy,2.35,1,0,Free Gift with Purchase,cash,cloudy,1.74
+7e469f9b-3f0c-4ccd-96d9-866b070d718e,2023-07-06,10,a1d2a3ac-3edb-49e6-9bd5-13a8d28f6f65,rice,grains,1.37,1,0,Loyalty Rewards Points,cash,rainy,1.01
+c9134a77-0295-4a8c-bdd5-9d974377b55f,2024-04-28,11,3d5eb83e-5325-4d49-acd7-6e2498797ac1,fish,seafood,8.07,1,0,Free Gift with Purchase,card,stormy,6.13
+b7b8c536-dd53-480d-8a67-a579e06bb64d,2023-06-23,20,3a51aaae-325d-49c2-9a53-44b957746d59,carrots,produce,1.09,2,0,Free Gift with Purchase,cash,stormy,0.71
+b7b8c536-dd53-480d-8a67-a579e06bb64d,2023-06-23,20,3a51aaae-325d-49c2-9a53-44b957746d59,chocolate,snacks,2.3,2,0,Free Gift with Purchase,cash,stormy,1.48
+b18c3903-1cfc-45dc-b45c-417b00d5a36a,2024-05-09,13,8dfe90af-1550-493c-9b89-16906c24c902,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,stormy,2.47
+e506759a-444f-4a85-83e1-1647ee5017cf,2024-03-19,16,a704ced4-dfb9-47ea-8a0b-6073473d3581,pizza,frozen,9.45,1,0,Loyalty Rewards Points,cash,sunny,6.42
+86767ef4-8d2c-4bef-ae7a-f6a763cf0064,2023-07-06,19,de23b2c2-7111-4df5-822d-48e5db9dd4a1,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,card,sunny,8.36
+86767ef4-8d2c-4bef-ae7a-f6a763cf0064,2023-07-06,19,de23b2c2-7111-4df5-822d-48e5db9dd4a1,rice,grains,1.37,2,0,Loyalty Rewards Points,card,sunny,0.89
+4ebddb96-8bed-45b0-9958-1ceae4840d46,2023-10-09,11,76b8e135-37fb-4bbf-888f-f830a0707910,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,sunny,8.37
+fe583456-b694-487d-9a2b-cf5eb773b691,2024-02-24,18,5c5ce234-1b12-41a2-9f3c-2c185e1efd01,fish,seafood,8.07,1,0,Buy One Get One Free,card,cloudy,5.5
+494831aa-2f01-4bd3-a8de-ee0ed40f2649,2024-01-14,17,b3f771e9-86ea-46eb-8f67-86ec08e12657,orange juice,beverage,12.28,1,0,Buy One Get One Free,card,rainy,8.22
+bbd8c103-1358-4972-a268-208c148365fb,2023-08-07,20,a18147ea-d619-4a01-b29e-247453a67629,rice,grains,1.37,1,0,Buy One Get One Free,cash,cloudy,1.04
+33897a40-8684-4a1f-82bc-e668744c26a6,2024-05-03,21,2a99b074-1550-43d2-9f29-a86d9b56f742,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,rainy,10.38
+e20d3edf-8b6d-4dc1-b882-19c3e5d0e035,2023-12-01,12,05af4037-3e51-46e4-aeff-4dc0b7fd80cb,milk,dairy,4.85,2,0,Loyalty Rewards Points,card,sunny,3.17
+e20d3edf-8b6d-4dc1-b882-19c3e5d0e035,2023-12-01,12,05af4037-3e51-46e4-aeff-4dc0b7fd80cb,cereal,grains,10.1,2,0,Free Gift with Purchase,cash,sunny,7.51
+3d4dfa31-8c26-46f1-a905-89bf9ec99800,2023-09-21,20,518f64be-6a3d-4430-8528-8e2d2c03feee,beef,meat,1.42,1,0,20% Off Entire Purchase,card,sunny,1.07
+a5272c7a-4d5b-4b77-9311-a869192b03bd,2023-07-07,21,6e6f007e-d9fa-41e6-b0bc-8f079d94b1e6,cheese,dairy,4.12,1,0,20% Off Entire Purchase,card,rainy,3.16
+0e592d34-111f-48ca-91c5-584160f9d07d,2024-05-27,21,5e7c4196-7bb3-48a6-8786-004dfde14342,onions,produce,9.25,2,0,20% Off Entire Purchase,card,stormy,6.31
+0e592d34-111f-48ca-91c5-584160f9d07d,2024-05-27,21,5e7c4196-7bb3-48a6-8786-004dfde14342,lettuce,produce,12.33,2,0,Loyalty Rewards Points,cash,stormy,7.88
+048e1f1d-25e5-4ef1-a734-3ed6133d1a1d,2023-09-03,17,e3da3e85-6ef2-49a2-90b8-64c138d40c1f,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,stormy,1.63
+b3236d9f-4c0f-4f77-9d50-9066c3a031c3,2023-11-29,19,0a7b2655-f2bd-4150-9d6d-3691a25df38b,soda,beverage,10.77,1,0,20% Off Entire Purchase,card,sunny,7.57
+f8a2b999-cb1a-4e4e-801b-0607f54d1241,2024-01-02,21,07648c5f-685c-4cdd-be59-c28e803c8edb,pizza,frozen,9.45,1,0,Buy One Get One Free,card,cloudy,7.1
+c9c9e30f-c084-4ac0-950d-66e1eb0065aa,2023-06-30,13,5d04b010-7a73-437b-b5c3-3f90be203548,pizza,frozen,9.45,1,0,Free Gift with Purchase,cash,cloudy,6.89
+e106d1eb-d8b9-40dd-8229-494f2ea86541,2024-01-08,10,aff56bc3-e1c2-4f35-b769-d776e6fe6970,onions,produce,9.25,1,0,Free Gift with Purchase,card,rainy,6.18
+a0c036b6-cd85-435b-b1ee-76c7dd490737,2024-01-27,17,e83705f8-8662-41b8-8b39-f38772e08c82,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,cloudy,8.03
+cfaf77d8-d211-40d1-961f-ec844a10d670,2023-12-12,9,b2e124fb-aafa-4751-8eee-335871efa762,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,cash,sunny,8.73
+cfaf77d8-d211-40d1-961f-ec844a10d670,2023-12-12,9,b2e124fb-aafa-4751-8eee-335871efa762,cookies,snacks,14.4,2,0,Buy One Get One Free,cash,sunny,10.32
+c14e863d-2ebc-42a7-b9d5-6fe9c0eaabc5,2024-05-25,19,ed4dd2ce-12f4-49c8-bd81-eece3974f6ad,beef,meat,1.42,1,0,Loyalty Rewards Points,cash,rainy,0.99
+a2630d09-bc8b-4bb3-91d6-0ce8cb99e827,2024-03-21,16,a4a2eaa6-b1f1-4dd1-b865-ea647d30854c,apples,produce,10.47,1,0,Loyalty Rewards Points,cash,sunny,7.24
+f9ddb191-39eb-433c-8622-ee8ba492daf1,2024-04-25,12,ec2716d2-7b19-41a9-99af-8d37e174b0d7,pork,meat,4.06,1,0,Free Gift with Purchase,cash,rainy,3.05
+125878e9-7365-4233-8719-5e4c319b6b36,2023-12-18,15,64c7f725-8543-4bf3-a184-4479cb6df214,potatoes,produce,4.09,1,0,Free Gift with Purchase,card,cloudy,2.9
+2088a0a5-fc46-47ec-b1a2-02229daad48a,2024-05-17,16,b5b17505-c402-4b42-9793-4ffb02cf1324,grapes,produce,2.22,1,0,Buy One Get One Free,cash,sunny,1.44
+785c594f-e180-4f8d-9307-c5bfb73048c1,2024-05-02,15,8d5a6458-def9-42b7-9e91-6fadae27ba4a,yogurt,dairy,2.35,1,0,Free Gift with Purchase,cash,stormy,1.78
+2de86df6-39f6-45b3-af2d-efa562a765cb,2023-07-28,12,cccbda01-5af4-4b68-b4fe-3bb7a987d68a,potatoes,produce,4.09,1,0,Free Gift with Purchase,cash,cloudy,2.84
+f773f77c-73c6-4a60-a06d-76e6da282c4a,2024-03-21,9,84994a07-dd78-468d-bfdf-8a8571cbefbf,potatoes,produce,4.09,1,0,20% Off Entire Purchase,card,sunny,2.84
+594200ec-b2ea-423d-ba48-d43e8522553c,2024-05-26,18,dc7daeeb-a772-4fb0-a338-5666923c189a,beef,meat,1.42,2,0,Loyalty Rewards Points,cash,rainy,1.01
+594200ec-b2ea-423d-ba48-d43e8522553c,2024-05-26,18,dc7daeeb-a772-4fb0-a338-5666923c189a,tomatoes,produce,8.63,2,0,Buy One Get One Free,cash,rainy,6.09
+086fdc53-0f58-4b0e-81a3-9dabd69156d8,2023-12-01,11,140f8b79-001e-4b9e-a9ea-6990e812e006,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,rainy,9.88
+f8e31dce-f75f-4b9f-9678-bd113ac8ea18,2023-10-05,9,c56de621-48e0-400d-9c16-19e818aed2a8,beef,meat,1.42,1,0,Loyalty Rewards Points,cash,cloudy,0.91
+3a6fd638-a2fe-460b-b3da-7c1a82cde379,2023-12-16,18,f3680446-c1a2-48da-8c59-bb3f797bc01d,cheese,dairy,4.12,2,0,Free Gift with Purchase,cash,sunny,2.81
+3a6fd638-a2fe-460b-b3da-7c1a82cde379,2023-12-16,18,f3680446-c1a2-48da-8c59-bb3f797bc01d,rice,grains,1.37,2,0,20% Off Entire Purchase,cash,sunny,1.01
+d44ff48c-508e-4404-a2d1-a513422490a1,2023-12-20,17,f178d566-7cbb-4c3d-baf9-6aff0d58f281,eggs,dairy,11.31,2,0,Loyalty Rewards Points,cash,sunny,7.65
+d44ff48c-508e-4404-a2d1-a513422490a1,2023-12-20,17,f178d566-7cbb-4c3d-baf9-6aff0d58f281,coffee,beverage,5.76,2,0,20% Off Entire Purchase,cash,sunny,3.75
+aa84ac7b-0f6c-4b09-961c-91b1a821a945,2023-10-01,18,2aad312d-da62-4a8a-973a-5a307cf3e4fe,carrots,produce,1.09,1,0,Free Gift with Purchase,cash,rainy,0.8
+f1f53810-4395-4442-9c9f-67f660748175,2024-05-25,17,887637f4-7e7a-4941-8183-3f6ff1dcad91,beef,meat,1.42,1,0,Buy One Get One Free,cash,stormy,0.99
+c704c710-4e95-4e5b-a4b1-32189eeb9bac,2023-10-08,14,ab6d452f-2ccc-4b22-b9c4-fb71a43934b5,lettuce,produce,12.33,1,0,Buy One Get One Free,cash,sunny,8.3
+1ee1e886-9522-4068-ae4b-686cbbdaf064,2023-10-18,13,0998aae2-679e-4412-8910-8b03c840abb5,lettuce,produce,12.33,1,0,Loyalty Rewards Points,card,cloudy,8.6
+6f29ee32-c6ac-48f9-9bc9-3ebc67cc5445,2023-09-11,19,6e69276d-6282-49e6-aa3d-f0d522f424df,coffee,beverage,5.76,2,0,Loyalty Rewards Points,cash,cloudy,3.78
+6f29ee32-c6ac-48f9-9bc9-3ebc67cc5445,2023-09-11,19,6e69276d-6282-49e6-aa3d-f0d522f424df,cheese,dairy,4.12,2,0,Loyalty Rewards Points,card,cloudy,2.84
+a61ec53a-d756-49fe-80ca-586f443c19cf,2023-10-27,15,7dea7c90-7a53-4862-904d-15bfd7ea3e46,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,stormy,2.33
+f48ee29c-da79-42d0-91f1-c1e3ce6c57ce,2024-04-22,17,60496790-e145-4713-ba6f-052b90efd71d,tomatoes,produce,8.63,1,0,Free Gift with Purchase,card,rainy,6.07
+270331a8-9e0d-48ec-9b32-b46d6f030688,2024-02-06,16,4eededdc-3ecd-49d6-ad06-faba61e686ab,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,rainy,7.95
+d75fa82e-9453-46a2-a007-3fd5c94363b6,2023-08-24,12,5bedde00-8cd2-45e7-860f-47b49e208172,beef,meat,1.42,1,0,Free Gift with Purchase,cash,cloudy,0.94
+c1761654-cd5a-4ed1-8649-632e1f9990f7,2024-03-20,20,5e237451-8a94-4a31-888a-0490bd09f2a7,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,cloudy,5.82
+3c8abef4-3649-4919-b6eb-4957dd44ec9f,2023-07-23,13,0975cf74-04bb-4142-8e7d-58cdb8c9624d,onions,produce,9.25,1,0,Loyalty Rewards Points,cash,sunny,6.32
+a3260d80-cd64-41f5-a39c-6da3d32082a7,2023-12-20,21,cb91a0d0-7eda-4ab7-a7c1-1af93e3c5a36,beef,meat,1.42,1,0,Buy One Get One Free,cash,cloudy,1.08
+a336a571-1124-468f-8413-096cc4358471,2023-06-02,16,192ef6d2-72a6-4e11-89a2-8f0119c76846,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,rainy,8.88
+20ad2ef3-2215-44d8-9e40-8ae038297fa9,2024-03-12,11,14d43e49-3052-4e03-baf3-d543384a0c61,lettuce,produce,12.33,1,0,Buy One Get One Free,card,sunny,8.18
+3feef2c5-ca0f-4853-b807-4e9f687d5554,2024-01-12,19,ff041512-4d1b-42e4-89be-351b4ab5553d,pasta,grains,3.78,2,0,Buy One Get One Free,card,cloudy,2.76
+3feef2c5-ca0f-4853-b807-4e9f687d5554,2024-01-12,19,ff041512-4d1b-42e4-89be-351b4ab5553d,pork,meat,4.06,2,0,20% Off Entire Purchase,cash,cloudy,2.56
+8c072052-f343-4c7d-9393-68381ea077be,2024-04-07,19,a8b97d4c-b7e3-40dc-87f0-9945968b70bb,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,stormy,9.93
+a5620dc9-ceed-4169-997a-ad61231d5a35,2023-12-10,13,ffe9611e-f8cb-4341-b47e-833d61242e45,milk,dairy,4.85,1,0,20% Off Entire Purchase,card,sunny,3.5
+afb0f820-12c3-476d-9187-6f827a2b8d96,2023-07-10,11,1f5a7c5f-e7db-4186-8af1-c17a5785fd10,apples,produce,10.47,1,0,Buy One Get One Free,cash,stormy,7.97
+dfa7180c-a4a1-4e42-b5bf-a8f918912ee1,2023-11-18,21,6d1d931f-1324-4c89-adcd-1c450d85702b,tea,beverage,3.18,1,0,Free Gift with Purchase,card,stormy,2.43
+0bc78a49-d844-4d75-ad15-62bbfc6c5b1c,2023-06-09,9,dc767771-49a9-43b9-844b-2c28a1298067,cheese,dairy,4.12,1,0,Free Gift with Purchase,cash,rainy,3.13
+02872ca0-9212-418b-b813-31117f02873b,2024-04-15,16,83a07ce3-caa5-44e2-a4a5-82d6bd58ce70,eggs,dairy,11.31,1,0,Loyalty Rewards Points,cash,stormy,8.47
+fe12b250-0a5f-479a-a4f7-73bf95dc200d,2024-05-01,12,934574c6-fc38-4881-9f9a-70da23b4e41b,tea,beverage,3.18,1,0,Free Gift with Purchase,card,sunny,2.21
+3c977d5a-5ec9-4c0d-8852-90335a3c8513,2023-06-12,9,2b1c17a9-7044-474b-92ee-43834acaa820,lettuce,produce,12.33,1,0,20% Off Entire Purchase,card,rainy,8.93
+2b7d31f0-5d49-4025-bef1-41b2db1033ad,2024-03-10,18,795310b7-9862-4a92-8952-1a02710f02bb,potatoes,produce,4.09,1,0,Loyalty Rewards Points,card,stormy,2.76
+e84eb7ba-6786-4d00-9207-d46be38d83b9,2023-08-30,11,3b0dc34b-e9ce-4bb9-b0f5-4d4750f60c99,pizza,frozen,9.45,1,0,Free Gift with Purchase,cash,cloudy,6.28
+64aa8b1c-5cd3-494f-b044-90cf6dd0790f,2023-12-04,12,3be14c72-dc10-4f4e-8b3b-de758f36dffc,pork,meat,4.06,1,0,Buy One Get One Free,cash,stormy,2.73
+f248a1f5-4278-4a64-b002-7bae5857c185,2023-08-04,19,0cab6a1b-1520-4725-a59e-fdd7e39e772c,butter,dairy,1.35,1,0,Loyalty Rewards Points,cash,rainy,0.98
+8be452b4-9c97-4ad2-8244-8d34c08e98d2,2024-05-23,11,56f2f5f4-e2b4-4fc5-974d-5243ff3d96f4,pizza,frozen,9.45,1,0,Free Gift with Purchase,card,stormy,7.14
+1b81bf1d-bc52-405f-968c-092b31e1172b,2023-10-18,19,883a7def-1f3c-4719-a277-fc0986add298,grapes,produce,2.22,1,0,20% Off Entire Purchase,cash,rainy,1.47
+c7bae56a-02f2-45a6-a8d4-15c1c161292f,2024-02-22,11,1503d224-df33-4fd6-821c-3d47bf93100a,carrots,produce,1.09,1,0,Loyalty Rewards Points,card,stormy,0.74
+d3f10e41-dabd-49b5-978c-af8ecfab8bd4,2024-03-29,21,4abead95-b70d-4d3a-a687-ffd4bd23839f,carrots,produce,1.09,1,0,Buy One Get One Free,cash,cloudy,0.82
+41c9412c-6961-4710-b5de-9d2b5ed70ef5,2023-07-05,17,28853401-4f22-45cc-b56e-66709807091e,lettuce,produce,12.33,2,0,20% Off Entire Purchase,card,rainy,7.87
+41c9412c-6961-4710-b5de-9d2b5ed70ef5,2023-07-05,17,28853401-4f22-45cc-b56e-66709807091e,cheese,dairy,4.12,2,0,Loyalty Rewards Points,card,rainy,2.69
+4e0947ec-e743-4a56-b67d-b0aac2cfbb82,2024-03-08,19,08fef617-1e61-4615-9d9a-c21b4e0df2e7,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,card,cloudy,5.55
+354db796-7495-4213-b066-6569da50efbc,2024-03-27,16,80da2e55-a456-4c8f-82bc-1a08fd053a34,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,cloudy,7.16
+21a1347e-9306-4ea6-8b62-92105b87e261,2023-06-11,20,f4e00b3d-6e17-41e0-a441-be0de5100bd9,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,card,sunny,1.45
+db0081d2-4e50-4d42-a824-a49f0c5003ca,2024-05-21,9,3534aae7-ddba-4f86-8ae5-48d61ab69bc8,milk,dairy,4.85,1,0,Buy One Get One Free,card,stormy,3.42
+b5ff8ba1-5b5b-4476-b830-13e470ab9d28,2024-02-21,16,5ce3f9c1-0b70-499f-8137-4421be273e4f,apples,produce,10.47,1,0,Loyalty Rewards Points,cash,sunny,7.72
+dcbc2025-36fd-4f94-a8ac-e09aa6d81968,2024-04-29,15,f5a29587-affb-45ee-b2c6-188d163f69c4,pizza,frozen,9.45,1,0,Buy One Get One Free,card,stormy,6.45
+71d680c5-3bbf-4863-8e99-3f59804f681a,2024-03-14,19,6f347285-4066-4fac-a0eb-cab251bad522,onions,produce,9.25,2,0,20% Off Entire Purchase,card,rainy,6.51
+71d680c5-3bbf-4863-8e99-3f59804f681a,2024-03-14,19,6f347285-4066-4fac-a0eb-cab251bad522,rice,grains,1.37,2,0,Free Gift with Purchase,cash,rainy,1.01
+f9816e7c-2c92-4df9-aaea-ae50ded885d8,2023-10-30,19,5f9c6204-fe0a-4457-bf42-8060f8a017b4,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,cash,stormy,1.52
+a5f51eb7-0829-4b40-8113-ea0ecc57ceaa,2024-02-01,11,3d23e3a3-f849-4e81-9954-754bd2827439,ice cream,dairy,12.86,1,0,Buy One Get One Free,card,rainy,9.41
+8c0451e3-4ddc-48ca-ba2d-ce2cafd91d87,2023-08-01,21,2ce292c1-074c-4110-ba21-632fd9dcd4b7,pizza,frozen,9.45,1,0,Buy One Get One Free,card,stormy,7.12
+b2c13f74-3791-4066-ab89-4ddb2e2227af,2024-03-07,12,26afc078-2c01-4f42-9c32-f6f7e561aee2,butter,dairy,1.35,2,0,Buy One Get One Free,card,sunny,0.96
+b2c13f74-3791-4066-ab89-4ddb2e2227af,2024-03-07,12,26afc078-2c01-4f42-9c32-f6f7e561aee2,cereal,grains,10.1,2,0,Loyalty Rewards Points,cash,sunny,7.41
+c54f6d69-9353-45a3-819c-7187e1a225de,2024-03-02,12,7846d392-c643-498b-8ad7-a0dede636bb1,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,cloudy,9.19
+e15c07a8-1474-46ad-8593-b01390dc4186,2023-09-08,20,4ac01b65-b2b3-403e-9e6d-3f19db90696b,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,rainy,10.43
+b987368f-c411-4d2b-a982-183f038dd010,2024-01-28,13,d96b8c4d-9754-4cd5-8ea7-9094e2ddb027,potatoes,produce,4.09,1,0,Free Gift with Purchase,cash,cloudy,2.7
+98bec22b-30fa-48cf-81c8-2d18f524a716,2023-11-18,9,729ff4a8-6de8-4b74-ba32-bf51a61a3b30,pasta,grains,3.78,1,0,Buy One Get One Free,cash,cloudy,2.68
+a84b93c4-6cb5-4188-add9-ca8a316688ef,2024-01-22,19,48580db9-2649-4d6f-a0df-3332968913a0,pork,meat,4.06,1,0,Loyalty Rewards Points,card,stormy,2.95
+98ac5029-179e-49cc-a3aa-0c894c89d4b9,2023-10-11,13,3bae4894-761b-42d3-ae89-ef05716d0541,onions,produce,9.25,1,0,20% Off Entire Purchase,cash,stormy,6.44
+ef2c643f-3b01-4846-8564-1f812a484a0d,2023-10-23,20,6cbc53e9-9319-44fb-b458-d2cd407aeed1,pizza,frozen,9.45,1,0,Loyalty Rewards Points,cash,cloudy,6.03
+ed74ba0f-d2dc-4c78-a721-04c6eafa1eed,2023-08-22,17,7f7f08dd-431e-4493-9ad0-3a0813f8e777,chicken,meat,6.91,1,0,Buy One Get One Free,cash,cloudy,4.55
+b479f287-2734-4f61-b089-98a0439e6664,2023-12-29,14,898526f7-8e6e-4e3f-a540-cc0b22183c5d,chocolate,snacks,2.3,1,0,Free Gift with Purchase,cash,sunny,1.51
+93cafcb4-bea7-492a-b90b-607554559476,2023-07-25,19,1fc54c05-8b50-4272-9a78-f23d26f7086f,bananas,produce,13.49,1,0,20% Off Entire Purchase,cash,sunny,10.02
+ebe94294-6b88-4275-8940-190c88bae7d6,2024-02-29,12,317c7855-9a5f-4764-8db4-2a667f262039,pizza,frozen,9.45,1,0,20% Off Entire Purchase,card,rainy,5.97
+84018890-265f-4e32-9949-fb5b90cfe5a2,2023-07-25,20,cb909943-dfc2-40ca-9e43-bd4346208d4d,coffee,beverage,5.76,1,0,20% Off Entire Purchase,cash,stormy,4.12
+311bde5a-41fa-4af6-8bda-5915f74be5f8,2024-04-01,12,db1bea0c-da7f-4450-8920-4485012be624,rice,grains,1.37,1,0,Free Gift with Purchase,cash,rainy,0.95
+0d2b3b5f-0c01-4d19-910c-91ac278a8863,2023-06-06,13,64ed0eb3-9baf-476e-abc1-ddf9527602e7,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,cash,rainy,6.0
+351418e2-9255-4fe1-a92c-71c85d3d6829,2024-02-12,12,895917ca-8df6-46ed-a68c-20dc5ff407a6,butter,dairy,1.35,1,0,20% Off Entire Purchase,card,rainy,0.96
+00eb71e1-356b-4ad1-8bc6-26bbc0be9069,2023-12-11,9,063f5be7-c410-405d-a524-325738b156a2,lettuce,produce,12.33,1,0,Loyalty Rewards Points,cash,rainy,8.77
+fa037593-c73c-4fb7-b196-02d454e2fa93,2023-09-14,11,3f72b776-c2ad-4bc2-8961-fb25446f1399,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,cloudy,0.97
+e911c76a-574b-4e5b-9fd4-6e78f183e815,2024-01-12,17,b0776039-a05a-4699-9ce1-764dbe4763ef,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,cash,rainy,1.61
+b280a5f8-0827-4827-ae46-a8c0f15f89fa,2024-02-25,11,22fce600-53e6-4bdf-bc3c-e35ecb512bda,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,rainy,2.25
+fb1672f6-3241-42ca-8808-8d16a2fdfac3,2024-04-02,17,3f05eea3-85bb-4371-ae07-d324ea15edc2,milk,dairy,4.85,1,0,Buy One Get One Free,card,sunny,3.7
+9b9272c9-9d66-4273-973a-b6dec6875414,2024-05-20,15,de6b7d54-d672-425a-ac65-de711fc0506d,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,cloudy,1.42
+8d461a1a-ea9b-4f54-ab76-7c15041e85a2,2023-10-15,12,2f7c0109-d225-4812-8df3-b7f60a74f44c,carrots,produce,1.09,1,0,Loyalty Rewards Points,cash,stormy,0.78
+d1d53d4f-a445-4cb5-8e40-c0e6ff84c3ec,2023-09-27,9,5678517b-68e5-48cc-b206-720285a052a4,pasta,grains,3.78,1,0,Free Gift with Purchase,cash,sunny,2.39
+a575eb66-0b4d-4fa9-b729-b2964ab473f4,2023-09-27,9,574c98d2-b6b0-4092-8554-f26a9041ba26,pizza,frozen,9.45,1,0,Buy One Get One Free,card,stormy,6.19
+e3bc5300-eb6c-40ab-9e38-1798d9ab3571,2023-07-25,12,b3cc6d4b-9538-4b66-bec2-f877e8c79db3,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,cloudy,5.14
+00ee8fc1-7bae-44bd-9263-81433198fd5e,2023-06-06,10,e9e33bd3-5ce7-48a4-b1a5-8eacfc647258,cereal,grains,10.1,1,0,20% Off Entire Purchase,cash,rainy,7.16
+8186393a-178b-44d9-bb22-a9545da8cfff,2023-09-07,19,ae0faf86-090b-4059-a0dd-b6cbdf0b8eb0,yogurt,dairy,2.35,1,0,Buy One Get One Free,card,sunny,1.69
+8ec9c4c3-9eea-4157-af65-6dc6501c99ec,2024-04-06,15,f345ea4e-1d98-4e1c-a388-4104ca79bf8d,tomatoes,produce,8.63,1,0,Buy One Get One Free,card,stormy,5.5
+e60a5a19-6922-409c-a2ec-eaa110f921ae,2024-05-11,10,f009f87f-5570-42c6-a856-b018038d75d8,orange juice,beverage,12.28,1,0,Buy One Get One Free,card,stormy,9.08
+6f042c20-5166-4a55-b404-6d350f0ab6a6,2023-12-11,12,3e6869e3-28ce-483d-830b-0e65fabb8e4a,coffee,beverage,5.76,1,0,Loyalty Rewards Points,cash,cloudy,4.34
+41864456-b752-4f29-a5e5-aed148147a7e,2023-11-13,9,1c1ec737-3810-4097-80ba-7a3034ebad95,chicken,meat,6.91,1,0,Buy One Get One Free,card,sunny,5.22
+262fbaee-8ddf-4898-8541-e0457e8131fd,2024-01-14,14,84148814-b2f4-4840-8afc-eccee9811528,lettuce,produce,12.33,1,0,Loyalty Rewards Points,card,sunny,8.02
+5093e5e7-9947-48fb-baaa-643ad3a1ca5a,2023-09-20,13,e979bf30-e10e-4a43-b24c-446b2138319f,lettuce,produce,12.33,1,0,Loyalty Rewards Points,cash,cloudy,9.21
+5ecd2a6f-63d4-498c-98c7-4e630447d940,2024-01-29,15,9eb61289-ba3c-4df8-a8b3-fb80077c46ca,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,cloudy,4.21
+112da505-4388-48b0-8ed2-80b80753e6fe,2024-02-28,10,07ac50e6-b133-495d-b7f9-26839cd8acb1,milk,dairy,4.85,1,0,Loyalty Rewards Points,cash,stormy,3.29
+6356be0b-65ca-42e0-a61f-e8dfdae5bcb9,2024-03-20,9,769a79b9-be0c-4715-8b23-78a97d9100ef,cereal,grains,10.1,1,0,Free Gift with Purchase,cash,rainy,7.06
+c8cea8c7-f6ce-4953-a089-978b47fe667b,2023-08-24,15,c716c7c0-5a17-4b7d-8347-0130a6a3f38f,soda,beverage,10.77,1,0,Free Gift with Purchase,card,cloudy,7.36
+38084e32-55ae-4c09-8f8a-b5d8402585cd,2023-08-24,20,01f13ed2-8106-4705-9f74-94ee6abe34c8,eggs,dairy,11.31,2,0,20% Off Entire Purchase,cash,sunny,8.25
+38084e32-55ae-4c09-8f8a-b5d8402585cd,2023-08-24,20,01f13ed2-8106-4705-9f74-94ee6abe34c8,rice,grains,1.37,2,0,Buy One Get One Free,card,sunny,0.92
+0dce483e-6fa8-4b42-a276-c0f3d5d747fc,2024-02-08,9,1b93a5ca-9aa3-47b3-8029-84eff8dd594a,cookies,snacks,14.4,1,0,20% Off Entire Purchase,card,rainy,9.62
+dfb7b09b-d8c5-4f60-9ef0-da7ea4e8b034,2024-05-09,11,5b090111-0799-43e5-9fb5-1a0bb2a32242,onions,produce,9.25,1,0,Buy One Get One Free,card,stormy,6.49
+f47afa14-5736-420b-9107-5fa7b4938d7c,2023-08-06,10,9db266b9-80ec-4c44-876a-f2fef4e942f4,carrots,produce,1.09,1,0,Free Gift with Purchase,cash,rainy,0.78
+2acdea3a-9d88-4186-a3a5-1775aed0cc72,2024-04-22,9,e26d0a41-48b3-4623-996f-807ad0e58b30,cookies,snacks,14.4,1,0,20% Off Entire Purchase,card,rainy,9.24
+161a7d7c-cd2f-4740-9865-e71f8862dcfe,2023-07-03,19,f8573843-30e4-4548-8839-ff9eab77eaa1,chicken,meat,6.91,1,0,Loyalty Rewards Points,card,stormy,4.64
+33ff0706-2591-4dd5-98c3-528a8ef47e3b,2023-11-20,10,38c44bd8-0867-4461-8d3e-eaaccfce77a9,pasta,grains,3.78,1,0,Buy One Get One Free,cash,cloudy,2.54
+39d0f558-b3c5-4189-89d6-726421f71042,2024-03-12,13,7d70d8a0-38b4-44b7-98b2-fe3c59cc583e,tomatoes,produce,8.63,1,0,20% Off Entire Purchase,cash,cloudy,6.15
+980fda07-cca0-4c3f-800f-ac6b8c0915ec,2023-07-10,10,2befa5ed-278e-4ca8-95af-f04c6ab0bc73,rice,grains,1.37,1,0,Loyalty Rewards Points,cash,cloudy,0.93
+d81f3540-542f-48a8-aa66-d06a48a14302,2024-03-12,16,3f842dcc-3023-45b7-8845-899454bf9148,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,rainy,1.73
+37f6865f-6a0b-40e1-b562-c249db3e92e8,2024-01-19,14,7f0b7584-7505-4c82-ba53-d38b769408ea,apples,produce,10.47,1,0,Free Gift with Purchase,cash,cloudy,8.01
+991c4f34-52be-49b8-a5e9-00a3085852a6,2024-01-02,20,38b1b960-b00e-4fe5-94e8-a98f702083a8,chips,snacks,5.71,1,0,Loyalty Rewards Points,cash,stormy,3.79
+8aa69f0d-7f85-4b2a-94eb-903392b25b17,2023-12-17,21,a92b5a45-51f4-426c-bb98-592b89d8366d,pizza,frozen,9.45,1,0,20% Off Entire Purchase,card,stormy,6.7
+9f907657-76bb-435c-925c-a80d70b8e86c,2023-11-18,20,8af6ca26-87aa-4e58-9c4e-397ac26bce63,bananas,produce,13.49,1,0,Free Gift with Purchase,card,stormy,9.33
+aacb2318-9baa-44e5-9db8-2d95e3e0c37f,2024-04-15,21,03598768-da43-49c7-aeb7-4ad3085c75dd,eggs,dairy,11.31,1,0,20% Off Entire Purchase,cash,stormy,8.13
+33a19898-8792-4948-8c9d-964c24f3f46a,2023-07-13,19,5e5a4fd8-0aec-499e-b919-bc5fa0cd8268,chips,snacks,5.71,1,0,Loyalty Rewards Points,cash,cloudy,3.9
+6c37b4ab-4a9d-4c1d-84d8-08658a2caf66,2024-03-15,18,267a5e7f-19ea-4074-817b-1afbfb16b037,pizza,frozen,9.45,1,0,Loyalty Rewards Points,card,stormy,7.17
+24dc1390-9d63-4514-b8dc-26636b3a1f65,2023-06-02,21,fca75671-5efb-4dfb-bcad-940a85f09764,chips,snacks,5.71,1,0,Buy One Get One Free,card,rainy,4.03
+fb8d8733-4f10-4e10-b411-e76be03d8072,2024-05-08,21,79a1233b-f34f-4dc7-b4a7-500b335b6f57,fish,seafood,8.07,1,0,Buy One Get One Free,cash,cloudy,5.27
+53657e23-d709-4665-ab90-a341a2c7a65b,2023-12-06,21,df55f962-7a45-496a-a46f-e85310a87a0b,pasta,grains,3.78,1,0,Buy One Get One Free,cash,rainy,2.44
+a5e2f3f2-1bc0-4d6b-b576-cfe8c25c4b8e,2024-05-08,12,36a6579d-03b5-4fa8-8745-3a15834ec6cf,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,cloudy,0.95
+fb03b4b5-5652-4b5f-9351-9d95c2a35f32,2023-11-21,9,70a1e906-163d-48c5-8f50-5adadf47fec0,pasta,grains,3.78,2,0,Buy One Get One Free,card,stormy,2.89
+fb03b4b5-5652-4b5f-9351-9d95c2a35f32,2023-11-21,9,70a1e906-163d-48c5-8f50-5adadf47fec0,pizza,frozen,9.45,2,0,Free Gift with Purchase,cash,stormy,6.41
+3b5f67ef-834a-4281-8552-63c6aa6646fc,2023-11-04,21,3b5343ba-a5be-46e8-aac5-07f9739c0187,fish,seafood,8.07,1,0,Loyalty Rewards Points,cash,cloudy,5.62
+6d46924e-de12-42dd-bfe6-6d446660f0ee,2024-01-22,14,5446d4d9-6c7f-4eff-a326-f157b804c417,chips,snacks,5.71,1,0,Buy One Get One Free,cash,sunny,4.17
+a41f71a9-e6ce-44e4-8ab8-4d27673a70d9,2024-02-16,19,0d21ed44-e939-420e-a58c-967268c241fc,apples,produce,10.47,1,0,20% Off Entire Purchase,card,sunny,7.96
+358560d0-97fc-45f8-a297-d9b37e7aacd5,2024-03-21,17,461a155d-1d4f-49e0-908a-10247870ab52,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,cloudy,2.89
+fd2ceb54-c30d-4b8b-b39f-589ee7e91705,2024-05-19,19,a8ac1781-ee43-4d60-a103-9e5ccc7b30f4,soda,beverage,10.77,1,0,Buy One Get One Free,card,cloudy,7.44
+587f5daf-48b2-44bf-b053-3a5f391e9f46,2024-03-30,16,c2c031ba-a46f-4405-a939-1538e35dbffa,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,stormy,3.8
+1892beb7-18bf-47c9-a08c-2a81056b1837,2024-02-13,18,5cfe121c-15b3-45c6-8c33-a6dd2fb17eb8,onions,produce,9.25,1,0,Free Gift with Purchase,card,sunny,6.07
+12a82f2b-d8b5-4e1c-a83b-7e149f6b218d,2023-06-16,16,b0c90acb-8d23-4c32-bfd9-48bff5a104a3,yogurt,dairy,2.35,1,0,Free Gift with Purchase,cash,sunny,1.64
+9edccef7-586a-4222-bcb7-0f76e7bbfb49,2023-10-06,18,8750c6ce-40fd-406a-b88e-2c30e87ec662,fish,seafood,8.07,1,0,Loyalty Rewards Points,card,stormy,5.48
+947e7306-8cb5-46da-9ddb-64016d1204d3,2023-12-10,19,e0c12b34-2b9a-488c-8246-a884b05ed1fb,lettuce,produce,12.33,1,0,20% Off Entire Purchase,cash,rainy,7.91
+b5168fcb-108e-4a8c-a663-bd2238653673,2023-09-18,10,2678c730-f04a-4fb3-8055-2efdcccdd07e,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,cloudy,7.14
+daab1864-3d9c-4d2b-9cac-f982603e6dba,2024-02-05,15,50dea78d-35e8-4b50-a103-445ad721f402,pasta,grains,3.78,1,0,20% Off Entire Purchase,card,cloudy,2.48
+21722f8d-f3c5-4aaa-845c-cefa0ad065aa,2023-11-15,16,43021062-d23c-4955-a441-c3e0b8a7e4c6,pork,meat,4.06,2,0,Buy One Get One Free,cash,rainy,2.81
+21722f8d-f3c5-4aaa-845c-cefa0ad065aa,2023-11-15,16,43021062-d23c-4955-a441-c3e0b8a7e4c6,chocolate,snacks,2.3,2,0,Loyalty Rewards Points,card,rainy,1.76
+5c96c88b-2ac6-435d-89d1-a92d675503a9,2023-10-17,12,bf96a2ef-3771-4865-8d19-6108da84e319,potatoes,produce,4.09,1,0,Loyalty Rewards Points,cash,stormy,2.95
+850fae7b-e743-49c2-a901-d2b1f01019f2,2023-07-17,15,d9262e2d-4c80-4e4b-9740-7114f3e864a9,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,stormy,3.44
+750b8e1d-2c34-4d8e-b17a-5a94a824fa0a,2024-04-10,9,12fe66a4-2fbc-4a15-b020-bbf2086169a8,beef,meat,1.42,1,0,Loyalty Rewards Points,cash,rainy,0.93
+81888ab9-712b-4ff3-84ef-0aca5c00b956,2024-02-03,17,47fd1db1-7c43-416e-ac6b-a3b21350e5d0,chicken,meat,6.91,1,0,Free Gift with Purchase,card,sunny,5.1
+5d44aad9-351e-44e3-becd-a44b1eff23dd,2023-09-21,21,2ec56510-2962-44b6-a988-904809911696,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,stormy,2.44
+a24edf28-cba5-4e78-affe-e98d50c567e9,2024-02-08,9,912b6459-dbdf-4f3e-93d8-75c8f1b96c52,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,card,stormy,1.75
+63f8446a-7231-47a1-95fd-bad698cf1aa5,2023-06-21,21,76ceefd5-af1e-4c3c-a981-d0bf736ee0c1,tea,beverage,3.18,1,0,Free Gift with Purchase,cash,cloudy,2.27
+0c537f06-cede-4089-8a20-aa810f6d3d96,2024-04-02,11,49347269-4562-4fac-9b48-dea76931b6a5,chocolate,snacks,2.3,1,0,Buy One Get One Free,cash,cloudy,1.52
+aff78b3e-8e72-4e90-a0ab-13264d9f0c17,2024-04-26,17,01b9b3a2-d6ae-45f4-9324-e8177f5f8006,apples,produce,10.47,1,0,Free Gift with Purchase,cash,rainy,7.07
+7c9bf740-ffc1-43d7-a296-3e225b33c6d1,2023-12-30,18,f7beb096-36d1-495c-aa01-4379dde4c88e,potatoes,produce,4.09,1,0,Buy One Get One Free,card,rainy,3.14
+3d62eda2-2c0c-47a6-8a24-5a023c504e77,2023-12-23,21,9a581808-bb19-49fb-945b-83329984bd10,chicken,meat,6.91,1,0,20% Off Entire Purchase,card,stormy,5.19
+6b82bbe4-1196-4211-bcc3-67f307d3f716,2024-02-01,12,4c7fa429-9cb4-4d33-b244-35f55fa86f0e,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,cash,cloudy,1.53
+8c2b2780-174f-4f2b-aea5-ba1da93e8824,2024-02-18,11,8c9a7e8e-95d9-4789-b1be-dce6108d2232,rice,grains,1.37,1,0,Buy One Get One Free,cash,rainy,0.95
+55b93185-ef67-4ada-953c-946358eb9143,2023-10-03,17,9c4a8ec1-3515-4741-94f5-b86d10c4cd37,ice cream,dairy,12.86,1,0,Loyalty Rewards Points,cash,rainy,8.77
+bfed1c15-0cc9-411c-aa59-0fd677e3d5b8,2023-09-03,18,15099090-9a12-4ec8-a80b-d81106968571,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,cash,sunny,1.72
+c2a58318-9d1a-4842-b8f5-b3e7a158848c,2023-10-14,10,30186e49-dab0-4279-8452-594d13f6ebc3,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,stormy,2.82
+7ce5d62e-e93c-4513-a373-01f7bf494f63,2023-11-22,14,6c497653-0e76-4db2-85fe-2f47b5eb5034,lettuce,produce,12.33,1,0,Loyalty Rewards Points,cash,rainy,7.99
+9e7ad529-b0a8-4502-ab29-4e5393462067,2023-10-18,19,f2b7cf95-4086-4da9-bd20-3575d5899c63,orange juice,beverage,12.28,2,0,Buy One Get One Free,card,sunny,9.17
+9e7ad529-b0a8-4502-ab29-4e5393462067,2023-10-18,19,f2b7cf95-4086-4da9-bd20-3575d5899c63,chips,snacks,5.71,2,0,20% Off Entire Purchase,cash,sunny,4.34
+483e18ba-f9d1-41fd-970d-c71fae7b8fad,2023-06-28,16,0fa8d509-708b-47b7-a6f3-eb5e99a1b47f,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,sunny,2.49
+d172ca02-817e-48a9-9d48-3b1d4f71f4ca,2023-09-07,11,41d53ae1-be20-408a-be6a-736be26b682e,fish,seafood,8.07,2,0,20% Off Entire Purchase,card,rainy,5.18
+d172ca02-817e-48a9-9d48-3b1d4f71f4ca,2023-09-07,11,41d53ae1-be20-408a-be6a-736be26b682e,chicken,meat,6.91,2,0,Free Gift with Purchase,card,rainy,4.74
+b981c5d0-421e-43e3-b918-324335efec2f,2024-05-20,15,d4b7abbf-4532-4d64-997d-5cac2fe917c6,bread,bakery,9.95,1,0,Buy One Get One Free,card,sunny,6.57
+6a7e793b-9faa-452e-9329-289d72becfa7,2023-09-13,18,d99862d0-fa99-4185-9f19-1f4b5ae7d0b8,cereal,grains,10.1,1,0,Free Gift with Purchase,card,cloudy,6.38
+9a313fba-0eb1-4303-924a-808bfabd8f4f,2023-11-25,15,b7e369f5-c747-4b6c-8a82-7f11cd9b9be5,grapes,produce,2.22,1,0,Buy One Get One Free,card,cloudy,1.52
+ee96e33c-72aa-4807-9030-0a6f42090a19,2024-03-11,14,05f887a6-3230-4cf0-9dcd-df03c95081f9,eggs,dairy,11.31,1,0,20% Off Entire Purchase,card,rainy,7.73
+a5261f46-6569-4aa1-b4bb-99f86048dbb5,2024-04-08,10,c11bd2c6-5cd1-490c-859f-3cfa73d985b5,apples,produce,10.47,1,0,20% Off Entire Purchase,card,sunny,7.24
+f13992fe-5fc3-4425-8e02-4c4eae779575,2024-04-09,15,03160930-91b6-418f-9bb0-299765801d94,milk,dairy,4.85,1,0,20% Off Entire Purchase,card,stormy,3.66
+0906b987-08f5-40d2-a687-d144999b19cd,2024-02-19,18,f7a4309e-10c8-4232-9b71-7c0f919a8d1b,pasta,grains,3.78,1,0,20% Off Entire Purchase,card,stormy,2.55
+e80d405a-fa42-4f2f-99b5-467cafd09385,2023-12-14,13,ba21bcea-d91e-4227-b34e-a7f524d54b8c,carrots,produce,1.09,1,0,Free Gift with Purchase,card,sunny,0.78
+fb7502ac-3d15-48d2-8a2b-4ce57088d6c0,2023-09-07,19,6c5a7ec5-9a14-4a50-bf1e-2b6806d0c008,carrots,produce,1.09,1,0,Loyalty Rewards Points,cash,rainy,0.76
+9571d441-9578-4a28-8a5f-90e03fed885d,2024-04-19,19,097d3e94-53a0-4792-aa6c-058434f06161,chips,snacks,5.71,1,0,Loyalty Rewards Points,cash,sunny,4.36
+f0d454f0-3e9a-4af0-a195-b823fbf2b59d,2024-02-28,10,3afa389c-f6c8-4513-bf47-e11faa66bcf1,carrots,produce,1.09,1,0,Buy One Get One Free,cash,cloudy,0.7
+dc76aaaf-9a9e-4596-9454-bd8ffc6c7a03,2023-10-07,14,d616b32f-0be8-43a1-9d88-64f734589b97,chocolate,snacks,2.3,1,0,Free Gift with Purchase,card,cloudy,1.63
+f68151ed-e431-4206-91cb-b43161941b53,2024-04-15,21,0f9dc735-4d26-44f0-a49a-73d4fc55b291,cookies,snacks,14.4,1,0,Buy One Get One Free,card,stormy,9.22
+960224fb-3403-4639-9b2f-c3ba92705cae,2023-06-23,13,443a149e-0088-439a-be4c-001bec01dc22,butter,dairy,1.35,2,0,Free Gift with Purchase,cash,cloudy,0.93
+960224fb-3403-4639-9b2f-c3ba92705cae,2023-06-23,13,443a149e-0088-439a-be4c-001bec01dc22,chips,snacks,5.71,2,0,Loyalty Rewards Points,card,cloudy,3.94
+e61335f6-4fbc-4ac2-881d-b2887f5857aa,2023-08-12,19,8e3daa58-ef49-47f8-8c3b-2973bcacac8b,beef,meat,1.42,1,0,20% Off Entire Purchase,card,cloudy,0.91
+fb6f6f74-9db7-4201-bf62-6876a75b801d,2024-01-21,17,4972c5f0-22be-46e3-94d5-da8be2b94f4d,orange juice,beverage,12.28,1,0,Buy One Get One Free,cash,rainy,9.05
+01c42962-0ebf-452a-960e-a14e52106675,2024-05-21,20,55f039e8-2a10-4e2b-b353-c2cb210b84bb,yogurt,dairy,2.35,1,0,20% Off Entire Purchase,card,stormy,1.56
+9c6f0d55-ec97-41f2-802b-9fcb39ccb11f,2023-09-13,15,f69efc8d-8e68-4942-9fd7-ab2e96b74867,carrots,produce,1.09,1,0,20% Off Entire Purchase,card,sunny,0.7
+47f6fa9b-b529-445c-9699-c9952ffcfe48,2023-11-11,9,243e7183-90be-4661-8439-92840ad82880,apples,produce,10.47,1,0,Free Gift with Purchase,cash,cloudy,7.32
+acdbf02c-ae5c-408f-b9f1-8d10179e8fea,2023-09-29,11,63185f23-7a1d-40b8-9914-673651894ef1,cookies,snacks,14.4,2,0,Buy One Get One Free,card,rainy,9.61
+acdbf02c-ae5c-408f-b9f1-8d10179e8fea,2023-09-29,11,63185f23-7a1d-40b8-9914-673651894ef1,yogurt,dairy,2.35,2,0,Loyalty Rewards Points,cash,rainy,1.59
+39a5cdc9-debb-4b25-89d8-c4b8008f9032,2023-12-05,17,4872fea9-4563-41eb-adcf-03c01f0390e1,lettuce,produce,12.33,1,0,Loyalty Rewards Points,cash,sunny,8.85
+930a8ad6-737e-446d-b720-f4468d14d3cd,2024-02-05,17,3130ffdf-31e9-46d0-b9dc-96aec0a8dfd5,yogurt,dairy,2.35,2,0,20% Off Entire Purchase,cash,rainy,1.54
+930a8ad6-737e-446d-b720-f4468d14d3cd,2024-02-05,17,3130ffdf-31e9-46d0-b9dc-96aec0a8dfd5,lettuce,produce,12.33,2,0,Buy One Get One Free,card,rainy,9.1
+15e5fee6-7c5b-4525-b108-de6f54fc0e5e,2024-03-16,20,f99949a6-b819-41ad-aafb-c1251621f924,yogurt,dairy,2.35,2,0,Loyalty Rewards Points,cash,sunny,1.56
+15e5fee6-7c5b-4525-b108-de6f54fc0e5e,2024-03-16,20,f99949a6-b819-41ad-aafb-c1251621f924,bread,bakery,9.95,2,0,20% Off Entire Purchase,card,sunny,6.8
+696bcc99-6537-463c-b765-617e5ca6c49c,2024-05-29,9,7aff1782-ae16-4bab-923b-5a3b1c7727dc,grapes,produce,2.22,1,0,Free Gift with Purchase,cash,stormy,1.53
+da9abab2-59e6-4a9d-aa0d-7c9d2568feec,2023-07-04,10,2bf2a016-6486-4c1e-a8bf-51124d954340,soda,beverage,10.77,2,0,20% Off Entire Purchase,card,rainy,6.86
+da9abab2-59e6-4a9d-aa0d-7c9d2568feec,2023-07-04,10,2bf2a016-6486-4c1e-a8bf-51124d954340,ice cream,dairy,12.86,2,0,Buy One Get One Free,cash,rainy,9.82
+78ba57d3-02b8-4a0d-b2cb-b621aa5d8671,2023-09-15,13,ef289bae-df04-4d43-982c-cbdf7c33f3e9,onions,produce,9.25,1,0,Free Gift with Purchase,card,rainy,6.42
+e976a34c-6109-436e-a901-c8645080e7e1,2024-04-26,13,b2372826-634d-409d-9945-b64847b3cb80,grapes,produce,2.22,1,0,Loyalty Rewards Points,card,rainy,1.54
+4366051f-b570-4f4c-a0de-a348e3366b2f,2023-10-01,20,e84e3a81-cd15-4d4d-98b2-af88bfbf55e3,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,cloudy,6.5
+ea37ed34-6d7b-4bf7-a66a-bc2e263f8e94,2023-07-04,19,bb67a9b7-1d6b-48e3-bbeb-281bf320cd47,bread,bakery,9.95,1,0,Loyalty Rewards Points,cash,sunny,7.33
+78bd6d69-8f9d-44fe-b069-ed030efddd7e,2024-03-05,10,53193680-6c63-4c43-8a07-8e7f819dd58c,grapes,produce,2.22,1,0,Buy One Get One Free,card,cloudy,1.53
+36926626-7e8a-4703-932a-3237c86d8ee6,2023-07-23,20,05ffb32a-e598-4064-9a26-907245ea771e,pizza,frozen,9.45,2,0,Loyalty Rewards Points,cash,rainy,7.14
+36926626-7e8a-4703-932a-3237c86d8ee6,2023-07-23,20,05ffb32a-e598-4064-9a26-907245ea771e,grapes,produce,2.22,2,0,Buy One Get One Free,card,rainy,1.54
+cc82a3d7-5127-4079-9abf-90d6032925f4,2023-12-13,17,252d9f92-6daa-4f79-83ed-1d2c7dbeff6b,rice,grains,1.37,1,0,Buy One Get One Free,cash,cloudy,0.88
+3a354bb5-f3d9-4de3-be15-3f1b6189c2b7,2023-09-21,19,8f5cd8ef-f3fd-4f05-b974-299a451e025d,chicken,meat,6.91,1,0,Loyalty Rewards Points,cash,cloudy,5.18
+1ffd1b28-4166-472a-bd41-c0cf1e586cd0,2024-01-30,14,51530e10-25f3-45bc-b6eb-f0a9ec969781,milk,dairy,4.85,1,0,20% Off Entire Purchase,card,stormy,3.7
+33f867f6-d1c0-4d41-ae5c-baff095a51ea,2023-06-27,11,61ae99b7-499f-47c8-8c0c-9f7ff610a7bf,cereal,grains,10.1,1,0,Buy One Get One Free,cash,sunny,6.81
+3aeca380-88be-4c07-ae1d-a53b35c5664e,2024-02-25,21,93c6c062-ebe2-4e89-b5b6-cdcd248d4031,cereal,grains,10.1,1,0,Buy One Get One Free,card,cloudy,6.74
+ff696e13-3c62-446c-bc50-1271aa9fbd74,2024-02-09,11,fd997f27-7613-4a5a-8723-3fb30cdb866f,coffee,beverage,5.76,1,0,20% Off Entire Purchase,cash,rainy,4.12
+0fa868d9-d3a7-463e-a1eb-3b22defff829,2023-07-31,11,92b0e7f7-d1fc-4d7f-bbf1-d0e36369b5ad,fish,seafood,8.07,1,0,Buy One Get One Free,cash,sunny,5.53
+df48df73-0a9d-4057-9def-71e5d46b8435,2024-02-19,13,1f8c23d9-a0f9-409a-be0a-047201c9d892,rice,grains,1.37,2,0,20% Off Entire Purchase,card,cloudy,0.95
+df48df73-0a9d-4057-9def-71e5d46b8435,2024-02-19,13,1f8c23d9-a0f9-409a-be0a-047201c9d892,yogurt,dairy,2.35,2,0,20% Off Entire Purchase,card,cloudy,1.63
+6c7b1352-f791-4973-a335-9d912cc79621,2023-08-02,9,6cd00105-e431-4188-9d95-c165e935b357,grapes,produce,2.22,1,0,Loyalty Rewards Points,cash,sunny,1.44
+0b151895-972d-4be8-ad99-b32da5e87909,2024-01-26,19,c96e0e61-ada6-4d34-a9c3-874cc9305581,chicken,meat,6.91,1,0,Buy One Get One Free,card,sunny,5.24
+5a7a9fee-19ab-4ca9-9b9b-30cf9536a1ef,2024-04-05,10,07437336-1971-418a-9913-47b7ecb4d140,cereal,grains,10.1,1,0,Buy One Get One Free,cash,cloudy,7.51
+3d24c5e4-ba0a-4790-8273-a60d7b62c1f3,2023-10-06,10,6b6a65c4-f476-4a7a-af53-9dfdec987a94,butter,dairy,1.35,1,0,Loyalty Rewards Points,cash,sunny,0.88
+a9e90769-fcab-4a17-91dc-ba1ba8784919,2024-03-07,16,7b539bc6-57ea-4149-9707-dff2d7cc8793,pasta,grains,3.78,1,0,20% Off Entire Purchase,card,sunny,2.47
+3d457d26-9cbf-414f-aac4-42d20683b4d6,2024-05-14,13,fbd21856-e610-45cd-8b62-c717ded7ad00,eggs,dairy,11.31,1,0,20% Off Entire Purchase,cash,rainy,7.18
+c5d95a38-2ac9-4d2b-89c6-d8886e360a26,2023-10-16,16,ba311536-8084-4cf2-bba2-d04a138ce7c7,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,stormy,5.51
+7c5f602e-db8f-46b1-9036-69614153ff8a,2023-08-18,11,7dcdc027-4252-4999-9de9-b8fa41d0f2c4,ice cream,dairy,12.86,1,0,20% Off Entire Purchase,card,stormy,9.54
+15db98bf-4c7e-4e43-a3b5-eaf436ab1162,2024-04-15,15,ab797563-b4d8-48a8-b5e0-22b8389e4699,chips,snacks,5.71,1,0,Free Gift with Purchase,cash,rainy,3.98
+443c9368-6d0e-4394-9ab4-7b4fae9cd20c,2024-01-09,13,d3408571-8e9d-4a73-a2d6-760df76c43bc,carrots,produce,1.09,2,0,Free Gift with Purchase,card,cloudy,0.69
+443c9368-6d0e-4394-9ab4-7b4fae9cd20c,2024-01-09,13,d3408571-8e9d-4a73-a2d6-760df76c43bc,grapes,produce,2.22,2,0,Loyalty Rewards Points,cash,cloudy,1.65
+2b81aba3-79c4-4be4-9ce2-68aecb76862a,2023-12-29,21,a9751330-8a13-4c4d-a02b-e546fdc08152,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,cloudy,2.74
+0b617e25-5ae4-489e-819f-1b9ab172ada9,2023-08-15,17,fc5a1417-4640-4ee0-8d55-925804e21442,grapes,produce,2.22,1,0,Loyalty Rewards Points,cash,sunny,1.58
+f18bd5ea-633f-4f27-8280-f6d44eea9fec,2024-02-14,11,d338f1ec-e982-4483-8f8c-93042a4eb507,pork,meat,4.06,1,0,Free Gift with Purchase,card,cloudy,3.02
+f5fd90e5-89e8-4b6f-9344-b1bf551453f6,2023-07-12,20,58762f44-5d65-4109-8aa3-9635986449a2,lettuce,produce,12.33,1,0,20% Off Entire Purchase,cash,rainy,8.01
+d6c39025-def8-4ffd-ac91-7ac2708160f9,2024-04-06,17,3dd0fe36-610b-4153-adec-06f19c9f84f0,butter,dairy,1.35,1,0,20% Off Entire Purchase,card,rainy,0.87
+134e586b-0a76-4b38-ad75-48f9e9a3ff2d,2024-05-18,9,881c3113-30f6-4dea-ba62-dfbc8a57c3c0,pizza,frozen,9.45,2,0,20% Off Entire Purchase,cash,stormy,6.22
+134e586b-0a76-4b38-ad75-48f9e9a3ff2d,2024-05-18,9,881c3113-30f6-4dea-ba62-dfbc8a57c3c0,carrots,produce,1.09,2,0,Free Gift with Purchase,card,stormy,0.8
+12d7a853-7fd8-4b9b-bbe4-8d1ba27a05a2,2024-05-30,9,ed7f192f-3ee0-46a9-a3a6-f35670e86db7,pizza,frozen,9.45,1,0,Buy One Get One Free,cash,cloudy,6.14
+9add7e33-7528-452f-9e95-d315a9a9ac15,2023-06-14,10,3789d6f0-7a11-4408-b625-8f7768dce004,soda,beverage,10.77,1,0,Buy One Get One Free,cash,rainy,7.38
+98750b82-3b1a-4334-a74c-59cc03866369,2024-03-11,13,e8b27e1b-8f49-4159-a62f-0174fff02bb8,apples,produce,10.47,2,0,Loyalty Rewards Points,cash,rainy,7.99
+98750b82-3b1a-4334-a74c-59cc03866369,2024-03-11,13,e8b27e1b-8f49-4159-a62f-0174fff02bb8,tea,beverage,3.18,2,0,Free Gift with Purchase,card,rainy,2.08
+1f8a27a1-abfd-44d2-9656-acd54adc72a9,2023-09-20,19,c24464c2-4e10-4ef7-ba03-56b1b1449cc0,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,cloudy,2.31
+4485bba3-0975-4214-95fa-67e5801862d3,2024-03-28,20,96511383-1f7e-45c5-bab2-2d30d4e6d4aa,lettuce,produce,12.33,1,0,Buy One Get One Free,card,sunny,8.44
+aea07806-69a0-488b-b9f2-6b61fd276c24,2024-02-02,18,3ca7145b-8d42-4158-8527-7ccd5a9708ad,carrots,produce,1.09,1,0,Buy One Get One Free,cash,rainy,0.72
+329bb704-0235-4a4b-9b90-00e2f8f9176e,2023-10-13,11,5609e44f-c1c1-4e1a-b712-2b93b3c26265,grapes,produce,2.22,1,0,Free Gift with Purchase,card,rainy,1.51
+6ce8e2c3-5b69-44a8-b14b-ced8eef801ca,2024-03-06,19,50d61908-5cb0-4b8c-bf16-c828591695ac,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,sunny,7.75
+c0df7e7e-6602-40b7-a690-dc7f1bddad1e,2023-12-16,9,f17095df-f365-47f7-9577-911701f86496,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,rainy,3.68
+9c6db8cf-7526-4a78-8f1a-41abb742ecef,2024-01-25,20,b99a06bc-f375-4c6f-a5b1-f79b97834354,cereal,grains,10.1,2,0,20% Off Entire Purchase,cash,sunny,6.96
+9c6db8cf-7526-4a78-8f1a-41abb742ecef,2024-01-25,20,b99a06bc-f375-4c6f-a5b1-f79b97834354,tea,beverage,3.18,2,0,Loyalty Rewards Points,cash,sunny,2.22
+a565342f-7212-4142-a741-a418434465ad,2023-09-03,17,8b9d6205-b095-46e2-86ff-3a0ba320ea93,tomatoes,produce,8.63,2,0,20% Off Entire Purchase,card,stormy,6.48
+a565342f-7212-4142-a741-a418434465ad,2023-09-03,17,8b9d6205-b095-46e2-86ff-3a0ba320ea93,chips,snacks,5.71,2,0,Buy One Get One Free,cash,stormy,3.96
+ad2e6471-4149-464d-9cf3-57c0eb39e7e5,2024-04-16,9,e6be66e7-744b-44bd-b167-fc235d8e7dff,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,rainy,2.64
+b6e98532-ba39-43ac-82cf-789336b2611c,2024-04-16,11,faab5300-5725-4404-a136-f5cd5858cbec,ice cream,dairy,12.86,1,0,Free Gift with Purchase,cash,sunny,9.86
+df3cd6b7-329b-4a62-a7be-e4f4ec5f3b24,2023-11-14,20,f5fd04d3-c739-4725-82a9-a70ec86125c1,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,sunny,8.02
+7b994967-4397-4662-9a2f-eac2a491ffb4,2024-03-27,9,b0bfb926-790c-4211-9222-bf5b5ac54089,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,sunny,9.27
+4d980629-36bd-4660-8d0c-92beb097adff,2023-12-15,13,1b6323d1-46e8-4e7b-aaad-184d3a42261c,rice,grains,1.37,2,0,Loyalty Rewards Points,card,cloudy,0.97
+4d980629-36bd-4660-8d0c-92beb097adff,2023-12-15,13,1b6323d1-46e8-4e7b-aaad-184d3a42261c,lettuce,produce,12.33,2,0,Buy One Get One Free,cash,cloudy,7.86
+49c3c644-3469-482e-be4a-fbb1075a9826,2023-11-16,10,df24147b-23d7-4f87-838d-d12f30d5205a,orange juice,beverage,12.28,1,0,20% Off Entire Purchase,card,rainy,8.77
+011c56dc-c984-4ddc-94d3-cc54397f081a,2024-05-24,9,6de02322-383e-4dd4-9f32-74f301241c06,beef,meat,1.42,1,0,Loyalty Rewards Points,card,cloudy,1.09
+605fbea8-cf85-4cb7-8e9d-f7dcd59e4234,2024-02-13,13,038c7942-c7f9-4938-bf08-309c4e28cf9b,ice cream,dairy,12.86,1,0,Buy One Get One Free,cash,stormy,9.29
+ffc1cc7f-5433-4eb3-91d9-0c793572985e,2024-04-09,11,2d4e30cd-6fe0-476d-a309-752178735c58,fish,seafood,8.07,1,0,Buy One Get One Free,cash,rainy,5.29
+1a0a59a0-3cfc-419f-88cf-389d0456a576,2023-09-08,16,568006f2-7c5e-4f23-855d-9cfbc43ca162,chocolate,snacks,2.3,1,0,Buy One Get One Free,card,stormy,1.54
+e92ca0a2-90d8-408f-8462-fbd77a401188,2023-06-29,21,9baf93d7-9994-4459-91bb-32bd3980b0d2,fish,seafood,8.07,2,0,20% Off Entire Purchase,card,sunny,5.7
+e92ca0a2-90d8-408f-8462-fbd77a401188,2023-06-29,21,9baf93d7-9994-4459-91bb-32bd3980b0d2,chips,snacks,5.71,2,0,Loyalty Rewards Points,cash,sunny,4.27
+bf384abe-06f2-4df8-9af3-956d53cce035,2023-08-14,18,68fc7d63-020a-4e3a-a1aa-c4e5fdcd1839,milk,dairy,4.85,1,0,Buy One Get One Free,card,cloudy,3.32
+dbd46240-2686-40cc-9da0-b256ff6ddc2b,2024-01-09,10,85bc967f-7cb5-4a33-9435-f9462d5c8c27,apples,produce,10.47,1,0,20% Off Entire Purchase,card,stormy,8.02
+4719ed43-9711-42d9-8539-e023730443c3,2024-05-26,9,91ab7ffd-2898-48ee-bcb9-de6f2a755528,soda,beverage,10.77,2,0,20% Off Entire Purchase,cash,stormy,7.09
+4719ed43-9711-42d9-8539-e023730443c3,2024-05-26,9,91ab7ffd-2898-48ee-bcb9-de6f2a755528,pasta,grains,3.78,2,0,Buy One Get One Free,card,stormy,2.55
+abc4dce7-09a9-4c1b-a412-66793a50f9a6,2023-08-28,15,b1deaac1-3eb5-4ca2-9604-c1ec6db27368,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,card,stormy,1.57
+3938da99-4540-4780-98cc-e728bc516b5b,2024-05-01,21,dc502b9d-5c48-4f4c-b29e-a50c36dff0e9,eggs,dairy,11.31,2,0,Buy One Get One Free,card,stormy,8.06
+3938da99-4540-4780-98cc-e728bc516b5b,2024-05-01,21,dc502b9d-5c48-4f4c-b29e-a50c36dff0e9,lettuce,produce,12.33,2,0,Buy One Get One Free,cash,stormy,8.74
+ad8af3f0-757f-49ee-bde2-7dd0edd410c7,2023-12-22,17,380eea79-4267-47b5-9d4a-cea353147e4b,chicken,meat,6.91,1,0,Loyalty Rewards Points,cash,rainy,4.72
+a882b925-b490-48ba-b60f-fb6b58a9c51d,2023-11-20,9,baa98b1a-9b7f-4a5d-8cc0-f1a2c612adb5,eggs,dairy,11.31,1,0,Loyalty Rewards Points,card,cloudy,8.1
+5d31f960-2ec2-4aaf-b053-c5d66973e9d2,2023-07-28,15,9c727238-e4c8-42db-92af-1330e1ac71a9,butter,dairy,1.35,1,0,Free Gift with Purchase,cash,rainy,0.99
+54d8b245-5ed4-492a-9efb-e4a0014b48a6,2024-05-23,9,5706299f-0b88-4983-aa7e-6b16c224135c,beef,meat,1.42,1,0,Loyalty Rewards Points,card,rainy,0.96
+6f016973-ac3a-4cef-8ef2-4cfc72e225a2,2024-04-07,12,7c724c36-9718-4f8d-9599-a14a630d2703,tea,beverage,3.18,1,0,Free Gift with Purchase,cash,cloudy,2.2
+f8616216-ecf4-4dc0-8d8b-aecbb9bd7165,2024-02-17,20,710fabfe-5f7d-4635-a2c2-01a611ef8056,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,stormy,3.18
+e978d1a5-ab1f-4f84-aff1-a7e5e3743e41,2023-06-18,20,00b4f74d-cd50-4a5f-b200-a877f50f8020,yogurt,dairy,2.35,1,0,Buy One Get One Free,card,stormy,1.6
+fb6ad07e-7d5e-4105-9ded-4a4dbdb89c18,2023-08-03,10,82ea94d7-87c9-4708-8872-194bacfc0f14,rice,grains,1.37,1,0,Buy One Get One Free,card,rainy,0.89
+512cbbb5-2038-416d-afaf-b20e892ba710,2024-05-20,12,605247d7-d768-416b-947a-578d6d2cd17d,grapes,produce,2.22,1,0,Buy One Get One Free,cash,cloudy,1.41
+970dcd3a-3ff5-49ae-98de-7b72b0fe833e,2023-08-19,20,e5012df2-11d7-4988-80c2-70e43cf2deb3,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,card,cloudy,1.6
+3ff49afb-43e4-4101-855d-18bb414db42d,2023-10-21,19,6e462f25-11ab-4735-ba56-0e37c614f1cd,tomatoes,produce,8.63,1,0,20% Off Entire Purchase,cash,sunny,6.15
+949bd2b5-8e7d-4460-bf1f-6fb8de4f7561,2024-05-19,18,510f3075-aeaf-427a-99c3-403163e7684b,chocolate,snacks,2.3,1,0,Buy One Get One Free,cash,rainy,1.74
+71991d6a-31f4-48be-a2aa-0169c052370b,2023-10-05,9,4dc751c1-5bd0-4288-b020-9b0eb222e1a6,yogurt,dairy,2.35,2,0,20% Off Entire Purchase,card,stormy,1.74
+71991d6a-31f4-48be-a2aa-0169c052370b,2023-10-05,9,4dc751c1-5bd0-4288-b020-9b0eb222e1a6,lettuce,produce,12.33,2,0,20% Off Entire Purchase,cash,stormy,8.89
+695b623a-1b0b-4ebc-b21a-ed148258e167,2024-01-11,19,635d28d3-355f-440a-bf17-f6abe87999ef,yogurt,dairy,2.35,1,0,Buy One Get One Free,cash,stormy,1.74
+3b289605-bd16-4486-8372-677c045bf0a9,2024-03-21,11,ad457133-f83f-49e9-b774-58e7b06a203f,bread,bakery,9.95,1,0,Free Gift with Purchase,cash,cloudy,6.58
+35414202-bb92-40ec-9187-cf70207f65e7,2023-11-06,15,a473c2fc-ffb5-450b-aeb6-8d32b5d9f9fc,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,stormy,6.72
+6ebf14eb-cf5a-4f9a-b75a-bc8231cede48,2023-11-29,19,ab09b897-8624-4ab6-bb28-75592e93351b,bread,bakery,9.95,1,0,Free Gift with Purchase,cash,stormy,6.98
+d8afdf9b-ef85-420f-b1d0-c35f2063210c,2023-12-06,13,3aa69cdf-9d01-4aee-94f4-ed1e2335e4a8,pork,meat,4.06,1,0,Free Gift with Purchase,cash,sunny,3.12
+a801bc1d-ce17-41c0-a6ce-ce40fa384c78,2023-09-28,13,c3ffe8ab-792f-420e-bead-c9b0da422ddc,potatoes,produce,4.09,1,0,Buy One Get One Free,cash,rainy,3.02
+0f910e1c-31ac-41e5-bff0-d77ef7670094,2024-01-22,19,3a72bcc5-aa97-4179-b825-6deaed0a1974,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,rainy,2.01
+70cd577f-71eb-4f05-8a16-5fd0f6e33a3d,2023-10-30,13,0c081fd5-4e1f-454c-b629-dc7ba6b83e58,tea,beverage,3.18,1,0,20% Off Entire Purchase,cash,stormy,2.02
+ce6ee407-ad64-470d-82cc-19b269826fe8,2024-05-06,20,e03922a8-4b18-41cc-b6f6-7e6ca74db7dd,orange juice,beverage,12.28,1,0,Free Gift with Purchase,cash,cloudy,9.09
+111b2b04-6d60-4f54-99b8-95cb99450ebf,2023-07-24,11,9fc80a53-92fa-441f-a207-fc58bf4e8a05,tomatoes,produce,8.63,1,0,Free Gift with Purchase,card,cloudy,5.59
+e9690097-0f1c-481e-8ed5-60bd059b22a0,2023-06-04,19,f2c13d57-e9b0-45b4-a2ab-58b52f3bc8b4,grapes,produce,2.22,1,0,Free Gift with Purchase,cash,rainy,1.51
+e3be23e5-2d56-478d-ad52-e8479fef6d27,2023-09-22,21,872e40ce-95e8-48ed-bc1e-48176346399a,lettuce,produce,12.33,1,0,Buy One Get One Free,cash,rainy,8.28
+e65f3040-2db4-4246-8d0a-e66ef1c62c33,2023-06-09,9,2a2b1c87-5f0c-4c06-b888-430758cda730,bananas,produce,13.49,1,0,Loyalty Rewards Points,cash,sunny,9.44
+aed55f46-f7e3-43fd-8c7c-b4818ccbc390,2024-03-19,15,d4d6ff8c-e87c-4ea1-b182-007afe380545,eggs,dairy,11.31,1,0,20% Off Entire Purchase,cash,sunny,7.34
+a0eaa99e-b14b-4fed-b309-be8850700426,2024-03-10,15,b354c3f7-c32a-4ddc-97a0-3b0d1a15cb0b,yogurt,dairy,2.35,2,0,Buy One Get One Free,cash,stormy,1.54
+a0eaa99e-b14b-4fed-b309-be8850700426,2024-03-10,15,b354c3f7-c32a-4ddc-97a0-3b0d1a15cb0b,coffee,beverage,5.76,2,0,20% Off Entire Purchase,cash,stormy,3.9
+176c60aa-2667-4b6d-9233-2cbdb13cd2e8,2024-02-04,19,ac7d7de6-185f-4c24-9c13-c5f164ff0338,chicken,meat,6.91,2,0,20% Off Entire Purchase,card,sunny,5.09
+176c60aa-2667-4b6d-9233-2cbdb13cd2e8,2024-02-04,19,ac7d7de6-185f-4c24-9c13-c5f164ff0338,bananas,produce,13.49,2,0,Buy One Get One Free,card,sunny,9.42
+29ee25ea-f18a-4aa3-a10f-720f952a18a4,2024-04-13,18,dadc7f74-5676-496e-bf2a-7bd20b9b80ae,rice,grains,1.37,1,0,Loyalty Rewards Points,cash,stormy,0.95
+6657f54d-d55e-4c06-8154-7774a753b59f,2024-05-04,9,e71233d3-672b-4568-b53f-99a9556d0208,tea,beverage,3.18,1,0,Buy One Get One Free,cash,sunny,2.17
+17b69c70-6faf-4ff2-acb8-8acce5b73f55,2024-03-05,21,bedaf666-c691-46b0-b314-2575b21de780,bread,bakery,9.95,2,0,20% Off Entire Purchase,cash,cloudy,7.29
+17b69c70-6faf-4ff2-acb8-8acce5b73f55,2024-03-05,21,bedaf666-c691-46b0-b314-2575b21de780,orange juice,beverage,12.28,2,0,Buy One Get One Free,cash,cloudy,8.27
+930cdad5-1fa8-4995-ba35-a71de9828b2a,2023-09-22,17,f2a8164f-001b-476a-a463-ff7f883651bb,chocolate,snacks,2.3,1,0,Free Gift with Purchase,cash,rainy,1.46
+80fd9f12-ce4e-4b3d-a53b-f6c26f2841c2,2023-08-12,20,f5f76ea9-a95f-48fd-b2dd-ebe89535533a,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,rainy,8.29
+11003259-f3c0-4841-b2da-d4adb18870fd,2023-12-26,14,937af5f7-37c0-4ce9-8ad1-e6093399ffc5,pizza,frozen,9.45,1,0,Loyalty Rewards Points,card,cloudy,7.17
+dd90a1d4-d335-42ff-8d7c-1277368ef874,2024-04-21,12,60d9fc87-d688-4064-92b0-8b7cf8e84630,eggs,dairy,11.31,1,0,Buy One Get One Free,card,cloudy,7.46
+0d4f8b14-7ef5-4b6e-8114-34f443c895c8,2023-12-08,10,7f89f0b1-4a84-4547-9bbf-b2adc48f592c,chips,snacks,5.71,1,0,Free Gift with Purchase,card,rainy,3.63
+2796814d-2cad-4a3c-b3b2-6a09c2f881c7,2023-12-01,18,a0fce85c-4f1d-4ae4-b910-d610ce18baeb,orange juice,beverage,12.28,1,0,Buy One Get One Free,card,sunny,9.17
+267d3dd3-90b1-4076-815b-d327652612ed,2024-05-18,15,2063fd15-54d0-4162-a36e-ff3e13f11ab4,onions,produce,9.25,1,0,20% Off Entire Purchase,card,stormy,6.15
+e6aa333f-39ae-400c-a2bf-4dc10a389592,2023-07-03,20,c4b59983-5ac4-4b12-8a55-fa7ad11153d0,soda,beverage,10.77,1,0,Free Gift with Purchase,card,sunny,6.94
+9fb0ce36-b8f7-4661-b1a9-e29888d47a02,2023-09-08,15,da413e98-ccd2-4285-b6ed-2d98f2083bea,carrots,produce,1.09,1,0,Buy One Get One Free,card,sunny,0.7
+d338ef2a-60ed-4ac2-ba0e-a08e26314853,2023-09-30,16,3ff27078-2e87-4de1-8b3c-e7e4e568545f,cookies,snacks,14.4,1,0,20% Off Entire Purchase,cash,cloudy,9.6
+cb7110d0-c51d-4274-8318-9c96ac5ad54c,2024-01-05,20,a3e08233-5f84-4f2f-9187-ca8c7c108de1,butter,dairy,1.35,1,0,20% Off Entire Purchase,cash,stormy,0.95
+4a5488d7-0417-428b-897d-19ab27df700d,2023-06-12,14,3cb8790e-9a81-479a-be6f-4cb8997278a6,soda,beverage,10.77,2,0,Loyalty Rewards Points,card,cloudy,8.15
+4a5488d7-0417-428b-897d-19ab27df700d,2023-06-12,14,3cb8790e-9a81-479a-be6f-4cb8997278a6,milk,dairy,4.85,2,0,Buy One Get One Free,card,cloudy,3.7
+19099513-5af7-415b-b00f-126402a2d0d8,2024-01-12,13,d49bca39-e881-43ac-8ef0-b4043e877aa4,beef,meat,1.42,1,0,Buy One Get One Free,card,cloudy,0.95
+826e37ba-1e2f-4a78-9952-7967b60b2532,2023-10-20,11,7f77a4a0-3b2a-47ba-a518-4b25f33dc255,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,sunny,5.99
+2cc54e1e-1329-44c9-b819-802bb0362353,2024-04-11,20,4e368f1b-8b49-4a62-af73-0d082d17b4f6,cookies,snacks,14.4,2,0,20% Off Entire Purchase,card,sunny,9.16
+2cc54e1e-1329-44c9-b819-802bb0362353,2024-04-11,20,4e368f1b-8b49-4a62-af73-0d082d17b4f6,ice cream,dairy,12.86,2,0,Loyalty Rewards Points,cash,sunny,8.69
+b5b1167f-e6f2-4ce3-8da9-dd57e96e08a5,2023-12-31,20,43496ecd-95b2-4b5c-820d-fc5ca8d76a3d,pork,meat,4.06,1,0,Loyalty Rewards Points,cash,sunny,2.66
+f9362397-ff80-4899-8c71-ac1dd04e3304,2023-07-09,16,c06824fa-e16f-4a13-9a32-f44bb3891653,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,rainy,4.31
+d6eb1570-46d9-46e1-a585-69a2cf0f20ab,2023-08-01,10,60a2a9c2-44e6-4a57-b530-6e76c92a1373,butter,dairy,1.35,1,0,20% Off Entire Purchase,card,cloudy,1.04
+461dbd2d-92e8-42d2-9097-0fec66a2446c,2023-12-10,15,4d6a31a1-bd98-4a94-94dc-dacb06564099,soda,beverage,10.77,1,0,Loyalty Rewards Points,cash,stormy,7.45
+f05bc3a0-37a3-4a24-bb9c-7620abd43a3e,2023-06-09,18,04244d76-727b-4ae5-aa5e-5a98b0be4885,ice cream,dairy,12.86,1,0,20% Off Entire Purchase,cash,sunny,9.61
+8cb51307-1a41-4d48-8fb9-3a6b94b65e13,2024-05-26,16,de9f9111-fa7f-4dcf-8bf2-9d0058267047,cereal,grains,10.1,1,0,Free Gift with Purchase,cash,sunny,6.43
+f6f1b0cf-aee9-4677-857e-42d20694746b,2023-09-23,9,5b9d88b6-8cbe-417d-98d5-cb40a36f291a,soda,beverage,10.77,1,0,Buy One Get One Free,cash,cloudy,8.1
+20db1c79-a98b-41b7-9d37-034e5ce201c3,2023-11-09,19,d19f6f73-0741-46d7-a58e-d0e300fcb4a1,soda,beverage,10.77,1,0,Loyalty Rewards Points,card,cloudy,7.8
+99ed3f3c-c97c-4627-a779-ec7e1765d8b7,2023-09-30,17,d8fe1aae-dcde-4334-870f-1814f2e0a405,pizza,frozen,9.45,2,0,Loyalty Rewards Points,cash,sunny,6.62
+99ed3f3c-c97c-4627-a779-ec7e1765d8b7,2023-09-30,17,d8fe1aae-dcde-4334-870f-1814f2e0a405,apples,produce,10.47,2,0,Buy One Get One Free,cash,sunny,7.87
+da13037f-d03e-4bd1-bfed-9b3013dfd945,2024-04-18,14,34568a7d-86da-4e0e-a6fe-a26660f4cb94,chicken,meat,6.91,1,0,20% Off Entire Purchase,cash,cloudy,4.4
+cf3e8b0f-3c5d-4cca-86af-fb266531b8fc,2024-01-06,15,e10ca81d-fd85-4a70-bef0-0a5bbafa912f,cereal,grains,10.1,2,0,Buy One Get One Free,cash,cloudy,7.17
+cf3e8b0f-3c5d-4cca-86af-fb266531b8fc,2024-01-06,15,e10ca81d-fd85-4a70-bef0-0a5bbafa912f,chips,snacks,5.71,2,0,Buy One Get One Free,cash,cloudy,3.95
+3052f9e6-13f9-4813-a109-fd69b9091a3c,2024-05-12,20,29e8c458-b05c-48a6-9edc-c68120991ec4,pasta,grains,3.78,2,0,Buy One Get One Free,card,sunny,2.68
+3052f9e6-13f9-4813-a109-fd69b9091a3c,2024-05-12,20,29e8c458-b05c-48a6-9edc-c68120991ec4,butter,dairy,1.35,2,0,Free Gift with Purchase,card,sunny,1.0
+75c0cf37-250a-4ae5-9fd9-0286f237722f,2023-10-08,19,cba88167-fb62-420a-a805-62b32b89cffa,fish,seafood,8.07,1,0,20% Off Entire Purchase,cash,stormy,6.02
+07d36ac9-89d9-4aab-a364-a401ff7dfade,2024-03-28,14,01643448-56f8-44a2-a959-e16186fc4a1e,fish,seafood,8.07,1,0,Buy One Get One Free,card,stormy,5.89
+04988c89-5cd5-4017-a89b-fd1701c9aa01,2024-03-05,21,45365405-aac2-4861-9fe7-4b8236aa870c,fish,seafood,8.07,2,0,Free Gift with Purchase,cash,cloudy,5.8
+04988c89-5cd5-4017-a89b-fd1701c9aa01,2024-03-05,21,45365405-aac2-4861-9fe7-4b8236aa870c,chocolate,snacks,2.3,2,0,Buy One Get One Free,card,cloudy,1.68
+7512d6c0-6a94-4ffa-a8d5-a0cd5eb8dc67,2023-06-13,16,9c1ebb9c-4277-4b04-b691-adee11b6e40a,tea,beverage,3.18,1,0,Buy One Get One Free,cash,cloudy,2.32
+94ae7351-ff6a-4d78-a6a5-b99b488bcb40,2024-05-25,18,805ae0b7-9342-4111-b7a0-89df1226f10a,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,cloudy,7.08
+ae10dec6-ef89-40d5-a2de-cfa7eb1cb4ea,2024-02-27,21,9ba171ba-0e8d-4747-a2ff-3608b1c678aa,cheese,dairy,4.12,1,0,Buy One Get One Free,card,cloudy,3.03
+998df8b5-b7e7-480e-9d16-f8d71acaf3b3,2024-01-25,21,122043ac-ee96-46b4-9967-f61c3bf88b4c,lettuce,produce,12.33,1,0,20% Off Entire Purchase,cash,stormy,9.42
+d8cd30c4-1002-4576-b0db-ce1af5441ade,2023-06-30,9,1f437fd6-bd45-48fc-8108-29598544e2e8,pasta,grains,3.78,1,0,Loyalty Rewards Points,card,sunny,2.83
+2d9c442e-cbfe-4f38-89ab-816130ec5c7c,2024-04-15,20,c269563f-9477-47d2-8243-661feaf86a26,eggs,dairy,11.31,1,0,Free Gift with Purchase,cash,cloudy,7.29
+04bad9fa-162a-44d6-a6ec-6eba0ec84d98,2024-01-06,15,0b5ca4a5-e57b-4aff-89dc-257a799d8c27,pork,meat,4.06,1,0,Loyalty Rewards Points,card,cloudy,3.11
+d3ae8f63-3b1b-4c61-af22-2fa5a98030f4,2024-03-23,11,68dc95bd-b659-4b95-8f51-5e8cd09f23aa,ice cream,dairy,12.86,1,0,Free Gift with Purchase,cash,stormy,9.45
+81aef64e-13d5-494c-8d43-27ad14c89b03,2023-06-26,20,a5fe63d4-d705-41c1-bef9-6d0458884242,carrots,produce,1.09,1,0,Free Gift with Purchase,card,cloudy,0.8
+6bd3c2cc-b5ac-4ea4-918e-e05af960d342,2024-02-04,20,d1eebf62-c671-47a1-b1db-c6aab267050c,coffee,beverage,5.76,1,0,Buy One Get One Free,cash,cloudy,4.14
+01763b92-881d-4faa-8e7b-025ec6271c29,2023-09-11,17,2dda7d3a-1e71-4610-a322-6eba76a67209,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,stormy,7.86
+7695c150-7126-476b-8a8c-78de3ec683ca,2023-06-02,21,19bca57a-28d9-425d-9d52-9f362dfb968c,bread,bakery,9.95,1,0,Buy One Get One Free,card,sunny,6.8
+23420a35-3bab-4991-9298-c963f03250da,2024-03-29,12,cf3c7249-362c-4d52-bc77-214f9fe9aa03,apples,produce,10.47,1,0,Free Gift with Purchase,card,rainy,8.04
+1d8188df-4a43-4cec-b88b-2cfdf2cc069a,2024-01-24,9,064634ad-5a2f-469e-a240-ddc6aca928aa,onions,produce,9.25,1,0,Loyalty Rewards Points,card,rainy,5.87
+62087915-d219-430d-8f2d-b83e841ed40a,2024-03-08,18,9abac760-812c-4723-b9f6-d917a0dd3e88,onions,produce,9.25,1,0,Free Gift with Purchase,card,cloudy,6.33
+99fa8d55-3600-4a73-9875-10198da29c73,2024-04-15,15,42d0ee09-5a92-4460-9de0-f4882461a125,chips,snacks,5.71,1,0,Free Gift with Purchase,card,stormy,4.38
+6aebc7da-2dd4-46b9-b0c1-073ad0737bd4,2024-04-10,9,670f61cb-2a4c-479f-9afe-05467bb53197,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,card,rainy,1.74
+4b4a10f1-71ae-4cb7-8a52-a933926ebd20,2023-12-18,19,ffe49356-4b87-46e7-b550-367ff2872311,onions,produce,9.25,1,0,20% Off Entire Purchase,card,rainy,6.78
+3d1c6164-a3bc-4a6f-b758-56dd5fb13eb4,2023-10-28,13,c053905f-666d-4afd-bf58-f3c10ea6a8f0,soda,beverage,10.77,1,0,20% Off Entire Purchase,card,stormy,6.9
+d62619c4-9728-4cd0-9311-2369aff7d48b,2023-06-05,15,194a796e-39c9-4e41-8247-16815216205b,onions,produce,9.25,1,0,20% Off Entire Purchase,cash,sunny,6.17
+8ac6f062-0833-4b01-b241-7c834aa229de,2023-06-25,9,98675df6-9573-4601-b4c1-0fe358dd511c,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,rainy,6.16
+230aecee-393b-4af7-b661-3c9792d3f331,2023-09-06,18,9a18bf23-5654-4a97-9395-16e750de2ee8,orange juice,beverage,12.28,1,0,Free Gift with Purchase,cash,sunny,8.79
+03e4f2e1-093b-4da3-9198-e6cbbac003fe,2023-09-21,21,54ee070f-9623-4936-84a9-1edfd0e66319,coffee,beverage,5.76,2,0,20% Off Entire Purchase,card,rainy,4.05
+03e4f2e1-093b-4da3-9198-e6cbbac003fe,2023-09-21,21,54ee070f-9623-4936-84a9-1edfd0e66319,pork,meat,4.06,2,0,20% Off Entire Purchase,cash,rainy,3.0
+9b1df38a-b1ae-4c09-be6e-6b798a8d1f0b,2024-03-02,17,d30beb5d-aac0-45d6-8b90-b0ec6c890b9f,grapes,produce,2.22,2,0,Free Gift with Purchase,cash,stormy,1.46
+9b1df38a-b1ae-4c09-be6e-6b798a8d1f0b,2024-03-02,17,d30beb5d-aac0-45d6-8b90-b0ec6c890b9f,ice cream,dairy,12.86,2,0,20% Off Entire Purchase,cash,stormy,8.75
+7ee9af1e-f0ce-4bfe-bb3b-3b3c82a13654,2023-11-04,17,eef2f0ee-3efc-4bf6-8efc-91ce6ed04359,fish,seafood,8.07,2,0,20% Off Entire Purchase,card,sunny,5.36
+7ee9af1e-f0ce-4bfe-bb3b-3b3c82a13654,2023-11-04,17,eef2f0ee-3efc-4bf6-8efc-91ce6ed04359,cereal,grains,10.1,2,0,Free Gift with Purchase,cash,sunny,7.33
+e87aa32d-c492-46a0-8fc3-c4f88d8ba1a8,2024-01-06,21,a2f9b508-bd1d-480a-b241-164b04618761,onions,produce,9.25,1,0,Buy One Get One Free,cash,sunny,6.77
+e55d6434-5192-412a-888a-4462decabeb6,2024-04-14,17,41e329e2-5521-49c9-8d16-6db8aca11ffc,beef,meat,1.42,1,0,20% Off Entire Purchase,cash,stormy,1.07
+00a71244-0de1-48ee-b0df-1f6b305dcd24,2023-11-13,17,63bf526f-384f-4de3-b931-cd162faf5a3f,apples,produce,10.47,1,0,Buy One Get One Free,card,sunny,8.02
+46a2e2ea-03a1-4d02-9aed-749c6bf88ecc,2024-01-27,12,ce196b50-1499-40a3-befc-33e6eadb12eb,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,cloudy,2.82
+81fbd549-0b57-4ef8-a63f-00794a262667,2023-11-11,19,317e8fdc-139d-4c27-85b0-060b330df939,eggs,dairy,11.31,1,0,Free Gift with Purchase,card,sunny,7.16
+a35b14f7-7c34-4835-a627-86ff75a790ed,2023-06-02,10,8237b25d-146b-4e1e-8bad-e2c332e69416,chips,snacks,5.71,2,0,20% Off Entire Purchase,cash,sunny,4.04
+a35b14f7-7c34-4835-a627-86ff75a790ed,2023-06-02,10,8237b25d-146b-4e1e-8bad-e2c332e69416,chicken,meat,6.91,2,0,Loyalty Rewards Points,cash,sunny,4.75
+6ed7c0c9-1c8a-45a8-bda9-259fd07fdc80,2024-01-18,15,9ac9013e-73d9-44c9-8243-679ea135be21,soda,beverage,10.77,2,0,Buy One Get One Free,card,rainy,7.59
+6ed7c0c9-1c8a-45a8-bda9-259fd07fdc80,2024-01-18,15,9ac9013e-73d9-44c9-8243-679ea135be21,cheese,dairy,4.12,2,0,Buy One Get One Free,cash,rainy,3.0
+214629e1-71bd-4c6f-bb3c-e829e86f92fb,2024-05-20,17,19747ae2-9b52-4362-85af-aa57f8881af9,soda,beverage,10.77,1,0,Buy One Get One Free,cash,sunny,7.24
+6bbf8d02-09d8-449f-a19e-f954dbaedfd7,2023-07-12,21,d66e3d0b-e5e8-4fbc-a686-a396e8002fd3,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,card,stormy,1.66
+cdd75041-bf32-45a2-9d76-41c2c3967a7f,2024-05-20,17,62989bc5-1578-4733-87c9-f7e466b750bd,rice,grains,1.37,2,0,Free Gift with Purchase,card,cloudy,1.02
+cdd75041-bf32-45a2-9d76-41c2c3967a7f,2024-05-20,17,62989bc5-1578-4733-87c9-f7e466b750bd,chips,snacks,5.71,2,0,Free Gift with Purchase,card,cloudy,3.84
+e37b9a0c-6573-401b-b2a2-e90341a838d8,2024-02-21,17,7a658c60-89c8-42e1-bceb-bea18d7fd0c8,bread,bakery,9.95,2,0,Buy One Get One Free,cash,cloudy,7.1
+e37b9a0c-6573-401b-b2a2-e90341a838d8,2024-02-21,17,7a658c60-89c8-42e1-bceb-bea18d7fd0c8,lettuce,produce,12.33,2,0,Free Gift with Purchase,card,cloudy,8.13
+04bed9fb-875d-4520-8906-c29741cfb424,2024-02-09,15,ab95e8a9-7d81-460b-bb89-7659e08d2db5,grapes,produce,2.22,1,0,Free Gift with Purchase,card,cloudy,1.59
+749d2f64-c2f2-41ef-bd70-3ec38837813b,2024-03-18,10,79375448-b485-4963-8a50-20b59ee3aa22,lettuce,produce,12.33,1,0,Loyalty Rewards Points,card,cloudy,9.24
+6449ddfd-7d8b-42d9-860f-cd9ae2d23ffc,2023-08-11,13,7a26cc61-5498-4e90-a617-be927f70bf0e,bananas,produce,13.49,1,0,Loyalty Rewards Points,cash,sunny,9.87
+99840795-4070-40ff-9222-375efa5a040d,2024-02-11,14,8d9c6038-aac3-487a-b7ce-ac233b6aa391,grapes,produce,2.22,1,0,Buy One Get One Free,card,cloudy,1.43
+ca35f9af-637a-47c6-9bfb-012a7133e3d8,2023-12-18,14,b7b8f4da-8bcb-4a36-847c-22f15272b85e,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,stormy,0.79
+76cb43c4-06b2-4d92-96a6-2beff33afa3c,2024-05-05,21,74087693-b9f3-4002-8a67-a7a3c6cc850a,apples,produce,10.47,1,0,20% Off Entire Purchase,card,rainy,6.6
+42cd4fc0-1724-45b4-8222-db167f47e480,2023-09-29,20,aa3a33b1-4a1f-474b-9d65-48bc9f641daa,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,stormy,5.24
+804b720d-27d0-44fc-b700-7b7fbb09c76e,2023-12-13,16,91fb5673-01a0-4fe6-b5c2-701b23272e87,beef,meat,1.42,1,0,Buy One Get One Free,card,stormy,0.99
+0f3b4d29-c011-4922-ac9e-fd8473f52980,2023-11-06,19,d36685bf-743d-42e6-803a-3efe0637f089,yogurt,dairy,2.35,1,0,20% Off Entire Purchase,cash,sunny,1.75
+dc55c86d-e96e-4c8a-9359-85f94980dfa4,2023-07-01,20,c37edb70-5bb5-4c27-99bd-057de6414874,ice cream,dairy,12.86,1,0,Buy One Get One Free,cash,sunny,8.14
+65ca8ea9-3adb-4c7d-85f0-300a6b460324,2024-05-16,21,22142918-1246-4c28-b427-404ca3283c02,onions,produce,9.25,1,0,Loyalty Rewards Points,card,cloudy,6.16
+5a926ab6-4724-48e6-9de8-d3152bed1c35,2023-10-04,14,eaf68874-2db7-4f8b-a2c4-37fbd97c0444,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,stormy,10.26
+9d93c756-6051-4723-a82b-917a90bc83fa,2023-11-13,16,6beffbe4-f4e5-49c7-9d17-bcbce794de3e,potatoes,produce,4.09,1,0,20% Off Entire Purchase,card,sunny,2.58
+a5a6cc09-d26f-40f1-9d94-ed0262953d65,2024-05-14,21,7c774d1e-d4cc-4978-8eae-ef6e696e8324,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,cloudy,7.43
+735512e3-17bc-4e28-ba64-fa10636b77aa,2024-02-27,14,1a845f84-76bc-40fd-b726-89df19e3b22d,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,sunny,5.72
+cfced642-450f-4702-b4eb-68dd8f5c1722,2023-06-26,12,e177dbec-0ff6-4b32-a9f3-82c9b56c329f,potatoes,produce,4.09,1,0,Free Gift with Purchase,cash,sunny,3.1
+bc167fa9-d64b-46ec-88a6-c3b61415f9f5,2024-05-07,16,c4f654a2-d5ac-428f-9cdb-4ae67b6c0dcd,butter,dairy,1.35,1,0,Free Gift with Purchase,card,stormy,1.04
+2d520dd5-56d2-4584-b2f7-5ad432aad73c,2023-12-02,20,980ab161-e68b-4eb7-9ad2-d9027ea6e249,chicken,meat,6.91,1,0,20% Off Entire Purchase,cash,rainy,4.91
+3a3f5a17-ab19-4eab-a9d9-c05df00da9cc,2024-03-31,19,3b9ec128-dfaf-45e5-a0a8-cdd5577d89b4,orange juice,beverage,12.28,1,0,Buy One Get One Free,cash,stormy,9.28
+1a41957c-ed3d-424e-9336-a49ad70b18b2,2024-01-18,15,72a71b5e-60ff-4ef6-a885-11e813465044,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,cloudy,6.01
+efb6792e-26c3-42aa-ac83-e1554248931d,2024-04-23,21,41c74ec2-8dda-499f-831b-d3a00883cc8d,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,stormy,6.97
+d6a41528-2bae-4f2c-b332-f7bfb72e5f53,2023-06-26,11,9380b62f-c150-476b-b349-3a07159dea64,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,card,cloudy,8.1
+d6a41528-2bae-4f2c-b332-f7bfb72e5f53,2023-06-26,11,9380b62f-c150-476b-b349-3a07159dea64,chicken,meat,6.91,2,0,Buy One Get One Free,card,cloudy,4.7
+90be5007-a031-4ae3-9b37-f6c3cef51715,2024-03-22,15,b7f6afb2-1fa1-466f-919d-90de148091a0,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,card,rainy,6.25
+1f749d9a-0120-4c2c-905b-7c09d63a1508,2024-05-20,18,e20a2f5d-2228-462c-9afd-89fe1f1c9d68,pasta,grains,3.78,1,0,Buy One Get One Free,card,cloudy,2.39
+c6753ec7-8675-4671-8c46-01e90af9a024,2023-10-25,18,c2cfa098-b631-4d31-a756-a2016cce5ca1,potatoes,produce,4.09,2,0,20% Off Entire Purchase,card,cloudy,3.09
+c6753ec7-8675-4671-8c46-01e90af9a024,2023-10-25,18,c2cfa098-b631-4d31-a756-a2016cce5ca1,butter,dairy,1.35,2,0,20% Off Entire Purchase,cash,cloudy,0.88
+967db9fd-5210-46a5-9927-a086611d91ba,2024-03-26,18,8ef6df8d-124f-475a-afec-38b4b6b6251b,tea,beverage,3.18,1,0,Free Gift with Purchase,card,sunny,2.3
+44bb5c88-b87b-4f45-8632-3923cb264489,2024-05-11,12,c2df4315-79b2-4708-aa7c-205fd29e733a,tomatoes,produce,8.63,1,0,20% Off Entire Purchase,card,stormy,6.48
+7752d06e-ef05-412d-827f-49c15c150c82,2024-02-10,15,e4795f21-e575-4f00-9d87-531ca533c7c5,chocolate,snacks,2.3,1,0,Free Gift with Purchase,card,cloudy,1.7
+7671c773-84aa-4760-ba52-532c7df1e398,2023-09-06,20,a9a481f0-ae7d-450f-8d86-7bb8117845ee,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,rainy,0.78
+3ea12f1b-b308-4bc8-b8b2-81667955dbbd,2024-05-18,15,1870e54d-b5ee-46a4-9d81-ddd9acbbe8fa,bananas,produce,13.49,2,0,Loyalty Rewards Points,card,cloudy,10.12
+3ea12f1b-b308-4bc8-b8b2-81667955dbbd,2024-05-18,15,1870e54d-b5ee-46a4-9d81-ddd9acbbe8fa,potatoes,produce,4.09,2,0,20% Off Entire Purchase,cash,cloudy,2.92
+cf7b92de-e217-4444-8b12-576c8759aaab,2023-07-08,18,0c3842fd-db53-4cfb-aad3-0d480c6f3ae4,onions,produce,9.25,1,0,Buy One Get One Free,card,sunny,6.48
+9308cc25-d284-4453-b74d-96fd6be13452,2024-01-11,16,4b3e4852-68a6-4bf2-932e-7f347eaaf928,onions,produce,9.25,1,0,Loyalty Rewards Points,cash,cloudy,6.9
+e17f662e-def7-4b28-a934-9646101284b2,2023-12-22,14,0f359826-f283-4efa-baa4-3126caa4806c,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,sunny,2.5
+26df3535-73c6-4cef-912d-4ccc353df052,2024-04-13,14,dfca945b-19ff-4a95-b4d3-24dd765101cd,chicken,meat,6.91,1,0,20% Off Entire Purchase,card,sunny,4.81
+f8b9ba24-11db-4d5c-9973-e5b27d2489f7,2023-07-04,13,d205d986-0971-404c-84f4-e1fa871f0415,bread,bakery,9.95,1,0,Buy One Get One Free,card,stormy,7.26
+715ac980-8c6b-4b77-8566-9b0b5d836a8f,2024-04-09,17,65fbdc9e-f54e-41a4-8637-68321cb8062d,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,sunny,9.8
+b0cf4b9c-b3d6-4a9a-84a1-112a3d53e713,2023-09-13,14,c64d9584-26ae-466b-9c5a-f1ad1b2f18ef,orange juice,beverage,12.28,1,0,Free Gift with Purchase,cash,sunny,8.74
+61e9039b-bb4f-4c31-825e-0ae6dc100e8b,2024-03-02,18,80b3c15d-b3f0-4359-9f25-515055466a07,soda,beverage,10.77,1,0,20% Off Entire Purchase,cash,rainy,7.38
+4e9a0f89-d912-4ded-a35f-e5d83a8db7a3,2024-05-21,17,b3b1852e-e9df-4be1-aa52-0e5e80e00ef2,onions,produce,9.25,1,0,Free Gift with Purchase,cash,stormy,6.55
+678feae8-fe54-4ffa-b8f2-3dbc92e3ffbd,2023-10-12,18,8c21f7b1-dced-4f01-9542-0df140e62af0,rice,grains,1.37,1,0,Buy One Get One Free,card,rainy,1.0
+3e9f3cc8-721d-42f2-9129-19ae0890e6c7,2023-08-28,16,018557da-cc2a-49f5-92e4-f764c173d234,potatoes,produce,4.09,2,0,Buy One Get One Free,card,cloudy,3.03
+3e9f3cc8-721d-42f2-9129-19ae0890e6c7,2023-08-28,16,018557da-cc2a-49f5-92e4-f764c173d234,rice,grains,1.37,2,0,Buy One Get One Free,card,cloudy,0.94
+3d5aa870-b627-4c7b-a711-72f6fcab9dce,2024-01-25,11,99ad837d-c518-4b34-b06c-bd4f31062b92,pasta,grains,3.78,1,0,Free Gift with Purchase,card,stormy,2.43
+bd4a796a-6a00-4e5d-b344-b0160cbd8d3b,2024-03-01,14,84c8c45c-9af3-4552-9239-8a9ba8609b5f,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,sunny,2.17
+607ad6ae-ee8a-4e46-99b2-843158f2c40a,2023-09-05,20,a0532e0b-cf75-4540-8ee0-a48230b27b4e,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,cash,sunny,1.51
+62d4e253-b545-414c-afa8-37302cc183ad,2023-11-22,9,84dcd234-8e1e-465d-80c4-2e92554c984d,pizza,frozen,9.45,1,0,Free Gift with Purchase,card,cloudy,7.02
+218c3ed8-e3f6-4fbd-a748-ba2fd4ead790,2023-09-07,9,8249e650-9177-4170-862f-9cd299768374,soda,beverage,10.77,1,0,20% Off Entire Purchase,card,cloudy,6.84
+671d161a-a7cf-4a15-ba6e-a1081b4cded5,2024-03-11,11,0a53be2d-13f4-4b13-a135-6f7b402aaf35,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,sunny,9.88
+a9a11231-53b6-4db6-835f-613d46e64603,2023-10-17,18,399034ea-6d6e-450f-87a7-88cb8ef3c881,tea,beverage,3.18,1,0,Buy One Get One Free,cash,cloudy,2.32
+1b9d4976-a5ad-445e-9719-b74132f7015e,2024-02-04,20,4f076443-9504-4b68-ab07-46b5bda77b1c,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,rainy,1.54
+ecea8a73-442e-48b4-bfd3-29ce895f7802,2023-07-28,15,0c643ceb-4bcd-485a-b2e8-50be8def1e76,pasta,grains,3.78,1,0,Buy One Get One Free,cash,sunny,2.65
+85c1acce-595b-4805-9261-addcf5b2b9d2,2023-11-02,14,abf95982-2a1b-4f4c-b860-5bc39514b228,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,sunny,5.2
+72fa79a2-fdc7-487d-8d65-36c68e3b8419,2024-02-28,15,6c0c8375-1720-4e9a-8124-2771d6f86b37,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,stormy,9.76
+707dda49-8422-48a4-ab10-31c7cde78267,2024-01-22,18,1aed6059-b27c-4bf3-b0a7-ccd17a0bfeeb,chicken,meat,6.91,1,0,20% Off Entire Purchase,card,sunny,4.42
+3325b96f-4bc4-4d40-839c-439ad8d07043,2023-06-24,21,d0614c49-036d-4501-b9c7-944dbe6d0b57,fish,seafood,8.07,1,0,Buy One Get One Free,cash,rainy,5.67
+a5ad5c39-5c64-4a93-a013-8700fcec72f1,2024-02-11,12,819a28d4-7367-42c8-afb2-00b85a976519,soda,beverage,10.77,2,0,Buy One Get One Free,card,rainy,8.02
+a5ad5c39-5c64-4a93-a013-8700fcec72f1,2024-02-11,12,819a28d4-7367-42c8-afb2-00b85a976519,tea,beverage,3.18,2,0,Free Gift with Purchase,card,rainy,2.22
+41d1540f-994e-40dc-a9be-a93f3d88b636,2024-02-25,18,b493ae0e-f19f-45a9-88c8-709ee72d357b,tea,beverage,3.18,1,0,20% Off Entire Purchase,cash,rainy,2.31
+f819859d-c8da-4e54-8964-5543d2c9af0a,2024-01-03,20,8d6b1fe7-3941-45a6-b0ed-29c1ab62ea68,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,cloudy,1.67
+f6ffe9e2-bb73-4887-a4e9-a0852157744b,2023-11-29,12,d4d8cf6d-d2a2-4571-97fb-82190ad95f0f,fish,seafood,8.07,1,0,Buy One Get One Free,card,cloudy,5.26
+168a3d98-ba27-4896-8eef-07c1813ddad7,2024-01-15,10,1af6d67f-2688-4341-b03e-ad0bd8e48f01,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,stormy,10.8
+77d0ef07-128b-49a9-ba6f-5de56f2021b0,2024-04-18,14,772b4101-0236-4fbc-9081-74f5891b14e7,ice cream,dairy,12.86,1,0,Free Gift with Purchase,cash,rainy,9.72
+776b6341-d574-4d56-adfa-95f5be554caf,2024-03-29,11,664887fa-add3-4a2f-ad53-e127715ad4f4,cookies,snacks,14.4,1,0,Buy One Get One Free,cash,rainy,10.23
+ff4a29c1-30fb-42fd-b0a6-160179942988,2023-08-29,16,7da11645-ac39-4f2e-a00b-df00c6d87d9d,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,sunny,1.03
+b1fcf15d-ed8b-46cd-a964-2ae642a1b2e7,2023-12-21,10,cbb1569b-92c3-4dee-820d-310e84f9aced,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,stormy,6.28
+e8854452-a704-45f7-bd56-616577ba4355,2024-02-09,18,a11f0eb1-808c-416d-a250-acdc84040a12,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,sunny,0.82
+0778a0e0-cac3-43c5-ac36-6b18c86ab46c,2023-07-26,12,97e495cd-7b09-4c71-afc6-fba84c4798f9,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,rainy,0.74
+9bab8e20-7ea5-4ff2-8dac-e5fc7d232272,2024-05-18,15,fb5a881e-b154-4f7e-a59a-6bfec7a86c37,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,cloudy,9.82
+e5acd4c3-072b-4a22-8558-2fc65a01fcd8,2023-12-08,16,e739167b-ca9e-41a0-83f1-1dc1cdac4d2c,lettuce,produce,12.33,1,0,Buy One Get One Free,cash,cloudy,8.95
+588a118c-6d75-4cb8-9cc9-a1c0a29bb237,2023-08-10,21,3603b995-cd6a-49ee-8abd-5c24f26e7d23,yogurt,dairy,2.35,1,0,20% Off Entire Purchase,card,cloudy,1.61
+7ce4e6b1-bb79-4edc-9f1a-e35662cc655c,2023-09-20,16,80b4977b-5f5a-4c94-83c5-d40f31fecc8d,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,sunny,5.6
+75ad3f82-a370-42e3-a698-7c815f94f68a,2024-02-09,13,42ec6b47-8687-4aeb-b807-960b09b3321a,lettuce,produce,12.33,1,0,Buy One Get One Free,card,rainy,7.85
+451c1d84-f654-4372-9194-28b12115b320,2023-10-01,9,1d0f93f4-a85b-4720-8e5d-d44ccd69622e,tomatoes,produce,8.63,1,0,Buy One Get One Free,cash,cloudy,6.45
+b0646f8e-3c03-4b4c-8382-514464366de4,2023-08-28,20,43274884-1910-4819-a6f8-de59821bf4b8,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,rainy,5.72
+56eb790d-3ec1-4a72-9223-c95cef70579c,2023-11-25,9,af687aa4-f747-4862-9fbc-3cfeabd2df62,yogurt,dairy,2.35,2,0,20% Off Entire Purchase,card,stormy,1.8
+56eb790d-3ec1-4a72-9223-c95cef70579c,2023-11-25,9,af687aa4-f747-4862-9fbc-3cfeabd2df62,soda,beverage,10.77,2,0,Free Gift with Purchase,cash,stormy,8.26
+0c9b2eac-be13-4bb8-bac4-01e06359428a,2024-01-09,14,cf2df90a-e236-4101-8a6e-e992e5f1a5c0,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,stormy,7.62
+afab73c9-5b46-43a7-86d5-211b32d22e8d,2023-10-21,16,91bceaee-a61b-4c79-b25b-8d21fa315a63,orange juice,beverage,12.28,1,0,Free Gift with Purchase,cash,cloudy,9.13
+c0e6e7f9-a1d4-45c2-8543-773633e79e5a,2023-06-09,19,b81bc581-c47b-4edf-b0bf-0c767f8653b3,milk,dairy,4.85,1,0,Free Gift with Purchase,card,stormy,3.11
+2c4ec467-6780-470c-9125-99feae762450,2023-10-19,14,802832ea-5ac1-437b-a68d-153b7984ecab,coffee,beverage,5.76,1,0,Loyalty Rewards Points,cash,rainy,3.84
+6683b86f-767d-47e3-9cbe-1b63b5d30fad,2023-12-25,16,1154c971-8b57-4c10-9024-368de37edbbc,potatoes,produce,4.09,1,0,Loyalty Rewards Points,card,rainy,3.13
+6b29d402-2594-49f1-a944-f9023eaf9aca,2024-04-24,11,78be0b0f-a6c8-4893-841c-f06910ae531e,grapes,produce,2.22,2,0,Buy One Get One Free,card,sunny,1.48
+6b29d402-2594-49f1-a944-f9023eaf9aca,2024-04-24,11,78be0b0f-a6c8-4893-841c-f06910ae531e,soda,beverage,10.77,2,0,Buy One Get One Free,card,sunny,7.04
+51f0dc87-f5e0-4c48-aef0-ba9c354db169,2024-01-28,10,24a26983-9c35-4863-8eb8-1c8325f5e389,bread,bakery,9.95,1,0,Buy One Get One Free,card,stormy,7.34
+0a9ec439-b019-44a2-8cef-c50c5cc60c7e,2024-05-22,13,307c89bc-5d77-4180-bf0d-6098f5f49c23,pizza,frozen,9.45,2,0,20% Off Entire Purchase,card,cloudy,6.47
+0a9ec439-b019-44a2-8cef-c50c5cc60c7e,2024-05-22,13,307c89bc-5d77-4180-bf0d-6098f5f49c23,ice cream,dairy,12.86,2,0,Loyalty Rewards Points,card,cloudy,9.43
+ea789c57-083b-4597-9979-70dc2d830c65,2024-03-01,11,b40a3a4a-cb87-4777-bb07-18063ac76e85,soda,beverage,10.77,2,0,Free Gift with Purchase,cash,cloudy,8.08
+ea789c57-083b-4597-9979-70dc2d830c65,2024-03-01,11,b40a3a4a-cb87-4777-bb07-18063ac76e85,fish,seafood,8.07,2,0,Free Gift with Purchase,cash,cloudy,5.61
+75e9fe95-0553-4ed2-af8e-1a25ae2fc195,2023-11-09,11,e931d918-5047-41c7-81db-3c280d086e28,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,cloudy,7.26
+9ef6271a-e200-4d42-8983-f20ba21ffe2f,2024-01-28,14,c4577897-0414-4a68-b66e-c0d39432ab64,chips,snacks,5.71,1,0,Free Gift with Purchase,cash,stormy,3.67
+af9add99-0a8b-4bb9-b33e-544f9e5c6ae7,2024-01-05,15,8b4c9075-a5e6-4b54-9aad-172e6b6621e0,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,rainy,6.27
+8b8a4bbb-3583-4f4f-b922-7f4861361373,2023-08-11,13,45566cbd-323f-434a-978e-f73424e7c4e4,coffee,beverage,5.76,1,0,Loyalty Rewards Points,cash,stormy,4.37
+4824ccd7-9347-4c68-aff1-1eb40756150f,2023-09-09,9,cd40d56c-0286-4702-bf61-cf65fd6bca81,carrots,produce,1.09,1,0,Buy One Get One Free,cash,stormy,0.72
+3d59c849-580b-43f1-aed0-8db26adb462b,2024-01-11,12,b109b5c2-7879-4ffe-95c7-624186b04729,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,stormy,2.59
+71a36a95-c1d9-4478-b24a-3748fc04ffac,2024-01-25,15,4ad9ffd0-e5cd-4fdc-9c12-46ee7ce466a2,pasta,grains,3.78,1,0,Free Gift with Purchase,cash,cloudy,2.71
+eb5a5ddb-48f1-467c-b455-8c3e84372c8c,2023-12-07,19,89e127d0-81b8-461f-a0c6-5592d2c9c413,yogurt,dairy,2.35,1,0,20% Off Entire Purchase,cash,rainy,1.5
+63024b43-1876-4bce-8f74-40fa1053498d,2023-08-10,10,81e90ca0-ef93-4526-ad2d-9199116844f8,chicken,meat,6.91,1,0,Loyalty Rewards Points,card,stormy,5.03
+b75c77d1-e93c-4390-be56-9c826f06072c,2023-11-01,14,27371251-7008-4b7a-95ba-3a1e03882b2d,onions,produce,9.25,1,0,Buy One Get One Free,cash,sunny,5.86
+cabf6f6e-0e3a-4f0c-8ef0-723aadec25c7,2023-09-01,13,d58c2abb-5a8c-4324-b04c-126ca566176c,tea,beverage,3.18,1,0,Buy One Get One Free,card,cloudy,2.01
+4c7c28f7-36f2-4f8b-8fc5-a0dc57c8ffcf,2023-06-13,9,77097f06-3460-4059-a8d1-5ea3af47079c,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,stormy,2.55
+605074b8-5827-4f06-b145-cd5fee9bdd47,2024-01-08,16,489a8fc6-6611-47ab-83e0-3118c5812f1c,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,card,sunny,1.69
+8a634cc0-f788-43db-8e47-4a4a684df5ea,2023-06-09,13,63bac3f7-5214-4a08-ab6d-65bace62096e,tomatoes,produce,8.63,2,0,Free Gift with Purchase,cash,stormy,5.67
+8a634cc0-f788-43db-8e47-4a4a684df5ea,2023-06-09,13,63bac3f7-5214-4a08-ab6d-65bace62096e,apples,produce,10.47,2,0,Buy One Get One Free,card,stormy,7.81
+37a922c0-8e30-47cc-b87f-7b8fb450cc2a,2023-09-27,15,57a293be-86b6-4abe-95f4-e89a74191542,butter,dairy,1.35,1,0,Buy One Get One Free,card,stormy,0.89
+8a947434-6f91-40e7-9413-6e8ce417ddcc,2024-05-02,16,3747856e-6e59-4695-a43e-f39317dcd41d,beef,meat,1.42,1,0,20% Off Entire Purchase,card,stormy,1.08
+9a5b7a6e-f561-4738-ba4e-8123d89dddb1,2024-04-02,20,d60bc835-3d92-4dd0-b6ed-446de212fc5d,orange juice,beverage,12.28,1,0,Free Gift with Purchase,card,sunny,8.25
+57786f5a-2c24-4072-9fa7-2d7889205fe8,2023-07-30,19,b8091e55-604d-425a-86c2-cd5d9ffee0af,grapes,produce,2.22,1,0,Free Gift with Purchase,card,cloudy,1.6
+a885808b-eaad-4b22-bf62-7c64212d1688,2023-10-11,11,5b09e4fa-1917-45e2-a472-d99b30cae6c1,rice,grains,1.37,1,0,Buy One Get One Free,card,rainy,1.01
+44eb1f84-3962-4281-af6c-d933ddf8d353,2024-05-17,18,5639b99a-6613-4ac9-8b84-daedcd066a6d,eggs,dairy,11.31,1,0,Buy One Get One Free,card,stormy,7.71
+a7e5a9bc-250f-4df8-8a3e-249cfef3f357,2023-06-28,11,e98fbeba-6b12-46fb-971d-4eea67ab4c7f,carrots,produce,1.09,2,0,Buy One Get One Free,card,stormy,0.83
+a7e5a9bc-250f-4df8-8a3e-249cfef3f357,2023-06-28,11,e98fbeba-6b12-46fb-971d-4eea67ab4c7f,pork,meat,4.06,2,0,20% Off Entire Purchase,card,stormy,2.76
+21af940e-521e-4c7c-bb8f-4c6e856e0e22,2023-12-22,11,275c5967-74cd-44ea-9587-837728a740d0,onions,produce,9.25,1,0,Free Gift with Purchase,cash,stormy,6.85
+862156ff-1397-4dcd-9f9a-eab0f3f452d7,2024-04-28,20,a31afe23-371f-4fb2-89ff-360715a4e074,rice,grains,1.37,2,0,Free Gift with Purchase,card,cloudy,1.0
+862156ff-1397-4dcd-9f9a-eab0f3f452d7,2024-04-28,20,a31afe23-371f-4fb2-89ff-360715a4e074,fish,seafood,8.07,2,0,Loyalty Rewards Points,cash,cloudy,5.63
+dd1bebfe-e023-404a-87ff-492797ca3c57,2024-02-24,17,8a893451-b7e3-4974-a7ca-41a074156040,apples,produce,10.47,1,0,Free Gift with Purchase,cash,stormy,7.39
+045d4e71-1c29-43bd-b60c-edce5275ce6e,2024-03-31,13,5542cf44-b9cf-42e8-89d5-c1601fe1dfc0,eggs,dairy,11.31,2,0,Free Gift with Purchase,cash,cloudy,7.59
+045d4e71-1c29-43bd-b60c-edce5275ce6e,2024-03-31,13,5542cf44-b9cf-42e8-89d5-c1601fe1dfc0,cereal,grains,10.1,2,0,Loyalty Rewards Points,card,cloudy,7.01
+d8d354d8-1e7e-4a49-821d-8d260b9af308,2023-12-26,9,03880819-3183-4a88-a57e-edff07e6a4c2,grapes,produce,2.22,1,0,Buy One Get One Free,cash,rainy,1.5
+6d3abb10-72ab-446e-8e52-9d490923c9fd,2024-05-06,12,1ba54c0f-dfb1-425d-a939-221971686655,eggs,dairy,11.31,1,0,Free Gift with Purchase,cash,stormy,8.1
+68fca8b9-bc38-4eaa-80c9-223861eb38bf,2023-11-02,19,0d4aeb36-577c-48c9-a229-20d79d866931,potatoes,produce,4.09,2,0,20% Off Entire Purchase,card,rainy,2.61
+68fca8b9-bc38-4eaa-80c9-223861eb38bf,2023-11-02,19,0d4aeb36-577c-48c9-a229-20d79d866931,soda,beverage,10.77,2,0,20% Off Entire Purchase,card,rainy,8.1
+3521b5fc-a63d-43e2-a5b4-09b9e6ffa7f8,2023-07-28,16,fa10c8b9-3a7f-4597-911a-0507266ea6da,lettuce,produce,12.33,2,0,Loyalty Rewards Points,cash,cloudy,9.21
+3521b5fc-a63d-43e2-a5b4-09b9e6ffa7f8,2023-07-28,16,fa10c8b9-3a7f-4597-911a-0507266ea6da,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,card,cloudy,7.82
+cc5b07ae-3671-44d2-a54f-e441a0283884,2024-05-03,9,090a4c8d-dd87-42a9-aa61-5608cd14f6c7,pizza,frozen,9.45,1,0,Buy One Get One Free,cash,cloudy,7.13
+c75a7be1-b2d4-4df4-bde5-067f113d4440,2023-08-23,21,c05aca7a-f23d-46b8-bcfb-790811c17fce,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,sunny,2.42
+2eb8dd07-5a99-4e40-b7d7-c3c734d1e5d3,2024-02-26,21,d2720247-9d9d-443d-9638-da206f9e95fa,chicken,meat,6.91,1,0,Buy One Get One Free,cash,sunny,4.87
+e3015b49-3970-42e9-a7b8-9b1c1bc2036a,2023-12-19,10,dc0876bd-ed92-47d7-b7c9-fa8be8eb0244,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,cloudy,2.65
+8143009e-8ba7-493b-9b19-8eaeceff7f4b,2024-03-27,12,abfdebae-5b69-4f21-add8-3bcfcbd84b34,grapes,produce,2.22,1,0,20% Off Entire Purchase,cash,cloudy,1.58
+d0cc9b52-2f4b-4a75-b94a-93f34b38f938,2024-03-03,20,215ea0cf-21ac-4f32-8022-7e7f928ba84f,lettuce,produce,12.33,1,0,Loyalty Rewards Points,cash,sunny,8.39
+c2f5f222-fde7-42f7-8aa2-e58b0c99f269,2024-02-27,10,d22850eb-3156-40ec-947f-45d5e13e3b52,onions,produce,9.25,1,0,Free Gift with Purchase,card,cloudy,6.35
+f98f7000-0d6f-473b-8cda-ed8a59267847,2024-04-02,17,cf05bbd9-f351-4036-8b61-0522df67a084,ice cream,dairy,12.86,1,0,Free Gift with Purchase,cash,stormy,8.67
+e9658992-8a13-4c03-907e-025389a3e33f,2023-12-17,15,1ac37f2f-ae1e-4f08-a6c4-cea2627041a4,pork,meat,4.06,1,0,20% Off Entire Purchase,cash,stormy,2.9
+5c4c1fb5-98bf-474b-a8cb-de80533f0d24,2023-10-17,21,e235f271-d843-4e1b-8b07-33158e5b6efd,cereal,grains,10.1,1,0,Loyalty Rewards Points,card,rainy,7.0
+e9132ae8-c7ca-4425-be0e-67a3e1e56503,2024-04-09,20,3601f5eb-89e3-403e-9c35-15b885286c0d,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,sunny,0.69
+d21fdb83-436e-470d-9e1e-fcf6db0de16d,2024-04-11,9,fd5dd746-539b-4dfe-893b-e2ab59429d8a,bananas,produce,13.49,1,0,Buy One Get One Free,cash,rainy,10.11
+7829b64f-8ac5-439d-a5da-ad918955844f,2024-01-16,17,e4d3ee71-6a6b-40e5-b5e7-bab2b270f16d,cereal,grains,10.1,2,0,Free Gift with Purchase,cash,cloudy,6.58
+7829b64f-8ac5-439d-a5da-ad918955844f,2024-01-16,17,e4d3ee71-6a6b-40e5-b5e7-bab2b270f16d,fish,seafood,8.07,2,0,20% Off Entire Purchase,card,cloudy,6.09
+13b8686c-4360-45d8-a8c9-088c461ebc38,2023-12-11,13,8a3d541d-84cd-430d-81d1-e917acbda12a,rice,grains,1.37,2,0,Buy One Get One Free,cash,rainy,1.04
+13b8686c-4360-45d8-a8c9-088c461ebc38,2023-12-11,13,8a3d541d-84cd-430d-81d1-e917acbda12a,lettuce,produce,12.33,2,0,20% Off Entire Purchase,cash,rainy,9.14
+221fabc6-7236-4b2b-b6a9-345af0ca7df1,2024-01-25,20,7a423722-5236-4582-b945-54254b8315c0,beef,meat,1.42,1,0,Loyalty Rewards Points,card,sunny,0.9
+6ce0da33-aef2-47e3-b373-56f0f1382f46,2023-06-07,21,20b939bb-9d05-4104-be15-696ae51aa1a0,pork,meat,4.06,1,0,Loyalty Rewards Points,cash,sunny,2.76
+fb6cdc92-9dda-4d9d-8f26-9734d5660e42,2023-07-22,10,935f1272-d688-4bf1-a323-be7fb81d1c07,yogurt,dairy,2.35,1,0,Buy One Get One Free,cash,cloudy,1.68
+75bc544f-4901-4249-84ca-fd1ed6ed3106,2023-06-27,9,6ebcd1fb-2087-46a4-b18f-867815550d72,pork,meat,4.06,1,0,20% Off Entire Purchase,cash,rainy,2.86
+e7b5fd94-c332-4a75-a1c5-42de092d7bba,2024-01-20,17,55e59473-f03b-4129-854e-831036696890,soda,beverage,10.77,1,0,Loyalty Rewards Points,cash,cloudy,7.89
+c1fbf272-7021-4acf-8126-7d28626800ba,2023-12-30,21,f5903959-9797-4135-92bc-4411bc6fee6d,beef,meat,1.42,1,0,20% Off Entire Purchase,card,sunny,1.05
+d25492a4-f906-47dc-a628-fd75ba954904,2023-11-28,14,ba246a96-7593-4e12-b6a4-a8b17153df86,tea,beverage,3.18,1,0,Loyalty Rewards Points,cash,sunny,2.03
+6937f0ef-b475-4764-b010-6ca06b8ab9a8,2023-08-21,10,d6036f1e-d4ad-4e31-bc2a-0d9d0b312940,cookies,snacks,14.4,1,0,20% Off Entire Purchase,cash,stormy,10.48
+14c58844-9bfa-4b5f-9bf8-6a56b6ccff63,2023-10-22,17,62893673-9c17-4033-abb4-d17befc07c8f,orange juice,beverage,12.28,1,0,20% Off Entire Purchase,card,cloudy,8.72
+fbb6dd4f-f69a-4239-b40f-5c539fe1f43a,2024-04-19,10,9ff049f6-a226-42a4-a4a3-0a9c3d80fa34,pork,meat,4.06,1,0,Buy One Get One Free,card,rainy,2.95
+2e72c80c-c002-48a7-9205-cfd0409a2bd9,2023-10-17,19,d0e1aac9-aa19-45ba-a228-4e7bbced2312,fish,seafood,8.07,1,0,Free Gift with Purchase,card,stormy,5.3
+6b6ba99b-d64d-44f7-b3cd-f1a1dcb22908,2023-11-15,21,831197c6-43c6-4423-b367-89aed66d8791,fish,seafood,8.07,1,0,Loyalty Rewards Points,card,rainy,5.78
+0e472f37-28c9-42d5-b790-80ea807e13c4,2023-07-24,16,d025b83b-7d28-4623-bb93-d59c87fb7ba1,grapes,produce,2.22,1,0,Free Gift with Purchase,card,sunny,1.46
+b1480336-9209-4bd7-96af-3dc3a31f792c,2023-09-16,21,ab5e77dc-2870-40ac-b904-5206536def30,butter,dairy,1.35,2,0,20% Off Entire Purchase,cash,sunny,1.03
+b1480336-9209-4bd7-96af-3dc3a31f792c,2023-09-16,21,ab5e77dc-2870-40ac-b904-5206536def30,grapes,produce,2.22,2,0,Buy One Get One Free,cash,sunny,1.4
+b151f0dc-fb34-4cb9-a563-0968bab43380,2024-04-14,16,adb84f91-2147-476e-9891-d535a3d6014a,bananas,produce,13.49,2,0,20% Off Entire Purchase,cash,stormy,9.51
+b151f0dc-fb34-4cb9-a563-0968bab43380,2024-04-14,16,adb84f91-2147-476e-9891-d535a3d6014a,tea,beverage,3.18,2,0,20% Off Entire Purchase,card,stormy,2.25
+ef4e5f77-2449-4f61-bfb3-cd86a3491746,2023-12-05,15,4a22957b-b2ab-4f03-ab6a-da8ca9b69968,butter,dairy,1.35,1,0,Free Gift with Purchase,card,sunny,0.9
+5ca752e9-3044-4ebd-a250-e5610df86c2a,2023-11-25,16,f6797e2a-369a-4379-bb66-4800ffa3cf4d,soda,beverage,10.77,2,0,Free Gift with Purchase,card,sunny,7.78
+5ca752e9-3044-4ebd-a250-e5610df86c2a,2023-11-25,16,f6797e2a-369a-4379-bb66-4800ffa3cf4d,chicken,meat,6.91,2,0,Loyalty Rewards Points,card,sunny,4.37
+c957c243-c56a-4531-8e39-1c086a2ac797,2024-03-19,15,aebf4aad-81c8-42b3-aba7-c536a1dec26e,tomatoes,produce,8.63,1,0,Buy One Get One Free,card,sunny,6.48
+82945a45-c4c9-40ef-a5a3-8b675c84c4ea,2024-04-15,12,a9a3e7ec-f576-4aac-ac7f-87366e9e4736,coffee,beverage,5.76,1,0,20% Off Entire Purchase,cash,stormy,3.65
+f55755d4-bdb8-403b-a129-42e8ef71b1d3,2023-12-18,14,0b2f1e61-fdd3-4a1b-93e4-c789433395d9,apples,produce,10.47,1,0,Free Gift with Purchase,cash,stormy,6.62
+345290d3-31a7-4b06-813b-7c4d443575a6,2023-09-01,19,74e1a669-94b3-49be-adb3-b473cb50061f,potatoes,produce,4.09,1,0,Buy One Get One Free,cash,rainy,2.73
+d348939b-74e6-4037-8c25-5725a6acaf4a,2023-07-29,15,b3d2bd61-dabf-4ed3-be14-c5711c6c43e8,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,sunny,4.57
+4776068e-5455-4cd5-8d86-7bed2bc7aff1,2024-05-02,19,dbd2b2fc-0c62-4373-b32b-c605ff7609a3,rice,grains,1.37,2,0,20% Off Entire Purchase,cash,cloudy,1.05
+4776068e-5455-4cd5-8d86-7bed2bc7aff1,2024-05-02,19,dbd2b2fc-0c62-4373-b32b-c605ff7609a3,potatoes,produce,4.09,2,0,20% Off Entire Purchase,cash,cloudy,2.71
+c0dc09fa-b3ee-4dab-a21b-7358cc0df4e9,2024-05-01,13,1d0cf078-a693-431d-9769-660157176698,eggs,dairy,11.31,1,0,20% Off Entire Purchase,card,rainy,7.45
+86c8125a-701b-4372-be25-1a8ddcdace6a,2024-04-17,11,12b39c45-e512-4325-8cd7-00d15f70a006,ice cream,dairy,12.86,1,0,20% Off Entire Purchase,cash,rainy,9.04
+44064a17-5f30-40dd-aa68-8099048cc1bb,2024-01-24,21,0a05ea85-9df9-4971-9d71-cf42683b8a95,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,cloudy,9.35
+9d733cb2-4cfb-4575-86cf-f03e00cadc2e,2023-11-30,17,cad92d56-32f9-4ca0-91dd-a30f309894b4,chocolate,snacks,2.3,1,0,Buy One Get One Free,cash,sunny,1.73
+08fe85b9-b50b-44f6-8baa-cc37e52c9323,2024-03-06,15,2cf5052b-2774-493d-8acf-879c0694e9ae,tea,beverage,3.18,1,0,Free Gift with Purchase,card,stormy,2.42
+28d8093f-26ed-4d3f-bafb-aefeef3b082b,2024-02-07,21,743e35fc-921c-4d9b-be80-0681aa650227,apples,produce,10.47,2,0,Free Gift with Purchase,card,cloudy,7.71
+28d8093f-26ed-4d3f-bafb-aefeef3b082b,2024-02-07,21,743e35fc-921c-4d9b-be80-0681aa650227,bread,bakery,9.95,2,0,20% Off Entire Purchase,card,cloudy,7.1
+da0d0a46-d0fd-4cd6-bbb3-f71d619020a4,2024-03-06,14,86ce7cd9-9b37-4bf1-bbb7-73acc95e5da1,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,cash,sunny,5.6
+906d8280-25fd-4936-bacb-1686f4d93822,2024-03-03,11,6355275b-bec5-4993-9eaf-919d6990f047,eggs,dairy,11.31,1,0,20% Off Entire Purchase,card,stormy,7.38
+1c15ab4a-76f5-40b8-a568-5729e647de26,2023-06-12,15,24ca61da-6c28-4d31-ba0d-d550f21dd849,pasta,grains,3.78,1,0,20% Off Entire Purchase,card,sunny,2.5
+bab07044-e770-4085-9784-0c4c1e7e84cd,2024-01-04,10,da533b81-0a42-4f72-8016-9b9e1c57ca33,cereal,grains,10.1,1,0,Loyalty Rewards Points,cash,cloudy,7.59
+b127c836-e1e2-4c9d-bd96-54bd8b51e3fd,2023-12-08,16,9ddda678-0944-48c6-ba7d-95cd19e892d7,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,cloudy,9.16
+a0f67813-5c78-409d-9886-591175ca8900,2023-10-12,15,dd67dfcb-633f-4321-9f15-90d8c367a8d3,cereal,grains,10.1,1,0,Buy One Get One Free,card,sunny,7.01
+43fadaea-4d73-456b-97ef-ce7075d7619d,2024-02-10,17,2894b35c-f560-462b-a447-79dffb31f5cb,butter,dairy,1.35,1,0,Buy One Get One Free,card,stormy,0.96
+fad7938e-06ff-4060-b971-91a402ce33f5,2024-04-13,13,e7e0196d-6b49-4536-9460-1968275e9dd7,beef,meat,1.42,1,0,Free Gift with Purchase,cash,stormy,1.05
+d5b5563a-774b-4217-9cda-c303a0a39b96,2023-08-26,11,effa1434-9d55-477a-9bde-b9a6e2a8a180,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,stormy,6.03
+ca63dacb-fe86-4607-b2d3-99041d31cf22,2024-01-30,19,99cb7401-a642-4d8e-8b5e-751d5037ec68,potatoes,produce,4.09,2,0,20% Off Entire Purchase,cash,stormy,2.68
+ca63dacb-fe86-4607-b2d3-99041d31cf22,2024-01-30,19,99cb7401-a642-4d8e-8b5e-751d5037ec68,cheese,dairy,4.12,2,0,Loyalty Rewards Points,card,stormy,2.83
+1a000890-17be-469f-8e91-8428b8c1c3bf,2024-01-19,11,940adee3-f42b-444f-a17c-10edf8b28cfa,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,stormy,4.35
+6a604e34-0142-47a1-a618-3b9199da02b6,2023-06-27,13,e7b30444-4eb9-4317-b762-b75634d39b44,pizza,frozen,9.45,1,0,20% Off Entire Purchase,card,rainy,6.89
+183e650b-2970-4983-88bb-089725b2ad07,2023-08-03,10,37d81024-665e-4a69-b199-cbdbe661e72e,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,sunny,8.36
+ab7dea58-910a-4f3c-a439-86a27dbb2c9a,2024-05-29,15,79a6b6e4-ea86-4254-b21f-6ad0252cd7bd,apples,produce,10.47,2,0,20% Off Entire Purchase,card,stormy,7.09
+ab7dea58-910a-4f3c-a439-86a27dbb2c9a,2024-05-29,15,79a6b6e4-ea86-4254-b21f-6ad0252cd7bd,pizza,frozen,9.45,2,0,20% Off Entire Purchase,card,stormy,7.1
+7834db7f-e744-4858-8cd5-652a0c61a676,2023-06-26,15,f9280358-146a-4303-be51-9fe71e9442c7,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,rainy,11.01
+44f781f0-36de-478f-afeb-4afc16872e22,2023-10-09,10,eb5abd4b-54b0-4ac2-be7a-5627cc1a2ae5,bread,bakery,9.95,1,0,Free Gift with Purchase,card,cloudy,7.14
+20e74394-087f-484b-8c0e-84dd44414c13,2023-08-09,16,f98eb6bd-aec9-437e-8df3-51f9aca2ea8f,onions,produce,9.25,1,0,Loyalty Rewards Points,card,stormy,6.87
+dbdc11c1-0392-4d04-b0f6-f73c551f8d61,2023-11-11,12,9ad94fa3-e78b-4a81-8ae2-3ec9a02ba7f2,cereal,grains,10.1,1,0,Buy One Get One Free,card,stormy,6.48
+8a6bbeea-c0da-4578-b052-ce3ad7c3a776,2023-10-12,17,4422e4b0-b6cd-4b64-aa49-cd13d3345d7e,onions,produce,9.25,1,0,20% Off Entire Purchase,card,rainy,6.89
+53c178e5-4d28-40c0-96e2-92af3a8cf81c,2023-07-21,11,35a69c2a-710a-48f3-a442-585a659c473f,fish,seafood,8.07,2,0,Buy One Get One Free,cash,cloudy,5.25
+53c178e5-4d28-40c0-96e2-92af3a8cf81c,2023-07-21,11,35a69c2a-710a-48f3-a442-585a659c473f,butter,dairy,1.35,2,0,Buy One Get One Free,card,cloudy,0.91
+10d8c82a-0a91-48a6-8f09-5e212ffa5f11,2023-08-30,10,bd1323e6-d5aa-439f-bb62-74f0d024f67b,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,stormy,7.58
+cba73751-b270-4fa4-badc-2c7c28c9fe66,2023-08-19,20,109582ef-12f9-4538-b694-cb0a38b1632e,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,rainy,3.58
+40785eed-b0bb-4e7c-86d8-e86e8587243f,2023-09-22,15,f44f0445-d31d-41e1-9ab9-ca7fac86f256,chocolate,snacks,2.3,1,0,Free Gift with Purchase,cash,sunny,1.63
+4e113241-3a1d-4e2f-863d-6204a0cd930a,2023-10-25,11,0be42b98-9183-4bd2-a543-1ba08796dd68,chicken,meat,6.91,1,0,Loyalty Rewards Points,card,sunny,4.67
+2b43e888-bfc3-4cd9-903b-7e725f326802,2023-06-05,20,99ac6111-f2a9-45f6-b5ba-9877019ec550,cheese,dairy,4.12,1,0,Buy One Get One Free,cash,cloudy,2.93
+fbaf860b-ba51-49e0-838d-4d9ea1c39ec4,2023-06-25,20,0de5fba7-a1de-4d6a-86b3-30daed7a6270,yogurt,dairy,2.35,1,0,Free Gift with Purchase,card,rainy,1.58
+13802a08-4c4f-4d5b-9163-dddd2267d694,2023-10-19,18,b6e4d7b2-83fe-4639-9ef0-c947fa56ac71,orange juice,beverage,12.28,1,0,20% Off Entire Purchase,card,stormy,8.59
+d94be2dd-eb0a-429b-97ee-ee7addeb2c78,2024-04-01,20,8f5e04c8-4a83-4326-9914-dd0271b8c10d,bread,bakery,9.95,1,0,Loyalty Rewards Points,card,rainy,6.43
+2b8d9395-26ea-4926-9a2a-7dbeb6f872d9,2023-10-04,20,5c036a0b-9bef-4e3b-9b6f-b3ce8dad3363,pasta,grains,3.78,1,0,Free Gift with Purchase,cash,cloudy,2.6
+209d311d-76b7-498a-a4e9-3d5f2f5bf161,2024-05-18,17,3b200874-816b-419a-93bd-e2b0b333e1aa,bananas,produce,13.49,2,0,Buy One Get One Free,cash,cloudy,9.03
+209d311d-76b7-498a-a4e9-3d5f2f5bf161,2024-05-18,17,3b200874-816b-419a-93bd-e2b0b333e1aa,coffee,beverage,5.76,2,0,Free Gift with Purchase,card,cloudy,3.87
+520ed79d-804e-472b-bc49-42fe6fe822db,2024-01-26,10,4faba80b-efca-4f65-8662-f6db4ecb50ec,tea,beverage,3.18,1,0,Buy One Get One Free,card,rainy,2.26
+86f1ba52-343e-4fb5-9549-bf58f3b9be8b,2023-10-06,12,98a85d34-7767-4aa3-9cd1-efb754dddf9f,pizza,frozen,9.45,1,0,Loyalty Rewards Points,card,rainy,6.84
+f6680ba9-3c74-447a-bfa1-c37c2ac7b48e,2023-11-28,19,87db76c4-342e-4ace-82c2-389bdb7d726d,orange juice,beverage,12.28,1,0,Free Gift with Purchase,cash,cloudy,8.53
+c0b82790-9e2c-4d49-9b9e-cb68a115776d,2023-09-10,21,c203cce1-2eaa-4cc2-9d49-1ac8582a9942,butter,dairy,1.35,1,0,Free Gift with Purchase,cash,stormy,1.01
+6d4fc4a7-f1e6-465c-af8c-e0349ad5ca23,2023-09-12,17,40266625-eafc-4f9e-bb76-90fcb4ab10c7,soda,beverage,10.77,1,0,Free Gift with Purchase,card,sunny,7.29
+8b9b5054-99c1-4dd6-91f6-591deb45eb62,2024-05-03,11,c004927f-577b-4e93-b1f7-0e308c4e7fa5,pork,meat,4.06,1,0,20% Off Entire Purchase,cash,rainy,3.12
+32e08819-442e-4ad7-9938-93f286213f94,2023-08-18,11,852a2859-4d99-4dc5-a96f-81958df53229,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,sunny,9.69
+80ab50b9-0d0c-4529-b64c-2de8c70d1d7c,2023-07-04,13,f825f37d-faa9-4355-8540-a9a56c492d35,ice cream,dairy,12.86,2,0,Free Gift with Purchase,card,stormy,8.77
+80ab50b9-0d0c-4529-b64c-2de8c70d1d7c,2023-07-04,13,f825f37d-faa9-4355-8540-a9a56c492d35,grapes,produce,2.22,2,0,20% Off Entire Purchase,card,stormy,1.56
+6a2c0778-b7d5-46e7-8c49-7d6cb3a0d5c4,2023-07-28,14,c322a2ee-eec9-48b5-8496-eaff3289be70,pizza,frozen,9.45,1,0,Buy One Get One Free,cash,sunny,6.08
+9ed01d83-3dde-4869-9865-edd9f743a6eb,2024-02-15,17,c1ffb8f6-8ddf-49a5-aaf5-74fdcd98c4e0,pizza,frozen,9.45,1,0,Free Gift with Purchase,cash,cloudy,6.59
+b20ea25e-d7d1-4150-a4fe-9213c4a21892,2023-12-18,11,bd79bed6-50d0-4fc1-836d-0f4f2480bde4,potatoes,produce,4.09,1,0,20% Off Entire Purchase,card,sunny,2.96
+175e310c-0ae1-4460-bc18-b085ae93ab5f,2024-02-05,20,9385f914-f9c6-4cf1-9933-9fd788e8b931,coffee,beverage,5.76,1,0,Buy One Get One Free,card,sunny,4.33
+902ce332-704f-415a-9ade-eabb62547ccb,2024-05-02,13,246c4cb3-4073-4f22-84ee-27a0d9226b13,carrots,produce,1.09,1,0,Free Gift with Purchase,cash,sunny,0.82
+7a114980-cb31-4db7-a5ec-4756a6abc425,2024-03-18,9,878359c5-bf96-43fa-901c-add8dca63e43,soda,beverage,10.77,1,0,Buy One Get One Free,cash,sunny,7.91
+29f4b424-bc1d-412c-a87e-2b7efe8f1d23,2023-06-19,19,fd7271c2-14e5-493c-ab9c-bcc511902b4e,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,cloudy,9.04
+f4ca7c21-e263-499f-a1a0-f7104e36fa05,2024-01-03,19,49b8bf60-9620-41d7-9807-04f04708420e,apples,produce,10.47,1,0,Buy One Get One Free,card,sunny,7.0
+f8e93282-aee9-483f-a418-39cefdf9624e,2023-08-21,12,6527ff55-70c3-4cca-8c96-9e17264b6e41,chicken,meat,6.91,1,0,Free Gift with Purchase,card,rainy,4.49
+fddf9d96-a9dc-4b03-a239-14394b8ae759,2024-05-01,11,06559ffe-358d-4f24-9c55-53ada9997611,ice cream,dairy,12.86,1,0,Loyalty Rewards Points,card,sunny,8.71
+a9765cf0-4406-4a8b-9ad0-14695754edb4,2024-03-21,11,cdba60ad-2ba2-41b0-89cf-366f27ebea76,soda,beverage,10.77,1,0,Loyalty Rewards Points,card,sunny,6.86
+d9bdc621-7437-48af-9a86-ebb910578a1f,2024-02-22,10,1c4a4e59-0008-4893-b55a-4b850f80fe42,coffee,beverage,5.76,1,0,Loyalty Rewards Points,cash,stormy,4.11
+760acb2f-f838-4389-af41-e00becdb1ddc,2024-01-31,13,053455d4-afb3-4576-bae7-313a5c9f18fa,coffee,beverage,5.76,1,0,Buy One Get One Free,cash,rainy,4.24
+c9bf1b42-6046-424c-b5d7-d0d88116c655,2023-12-30,18,7dd98410-4b6a-41f5-a79a-de529d6b5f21,chips,snacks,5.71,2,0,Buy One Get One Free,cash,cloudy,4.16
+c9bf1b42-6046-424c-b5d7-d0d88116c655,2023-12-30,18,7dd98410-4b6a-41f5-a79a-de529d6b5f21,pizza,frozen,9.45,2,0,Loyalty Rewards Points,cash,cloudy,6.36
+6a6fe673-f985-40b2-98cd-0555d58f2744,2023-06-09,12,79fd5bc4-5c46-4a12-827a-8679d93184f0,ice cream,dairy,12.86,2,0,Free Gift with Purchase,cash,cloudy,8.57
+6a6fe673-f985-40b2-98cd-0555d58f2744,2023-06-09,12,79fd5bc4-5c46-4a12-827a-8679d93184f0,carrots,produce,1.09,2,0,Free Gift with Purchase,cash,cloudy,0.71
+e2a9c161-bd4e-4009-bae1-e8472a5f2978,2023-10-14,16,ec69564c-1dd8-472d-a6d9-093fba498a50,tomatoes,produce,8.63,2,0,Loyalty Rewards Points,card,stormy,5.86
+e2a9c161-bd4e-4009-bae1-e8472a5f2978,2023-10-14,16,ec69564c-1dd8-472d-a6d9-093fba498a50,cheese,dairy,4.12,2,0,Free Gift with Purchase,card,stormy,2.76
+5a8b873a-ef70-438d-9cfa-ec5c52df2d16,2023-09-21,17,53a1347f-59b6-4229-926c-9fa1863c7975,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,sunny,4.27
+cda93011-4496-4231-ae28-e4e8e9654410,2024-03-05,21,09cdeb47-858f-4f3c-8026-ba595db43f36,rice,grains,1.37,1,0,20% Off Entire Purchase,card,rainy,0.98
+2cfbca4a-0888-4b30-86e7-e1068f691d8a,2023-10-31,17,d07fb79d-37f2-472b-8afc-88a5074eb014,rice,grains,1.37,1,0,20% Off Entire Purchase,cash,cloudy,0.88
+bc713b5f-b1dd-487c-ab28-78070710f654,2023-08-04,21,d32de000-ed17-4f1b-a82f-766ae47a2ec6,pork,meat,4.06,1,0,20% Off Entire Purchase,card,stormy,2.87
+709bd195-033d-4ff9-818c-ad90c041b250,2023-11-06,19,e7ffdeae-a458-49a4-93f8-b36b284f152f,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,sunny,4.09
+0f277993-d00f-41b0-8ce9-41f5d8275b27,2023-10-21,18,421ede24-dff8-4f3a-abac-8af35dff3f52,cheese,dairy,4.12,1,0,20% Off Entire Purchase,cash,stormy,3.07
+e5629702-2103-48b5-ab66-76fb88f6185b,2023-08-29,15,2df564aa-d074-4d2d-8d4a-07761f8be8d5,soda,beverage,10.77,1,0,Loyalty Rewards Points,cash,sunny,8.01
+b7b55f8d-34f4-42fb-b2e1-0b8131b2a2c8,2024-02-15,16,db045d49-90dd-4b65-bacd-beb2e056cbf7,chocolate,snacks,2.3,2,0,Buy One Get One Free,card,sunny,1.73
+b7b55f8d-34f4-42fb-b2e1-0b8131b2a2c8,2024-02-15,16,db045d49-90dd-4b65-bacd-beb2e056cbf7,eggs,dairy,11.31,2,0,Loyalty Rewards Points,cash,sunny,8.17
+ae6af07c-033c-4934-a90c-ebbe628a4e45,2024-04-18,15,fb06d557-bb0b-4ef5-be1a-ccd1c64de371,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,stormy,8.11
+9476831a-b8ad-4f48-88cf-ec8e3f5f47ea,2023-06-11,15,654b025b-b188-4841-afc2-bb22879cb2ab,lettuce,produce,12.33,1,0,Loyalty Rewards Points,card,rainy,7.78
+3c89ff7b-6ac4-49f8-8585-2b257fece5bb,2023-07-14,13,359f9680-75a1-4c1c-82b4-5b1fdcf40d2f,onions,produce,9.25,1,0,Buy One Get One Free,cash,sunny,7.08
+55668862-f06f-46d1-aa06-7df7ffe39ca1,2024-04-21,10,27e1e990-030e-4216-a29b-25ec35165f99,grapes,produce,2.22,1,0,Loyalty Rewards Points,cash,rainy,1.53
+3a268f37-e6ce-491f-940a-65fa71439710,2023-10-26,20,497faa2b-a65a-4e30-b6e4-c765b1624ecb,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,stormy,2.67
+c9069e9b-16e6-4983-8be9-0ef7e0ac075b,2023-06-20,11,9032c98e-467c-4eee-813f-3817574faf93,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,card,cloudy,1.75
+d2d63444-1ac8-43a7-8fd9-a11ec7e2036c,2023-12-14,13,a2122f42-87ff-4b5b-9a83-a124adfae67a,milk,dairy,4.85,2,0,Loyalty Rewards Points,cash,cloudy,3.07
+d2d63444-1ac8-43a7-8fd9-a11ec7e2036c,2023-12-14,13,a2122f42-87ff-4b5b-9a83-a124adfae67a,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,card,cloudy,9.41
+6c7ae1a7-52d4-4911-8a50-ad29da23bbd7,2023-11-05,11,914cba6e-a7b6-4dfc-b43e-d5371b258fc1,ice cream,dairy,12.86,1,0,Loyalty Rewards Points,card,stormy,9.52
+78822341-554c-4076-8130-afbf46e9b963,2023-09-23,16,6da7d1bf-d988-43a2-bb5f-6c916155971c,cereal,grains,10.1,1,0,20% Off Entire Purchase,card,stormy,6.91
+0d9fc815-5226-4c41-9241-1584a8b0a220,2024-05-28,15,0c8fb3f3-8de5-47e3-8cca-506015f2431f,yogurt,dairy,2.35,1,0,Free Gift with Purchase,cash,sunny,1.72
+2bbb404b-c1fc-4b16-8ab4-2d2a20faa315,2023-08-27,17,6e239fad-46ee-4788-b7f0-517aacdbb43c,butter,dairy,1.35,2,0,Free Gift with Purchase,card,rainy,0.94
+2bbb404b-c1fc-4b16-8ab4-2d2a20faa315,2023-08-27,17,6e239fad-46ee-4788-b7f0-517aacdbb43c,lettuce,produce,12.33,2,0,Buy One Get One Free,card,rainy,8.77
+12ca290f-60e6-4bb3-b0dd-b4d1945d162a,2024-03-30,20,de148fa9-690e-447d-89d1-de81e5256e86,milk,dairy,4.85,1,0,Buy One Get One Free,card,rainy,3.41
+76ddda70-7742-4b23-aea8-072dcc4aabb1,2023-06-06,16,a76dd09a-ca10-4bf4-b1bf-e6e40a5fe973,onions,produce,9.25,1,0,Free Gift with Purchase,card,sunny,6.86
+2dc6887e-6e95-4faf-8189-1f933bb6449b,2023-12-15,14,a7975444-34da-4903-a5e4-b9b5858d5012,potatoes,produce,4.09,1,0,Free Gift with Purchase,cash,sunny,3.1
+718fe6df-2488-42c4-925e-99663ef4bdd4,2023-11-06,14,9b62a4b8-c313-4a62-84c7-14416d07482e,butter,dairy,1.35,1,0,Free Gift with Purchase,cash,rainy,0.98
+0f0a5b70-87aa-46d7-9773-7105b1df5116,2024-02-29,9,67e6fb95-a197-45a8-ad11-d8dbc1c41c89,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,stormy,7.86
+22413bc3-6836-47a6-8991-717ee22a5b6d,2023-12-01,13,7808be03-4383-4e9b-8e23-dde86e0d1e21,potatoes,produce,4.09,2,0,Free Gift with Purchase,cash,stormy,3.06
+22413bc3-6836-47a6-8991-717ee22a5b6d,2023-12-01,13,7808be03-4383-4e9b-8e23-dde86e0d1e21,milk,dairy,4.85,2,0,Free Gift with Purchase,cash,stormy,3.15
+95b58470-854e-4635-8b63-af02e4248d36,2023-10-28,13,9b56c922-d64c-4ccf-8aa4-9b72bc4b27c2,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,sunny,0.71
+4942ed4b-5d3d-491e-98d7-07aed801c572,2023-11-06,14,784e8c75-c7e0-4ec0-b2de-f79d4bbe141c,coffee,beverage,5.76,1,0,20% Off Entire Purchase,card,cloudy,3.82
+fd5c56f4-176a-4f83-83ba-e9c9cb3881b4,2023-12-04,14,c348bb04-5191-4676-92f8-595bff8f9eb1,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,sunny,0.83
+af6ce508-6b98-4a88-8c07-a2184c49c424,2023-10-04,21,14658855-cbc4-4f2c-9d0c-30d84e4dbe3e,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,stormy,1.6
+b745f885-dae8-4c4e-98dd-7f9fd241a7de,2023-09-09,18,6f615756-8e21-4bb1-bcbe-a750020554c3,chicken,meat,6.91,2,0,Buy One Get One Free,card,rainy,5.15
+b745f885-dae8-4c4e-98dd-7f9fd241a7de,2023-09-09,18,6f615756-8e21-4bb1-bcbe-a750020554c3,cookies,snacks,14.4,2,0,Loyalty Rewards Points,cash,rainy,10.01
+0c5827db-083b-44e7-94f1-72cc4ca603de,2023-07-12,16,2f901364-9cb9-4f19-835c-33f160464820,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,cloudy,3.94
+518aa215-aa43-4d5d-bcda-b79458b7faaa,2023-11-09,17,0a6229b4-f971-4b8b-ad10-9d2ee82f103f,pizza,frozen,9.45,2,0,Free Gift with Purchase,card,stormy,6.55
+518aa215-aa43-4d5d-bcda-b79458b7faaa,2023-11-09,17,0a6229b4-f971-4b8b-ad10-9d2ee82f103f,chips,snacks,5.71,2,0,Free Gift with Purchase,cash,stormy,3.68
+cee6ee92-1f69-4df2-b898-13f144631267,2024-03-20,18,27719087-e527-4778-a97f-8dcc89c9091e,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,rainy,5.13
+4680dde8-2eaa-449c-bb92-7528917f3783,2024-01-07,16,e00197dd-d5d7-4010-b70f-b5f65ed26823,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,cloudy,9.1
+dd197e95-0a78-44a3-9efa-fe349afa66be,2024-02-17,14,56742543-7c0d-4e76-85cf-21757c13d018,chocolate,snacks,2.3,1,0,Loyalty Rewards Points,card,sunny,1.47
+6a5db505-81ce-4a9b-ad5f-a9870f00f1c3,2023-07-24,17,95504f1f-fec7-4b1b-bc16-ce620a9c841d,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,sunny,5.33
+5de72e03-0d44-4f53-acf1-0fc51defbfc2,2024-03-22,12,1c1eba16-a7a6-4b2f-bf82-a1df130cad33,milk,dairy,4.85,2,0,20% Off Entire Purchase,card,sunny,3.69
+5de72e03-0d44-4f53-acf1-0fc51defbfc2,2024-03-22,12,1c1eba16-a7a6-4b2f-bf82-a1df130cad33,butter,dairy,1.35,2,0,Buy One Get One Free,card,sunny,0.98
+6380257f-6a9f-4666-abe0-c425c2d4878e,2024-01-02,18,ce217456-9826-4c35-b85f-db0a61851af3,cookies,snacks,14.4,1,0,20% Off Entire Purchase,card,cloudy,10.89
+2d5c23c6-01ec-43f0-9eb2-0ccb0f56eaca,2023-09-21,20,656bbd19-def9-4803-83a0-a3bc48bea81d,cereal,grains,10.1,1,0,Buy One Get One Free,cash,cloudy,7.3
+ee2799fb-dd5b-4b4a-833a-b1eefb5b00d6,2023-10-23,13,97d56520-fb9a-44c3-a968-6643fc1b94ee,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,stormy,7.95
+e5f15889-be96-44e8-83d2-b8445ea5285a,2024-04-04,11,bf2eea7b-294d-4dff-b674-0a7c2be78df0,butter,dairy,1.35,1,0,Free Gift with Purchase,card,sunny,0.92
+f3dc9120-37d5-428c-980a-15fc84979a1c,2024-05-07,13,dcce0654-16be-42ef-96bf-977e81951756,milk,dairy,4.85,1,0,20% Off Entire Purchase,cash,rainy,3.39
+8c977268-c78a-4bf9-a1dc-ddc22e8f011a,2024-04-19,11,652bbd46-ab92-4de5-a152-a7bbaaa3d537,onions,produce,9.25,2,0,Buy One Get One Free,cash,stormy,6.39
+8c977268-c78a-4bf9-a1dc-ddc22e8f011a,2024-04-19,11,652bbd46-ab92-4de5-a152-a7bbaaa3d537,cookies,snacks,14.4,2,0,Buy One Get One Free,card,stormy,10.51
+763e873b-f2a2-4cf7-9788-d4d3094b678c,2024-01-12,10,42c20228-b97c-4b02-943d-bff850dbade7,chicken,meat,6.91,1,0,Buy One Get One Free,cash,sunny,5.11
+fc051137-6efc-4f75-bdd4-3eeb2dac3802,2023-08-06,11,25e06a7d-9c31-4148-9180-6ee90278e266,soda,beverage,10.77,1,0,20% Off Entire Purchase,cash,sunny,7.37
+2b711765-cd9e-4eb8-b3df-e069d674a60f,2023-09-14,15,afd73e1b-aebc-4219-b206-529255c32b99,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,sunny,10.06
+5ab8da89-b3d5-4f5e-8a7b-bb98c0ad31a3,2023-10-20,20,5db90265-4941-43e5-8983-ba639001411c,bread,bakery,9.95,1,0,Loyalty Rewards Points,card,sunny,6.8
+9dcd56c5-267f-4f79-9746-84e483c412cf,2023-07-31,18,755cb53b-e622-4e97-aca0-284392a0613b,beef,meat,1.42,1,0,Buy One Get One Free,cash,rainy,0.97
+22e47834-68f4-421e-8c2c-0d38c2d53e88,2023-06-14,17,a7fb9984-c4aa-4e9a-9551-ba93654171c0,cereal,grains,10.1,2,0,20% Off Entire Purchase,card,rainy,7.45
+22e47834-68f4-421e-8c2c-0d38c2d53e88,2023-06-14,17,a7fb9984-c4aa-4e9a-9551-ba93654171c0,cookies,snacks,14.4,2,0,Loyalty Rewards Points,card,rainy,10.19
+4133ca02-ab90-4010-a607-c8841e5cdf0f,2023-06-08,13,ddfbd52b-913c-488b-b512-6c390f9a4a64,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,stormy,8.92
+b6677e2d-5649-47df-b327-8c57fb9c0a00,2024-04-09,19,3fcf65f0-17f9-40dc-99f1-733b83ed71b8,eggs,dairy,11.31,1,0,Buy One Get One Free,card,stormy,7.18
+c954fdb6-1f63-4500-932b-55b51f680bcd,2024-01-12,16,a5eecaf3-d36b-4fa5-ba7b-7579df745013,onions,produce,9.25,2,0,Loyalty Rewards Points,card,stormy,6.23
+c954fdb6-1f63-4500-932b-55b51f680bcd,2024-01-12,16,a5eecaf3-d36b-4fa5-ba7b-7579df745013,orange juice,beverage,12.28,2,0,Buy One Get One Free,cash,stormy,7.8
+dc650752-589d-4290-88ff-9138f89b2f14,2024-01-05,21,142629bc-d771-449b-824b-1fa6503ae6a5,bananas,produce,13.49,1,0,Loyalty Rewards Points,card,sunny,10.02
+2ed74f40-429d-4dda-adde-14d838fe6163,2023-12-27,20,5a79dcfc-486a-47b2-b081-b761b5317185,butter,dairy,1.35,1,0,Loyalty Rewards Points,card,cloudy,0.99
+37cdc55f-60b2-4748-9f96-8f11cc2d0844,2023-09-29,16,4227d8c1-78d5-4407-8e4b-39220eb75794,orange juice,beverage,12.28,1,0,20% Off Entire Purchase,card,sunny,7.96
+45d80c07-21c7-4388-b442-644850dc1e4c,2023-11-27,13,2329d407-c94c-42ac-b3c7-450962819d82,apples,produce,10.47,1,0,Buy One Get One Free,card,sunny,7.82
+0bcdec5d-9eec-4f80-ad65-e6bf96867fb5,2024-05-02,10,e60c7f78-44aa-44d2-86f6-f055929c6c25,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,stormy,0.72
+21d200ed-fea6-4b79-b051-78399bec2d6f,2023-08-07,14,eb449668-6120-4499-b5c3-4593aad3f3cd,soda,beverage,10.77,1,0,20% Off Entire Purchase,cash,stormy,7.65
+3d01220f-8f19-4d20-8c34-1910f4937856,2023-07-13,21,603393e9-0ad6-4b35-8e48-8de0adcc232e,lettuce,produce,12.33,1,0,Buy One Get One Free,card,cloudy,8.07
+4c33cdf4-402a-4c39-983d-70498c76cd66,2024-01-10,13,1a7bdfeb-7f22-4d8f-8afe-dd09155a4591,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,cloudy,7.62
+f2044b89-9c75-4710-86a2-1d09aa5fc49b,2023-06-26,12,08f6d0a1-6c33-4837-880f-ea12d20b6061,chips,snacks,5.71,2,0,Loyalty Rewards Points,card,sunny,4.1
+f2044b89-9c75-4710-86a2-1d09aa5fc49b,2023-06-26,12,08f6d0a1-6c33-4837-880f-ea12d20b6061,yogurt,dairy,2.35,2,0,Loyalty Rewards Points,card,sunny,1.49
+47efb6b7-1197-49f5-b0f0-1db3923793e6,2023-12-27,9,c62f1f76-e70b-4576-beab-edeb4af2cf93,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,sunny,3.54
+ffd6408d-b6b7-4bd2-b821-9d26c4f4c602,2023-09-04,20,34e66689-dba1-426f-8e73-6ce5379334b4,bananas,produce,13.49,1,0,Free Gift with Purchase,cash,stormy,8.77
+66c0c494-f096-440e-a35f-b3ed37a17500,2023-08-06,15,1e590802-b1e6-4cf8-b444-00974c31fe88,carrots,produce,1.09,1,0,20% Off Entire Purchase,cash,cloudy,0.79
+91279852-3753-4f9c-a24b-5cb5c5fe10c9,2023-08-30,18,db7360ad-afc0-4008-bf43-aad35e994e32,chips,snacks,5.71,1,0,Loyalty Rewards Points,card,sunny,3.84
+7fb02af2-3036-4269-b6e9-6c86588f06e3,2023-07-16,17,ef23747b-238d-4d72-a387-a32ee54b27bf,potatoes,produce,4.09,1,0,Free Gift with Purchase,card,cloudy,3.14
+964c982b-a4ea-4bf5-b988-15f67cab13ee,2024-02-27,16,8f5cc583-8b74-4bec-b427-b70be3ce553b,bananas,produce,13.49,1,0,20% Off Entire Purchase,cash,cloudy,8.71
+6b2fd26d-f521-4e7b-b482-1ba2a96bdfaf,2024-04-04,16,046594d9-e325-4e3d-a14c-5d48c9322dad,pizza,frozen,9.45,1,0,Free Gift with Purchase,cash,cloudy,6.01
+45732b06-5ebf-4c64-87dd-a851b68b6417,2024-04-25,12,83ffd90f-4f88-44ff-a59d-d3a68f8875a1,carrots,produce,1.09,1,0,Loyalty Rewards Points,card,stormy,0.81
+17431e9e-62be-4e40-a56e-48e3760b0ffe,2024-04-29,10,a7941e72-f733-48d2-8378-4179937b90e5,apples,produce,10.47,1,0,Buy One Get One Free,cash,sunny,6.83
+ed144c65-d796-4d1c-8a9c-274719938f92,2024-02-18,17,d492dcf6-60aa-48ea-bf7e-25336735709b,grapes,produce,2.22,2,0,Free Gift with Purchase,cash,sunny,1.54
+ed144c65-d796-4d1c-8a9c-274719938f92,2024-02-18,17,d492dcf6-60aa-48ea-bf7e-25336735709b,tea,beverage,3.18,2,0,Free Gift with Purchase,card,sunny,2.09
+07f6357a-b2c9-46f7-a89f-a7f8159bacc9,2023-08-03,21,807f424d-c8b0-46a1-8048-364d3439cfb7,cheese,dairy,4.12,1,0,Loyalty Rewards Points,card,sunny,2.73
+b05608b7-a514-499c-ad04-d5bb740ea3a4,2023-12-13,15,247532d9-aef4-46af-967b-722c2e04f0f1,lettuce,produce,12.33,2,0,Loyalty Rewards Points,card,cloudy,7.86
+b05608b7-a514-499c-ad04-d5bb740ea3a4,2023-12-13,15,247532d9-aef4-46af-967b-722c2e04f0f1,tomatoes,produce,8.63,2,0,Loyalty Rewards Points,card,cloudy,5.7
+8fa0d747-7200-4c45-9ae1-f1e137531739,2023-11-17,15,b7d2060b-d050-44e6-a905-4c74dc1daa10,tea,beverage,3.18,2,0,Free Gift with Purchase,card,rainy,2.28
+8fa0d747-7200-4c45-9ae1-f1e137531739,2023-11-17,15,b7d2060b-d050-44e6-a905-4c74dc1daa10,bananas,produce,13.49,2,0,Buy One Get One Free,card,rainy,9.13
+1e77f5f3-b845-45cc-8844-fabfea44fe1e,2023-12-02,13,604f0c64-f1cd-4a0f-8d47-d6bab6b73633,cereal,grains,10.1,2,0,Free Gift with Purchase,card,cloudy,6.61
+1e77f5f3-b845-45cc-8844-fabfea44fe1e,2023-12-02,13,604f0c64-f1cd-4a0f-8d47-d6bab6b73633,pasta,grains,3.78,2,0,20% Off Entire Purchase,card,cloudy,2.85
+3af56ae7-6d65-4d8f-b6d5-b7690087bd4d,2023-09-01,18,7d987f3b-4366-4310-bef7-5058637b5686,yogurt,dairy,2.35,2,0,20% Off Entire Purchase,cash,cloudy,1.64
+3af56ae7-6d65-4d8f-b6d5-b7690087bd4d,2023-09-01,18,7d987f3b-4366-4310-bef7-5058637b5686,potatoes,produce,4.09,2,0,Free Gift with Purchase,card,cloudy,3.06
+1a75661e-7482-4215-b4ba-064c39590fc6,2024-03-24,20,d5fc5d99-139d-4451-b4af-349ec4293219,grapes,produce,2.22,1,0,Loyalty Rewards Points,card,stormy,1.48
+4951f502-a5fc-4e49-bb78-0482b0829307,2024-05-01,18,77e847ce-3481-407f-8c52-996cac8c9277,ice cream,dairy,12.86,1,0,Buy One Get One Free,card,cloudy,8.11
+85f36472-5755-4400-9743-2f903ceeb71f,2024-05-08,16,adeb41ec-37b8-4273-8ebe-9cca3efab583,rice,grains,1.37,1,0,Buy One Get One Free,cash,sunny,0.96
+bc78f7d3-3c3a-47c5-8596-b79e492c810f,2024-01-19,16,ba9fb186-202f-42aa-82f7-9602a4aa03a1,cookies,snacks,14.4,2,0,Loyalty Rewards Points,card,cloudy,10.47
+bc78f7d3-3c3a-47c5-8596-b79e492c810f,2024-01-19,16,ba9fb186-202f-42aa-82f7-9602a4aa03a1,bread,bakery,9.95,2,0,Free Gift with Purchase,card,cloudy,6.45
+f8c30f55-fe25-40c5-ad0b-1a4c37fcad06,2023-12-29,19,e9963b86-b30c-4543-8c5c-03cb85bdf48d,soda,beverage,10.77,2,0,Loyalty Rewards Points,card,sunny,7.03
+f8c30f55-fe25-40c5-ad0b-1a4c37fcad06,2023-12-29,19,e9963b86-b30c-4543-8c5c-03cb85bdf48d,beef,meat,1.42,2,0,Loyalty Rewards Points,card,sunny,1.09
+1ff7fb7e-ca10-427f-ab63-1d4b4b0de506,2024-03-02,20,1cc11124-1feb-4f49-8855-d26747f9c185,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,card,stormy,1.6
+b4bd2979-e41b-46b8-8735-dfb275cc38b1,2024-05-14,19,d74eec65-3431-4580-8522-caf464d3a72b,coffee,beverage,5.76,1,0,Buy One Get One Free,cash,sunny,3.9
+e9988377-912e-413e-a77e-5449f19673a1,2023-07-18,15,9cc28b11-6036-40f8-8019-03356aece860,carrots,produce,1.09,1,0,20% Off Entire Purchase,card,rainy,0.77
+c5b88d35-b47e-4256-99c2-c188bd0cf969,2024-05-21,18,066ad2db-7787-40cd-96f9-6d6bb76fd378,butter,dairy,1.35,1,0,Free Gift with Purchase,card,rainy,0.95
+b7610731-5e1d-4cfa-b0bd-a1d416ae6122,2024-03-19,10,efd50ceb-7e6a-460c-ad71-3145728d77ca,carrots,produce,1.09,1,0,Free Gift with Purchase,card,stormy,0.69
+d9ddb3c0-7f4e-418a-ad42-a426b31d55ec,2023-06-03,19,8fba1ebe-c8d2-4520-a210-e809bb2dcc36,cookies,snacks,14.4,1,0,Free Gift with Purchase,card,sunny,9.48
+9c61dc1a-05a0-4661-80a9-49d0db13b0a6,2023-08-06,17,1d3a2c0b-cc42-45ff-91b3-e86c810b16b4,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,sunny,2.42
+ff378419-4a48-456d-8ff6-859a793be634,2024-02-23,14,1ad9abc0-06a6-4f25-b148-39895dfb96c9,potatoes,produce,4.09,1,0,Free Gift with Purchase,card,rainy,2.97
+233e603a-7363-4b2d-b7c4-13eae4d1b199,2024-01-29,10,ab0addd8-aa75-4689-8a0c-f219c980a825,tomatoes,produce,8.63,1,0,Buy One Get One Free,cash,rainy,6.04
+71fc70cc-6dae-4614-b6be-cf41d5689a4e,2023-11-18,20,9492c179-0644-4d31-a14b-d4570f8de58a,fish,seafood,8.07,1,0,Buy One Get One Free,card,rainy,5.99
+235e13fa-8bb1-49c6-bf92-4cc8d39959b1,2023-06-04,16,3ce44377-2f2f-4688-b377-2f8ccbf7a1ee,ice cream,dairy,12.86,2,0,Buy One Get One Free,card,sunny,8.62
+235e13fa-8bb1-49c6-bf92-4cc8d39959b1,2023-06-04,16,3ce44377-2f2f-4688-b377-2f8ccbf7a1ee,apples,produce,10.47,2,0,Buy One Get One Free,card,sunny,6.84
+eec59a31-c483-4131-b2f9-f33d4aeb600b,2024-03-25,16,203114ad-91c4-402c-be28-c1ae1c06e6f9,potatoes,produce,4.09,1,0,Buy One Get One Free,cash,cloudy,3.12
+3d2244d4-66bf-4f84-af08-dccc6164fa23,2024-03-24,15,32ce5ba5-f8a3-48ab-b767-b5dfc2356aed,pasta,grains,3.78,1,0,Buy One Get One Free,cash,cloudy,2.62
+2fd53533-f4a9-4334-80cb-0f89f61642b7,2024-01-12,12,51f30813-78a3-43e9-9deb-df06b8719f52,chips,snacks,5.71,2,0,Free Gift with Purchase,cash,sunny,4.26
+2fd53533-f4a9-4334-80cb-0f89f61642b7,2024-01-12,12,51f30813-78a3-43e9-9deb-df06b8719f52,grapes,produce,2.22,2,0,Free Gift with Purchase,cash,sunny,1.58
+4c0e149d-5907-4645-b369-d7945db2698e,2023-12-10,18,609ec2e9-2684-4f32-a746-de1aa598b1cf,lettuce,produce,12.33,1,0,Free Gift with Purchase,card,stormy,8.0
+2d676307-f20b-4eeb-ac55-cb9b3e900251,2024-03-09,21,8a6c6e81-8f04-4c9e-a382-380b0ab70c32,fish,seafood,8.07,1,0,Buy One Get One Free,card,rainy,6.18
+91c0b366-5fea-483c-b4d1-bf55b9ce98d7,2024-04-07,14,84e08d7a-8880-4ad0-a37e-031dc3a8429d,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,rainy,7.5
+e002a644-e3a1-4b9e-a0b8-c7c08f809380,2024-02-20,11,8b1a150b-df0a-4536-9895-c4f9e4a59949,coffee,beverage,5.76,1,0,20% Off Entire Purchase,card,cloudy,4.36
+9f371383-dba2-4642-a0c8-87ad6f43098c,2023-11-29,12,78dd1981-3ed7-473f-b804-b6dda2c4ce11,pork,meat,4.06,2,0,Free Gift with Purchase,cash,sunny,2.63
+9f371383-dba2-4642-a0c8-87ad6f43098c,2023-11-29,12,78dd1981-3ed7-473f-b804-b6dda2c4ce11,lettuce,produce,12.33,2,0,Buy One Get One Free,cash,sunny,8.09
+fa5743c7-73f1-4f73-9847-ab68f7db556e,2023-10-17,14,01731559-058c-4c08-aff1-1a126d605164,onions,produce,9.25,1,0,Free Gift with Purchase,card,cloudy,7.09
+9add038a-f696-4469-abe5-1fefae067a25,2024-04-28,9,b2a50996-58e2-4a20-b231-d5a09b1c81e8,cookies,snacks,14.4,1,0,Loyalty Rewards Points,cash,stormy,9.37
+03013c3b-8853-4beb-971a-d8bff45d3adf,2023-08-28,11,1b66ea51-2b3c-4d11-99d2-728182cd8761,onions,produce,9.25,1,0,Free Gift with Purchase,cash,sunny,7.09
+2c406f2e-d4cf-4ace-aeda-7ac91846a18d,2024-03-16,16,db11c42f-7274-4267-80b9-cdc630370ec5,cookies,snacks,14.4,1,0,20% Off Entire Purchase,cash,rainy,11.05
+b98fa24d-d9d3-47c2-bc25-fa614b243362,2023-07-04,14,27025938-ad6d-4ebf-91d9-39f69e9c3d1c,ice cream,dairy,12.86,1,0,Buy One Get One Free,cash,sunny,8.17
+919b5d16-85e4-42c8-b5b0-ee9946d71bd4,2023-12-01,9,5acd7b6e-8225-44e3-9c10-ff5438c6b7dd,grapes,produce,2.22,1,0,Buy One Get One Free,cash,stormy,1.54
+a4b56f4b-6bdc-4605-93c1-adfec1568cb6,2024-04-04,9,2646fba4-0530-4d50-abbd-f9281018e7f5,grapes,produce,2.22,1,0,Free Gift with Purchase,card,cloudy,1.64
+7909cda8-aadd-4ab2-bb33-141751dd5061,2024-04-27,9,3056b05c-f52f-44f9-bbcc-7ab575f40ca0,cereal,grains,10.1,1,0,Buy One Get One Free,cash,sunny,7.32
+9a747879-364c-41f4-bdf0-1a3b1ca42e09,2024-05-24,12,4c539ac3-ac75-4a40-96af-d95953e26c35,carrots,produce,1.09,1,0,Buy One Get One Free,cash,stormy,0.76
+5a1535ae-359b-49b7-bbc2-e6a85ae67fcf,2023-08-17,15,6e846aa1-beb1-4d88-9851-fb527c31f707,pasta,grains,3.78,1,0,Free Gift with Purchase,card,cloudy,2.58
+8be16b19-5da4-4edd-94d8-341731fe4341,2024-02-18,13,dd5165aa-02e0-4711-82ba-c332eceefc31,cereal,grains,10.1,1,0,Buy One Get One Free,card,rainy,7.6
+3f441363-798b-496f-ae74-caceb8d403c2,2023-07-24,20,13449765-97b6-4f95-bc0b-bed79a2ca213,pasta,grains,3.78,1,0,Free Gift with Purchase,card,stormy,2.81
+672f803d-0e98-42d8-a68c-d990faa5deeb,2024-04-06,21,8110655a-cd2e-4cba-9d87-788d079c3227,pasta,grains,3.78,1,0,Buy One Get One Free,card,stormy,2.46
+6ff90b15-7a1a-494d-a857-39d35f4db003,2023-07-27,12,506aed57-5cb8-4a1b-8523-1f5d0a62d9f4,yogurt,dairy,2.35,1,0,Free Gift with Purchase,card,rainy,1.65
+177652d7-2733-4226-bd8b-b908e798def8,2024-04-16,18,6346a955-4042-4d65-8732-b2fa408ef488,pasta,grains,3.78,2,0,Loyalty Rewards Points,card,stormy,2.87
+177652d7-2733-4226-bd8b-b908e798def8,2024-04-16,18,6346a955-4042-4d65-8732-b2fa408ef488,orange juice,beverage,12.28,2,0,20% Off Entire Purchase,card,stormy,8.69
+a5eeaa2d-8e8d-43da-82c5-4f8db8674503,2024-01-22,11,08820f66-d8a3-489c-8bae-5eb8907052ce,tomatoes,produce,8.63,1,0,Free Gift with Purchase,cash,stormy,5.49
+0578b759-16eb-4f24-9dfb-b6de2050e668,2024-01-15,16,9fe94af1-2c3f-49ba-a180-9b31c2bc7fa6,chips,snacks,5.71,1,0,Free Gift with Purchase,cash,stormy,3.6
+75d6408f-cf08-4336-b3f8-455abdd17da3,2023-12-10,19,0a2f489e-cdb4-4bc2-98d9-d4343496b6fb,soda,beverage,10.77,2,0,20% Off Entire Purchase,cash,stormy,7.22
+75d6408f-cf08-4336-b3f8-455abdd17da3,2023-12-10,19,0a2f489e-cdb4-4bc2-98d9-d4343496b6fb,ice cream,dairy,12.86,2,0,20% Off Entire Purchase,card,stormy,9.73
+84d344de-57f1-4dd3-9d4d-c4f1b8dc3c1c,2024-05-09,10,392728e1-a443-48c7-af28-d61602acd1fb,milk,dairy,4.85,1,0,Free Gift with Purchase,cash,rainy,3.46
+d9e18d64-6d3b-425f-ad73-67d05a947e0f,2023-06-30,18,9ab29cdf-b968-4e4d-bcd1-dbf818234a1e,orange juice,beverage,12.28,1,0,Buy One Get One Free,cash,stormy,8.92
+813dac01-f483-417d-8175-8fbf3ad33d13,2024-02-01,17,96cf22e2-c0ad-40b5-b4b7-50a1ba3b65ab,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,sunny,7.45
+1def39af-60a3-449b-be62-b2819640f86d,2023-07-27,16,31610818-b403-4066-8194-7eada385cc50,butter,dairy,1.35,1,0,Loyalty Rewards Points,cash,cloudy,0.9
+bc503fb2-5cca-405e-b4b7-db1c1c18f45a,2023-12-23,9,d404b43f-2342-4ec7-b2c9-95d93fcf73c1,orange juice,beverage,12.28,1,0,20% Off Entire Purchase,card,rainy,9.35
+3a1c3287-a646-44cc-89aa-bc7562f6b5a7,2023-10-19,21,099b29b4-e637-46d3-85c0-f54ceeba7944,apples,produce,10.47,1,0,Free Gift with Purchase,cash,sunny,7.39
+d70b84b2-538d-4707-85b9-35c12dbf3a7b,2024-03-16,13,088bc63c-667e-4e64-8525-335c6ed85d35,lettuce,produce,12.33,2,0,Buy One Get One Free,card,rainy,9.19
+d70b84b2-538d-4707-85b9-35c12dbf3a7b,2024-03-16,13,088bc63c-667e-4e64-8525-335c6ed85d35,fish,seafood,8.07,2,0,Free Gift with Purchase,cash,rainy,5.67
+5d3734eb-90ad-4efd-9b9e-d6ca70212646,2023-07-04,15,9bdc5ec8-e66e-40f7-9285-e4f8893de955,apples,produce,10.47,1,0,20% Off Entire Purchase,card,rainy,6.75
+793d61dc-77eb-4d4c-acf7-5f9ece8eed97,2023-11-09,12,d1b0ec10-d600-49e8-9e18-62ee9a7c2eb9,pizza,frozen,9.45,1,0,20% Off Entire Purchase,card,sunny,6.05
+d1f443ef-9fe5-49ff-9270-aa885ade28d8,2024-04-08,16,79e25bff-3c11-4313-a2ae-bd6ef59f3290,fish,seafood,8.07,1,0,Loyalty Rewards Points,cash,rainy,5.24
+9d2029c6-1ad2-48ce-aa97-8e00a50c195d,2024-02-12,11,130edb9c-0d86-47e1-8123-1ee1866aabd2,chocolate,snacks,2.3,2,0,20% Off Entire Purchase,card,rainy,1.52
+9d2029c6-1ad2-48ce-aa97-8e00a50c195d,2024-02-12,11,130edb9c-0d86-47e1-8123-1ee1866aabd2,cheese,dairy,4.12,2,0,20% Off Entire Purchase,card,rainy,2.77
+0aaf93ab-693c-433c-838d-9b0ee8db7c98,2023-07-07,10,4d71a1a0-aaca-4c4e-a79e-f2cbd7120a22,chips,snacks,5.71,1,0,Buy One Get One Free,cash,stormy,3.69
+339921e8-a522-40e2-ba7e-3bffcfe3ae5f,2024-01-19,21,d357061a-f99f-4c66-8b6e-4a738629146e,cheese,dairy,4.12,2,0,Buy One Get One Free,cash,stormy,3.05
+339921e8-a522-40e2-ba7e-3bffcfe3ae5f,2024-01-19,21,d357061a-f99f-4c66-8b6e-4a738629146e,butter,dairy,1.35,2,0,Free Gift with Purchase,card,stormy,0.87
+a562c5ab-a881-4a5b-85c1-65ed723f7a02,2024-02-10,10,e1da7a7a-ab77-4b43-a677-538dfd316abc,cookies,snacks,14.4,1,0,Buy One Get One Free,card,rainy,9.27
+0d2f523b-72bb-4742-a85a-204e914fbb22,2023-07-09,18,a2f6e56b-f42f-4496-b542-fc44a5162bd5,fish,seafood,8.07,1,0,20% Off Entire Purchase,cash,cloudy,5.12
+647f964b-9372-43c2-bbb1-741c857a8980,2023-07-13,18,2483f331-3ace-4bed-b229-2e982fdc97c3,yogurt,dairy,2.35,1,0,20% Off Entire Purchase,card,rainy,1.65
+c47f365d-2b35-44db-902c-365d0e3d39d2,2023-09-05,10,113311c3-dc0d-49a0-97d9-1d760497a840,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,sunny,3.78
+909683d3-98d6-43ec-a6f1-bba9d0fe7a90,2023-10-04,21,7663f118-7a64-4351-8a5f-49f94b99246f,cheese,dairy,4.12,1,0,Loyalty Rewards Points,cash,sunny,3.13
+158e68c1-e177-49ae-85d8-f9bc94e16ec0,2024-03-07,20,c99781c0-ef6e-49ac-ae6a-396d653fd5fc,cheese,dairy,4.12,1,0,Free Gift with Purchase,cash,cloudy,2.7
+1bf1b0a8-e3ce-45d0-aab5-9ac8d3920492,2023-11-07,15,77a6bebc-4d5b-4107-9ba5-76e7c6fff3df,pasta,grains,3.78,1,0,Free Gift with Purchase,card,cloudy,2.44
+ece8a920-06e3-4e3c-8ab0-3672e82657ed,2023-07-17,16,ea3c3011-651f-481f-b6f2-aed36257701b,tomatoes,produce,8.63,1,0,Free Gift with Purchase,card,sunny,6.36
+330e7599-c9fc-47bd-8437-f8e3f3179611,2024-04-15,10,c1febc68-0ed9-4a06-aeb1-85a527ab1783,rice,grains,1.37,1,0,Free Gift with Purchase,cash,rainy,0.92
+7042f2dc-fb05-4aa6-b36b-3f65e1592490,2023-12-04,12,6aa45791-9e20-45b5-8694-fd03579069bf,yogurt,dairy,2.35,1,0,Buy One Get One Free,cash,stormy,1.62
+8b13eb36-b1be-42ea-b074-562be13f7b57,2023-12-30,19,5b13bf19-a0ed-4d79-a55e-49a8fb00654e,soda,beverage,10.77,1,0,Buy One Get One Free,cash,rainy,7.53
+7f4ecab0-6aa1-4106-b4b9-86ca0ac0b27a,2023-07-18,16,e3824385-6542-40cd-b666-7ae3d24a6f13,rice,grains,1.37,2,0,Buy One Get One Free,card,sunny,0.98
+7f4ecab0-6aa1-4106-b4b9-86ca0ac0b27a,2023-07-18,16,e3824385-6542-40cd-b666-7ae3d24a6f13,coffee,beverage,5.76,2,0,20% Off Entire Purchase,cash,sunny,3.68
+3aacef2c-9d7c-496d-83c7-57bd4f26aae9,2023-08-13,12,ca338ac2-31fe-4d0d-bfa5-997003eef92b,chocolate,snacks,2.3,2,0,Free Gift with Purchase,cash,stormy,1.68
+3aacef2c-9d7c-496d-83c7-57bd4f26aae9,2023-08-13,12,ca338ac2-31fe-4d0d-bfa5-997003eef92b,pasta,grains,3.78,2,0,Loyalty Rewards Points,cash,stormy,2.78
+7a1b9856-4003-436e-b1f1-8c9aa02e272f,2023-07-01,16,0cc3ebda-3229-4269-93bc-8c0d227a9b75,potatoes,produce,4.09,1,0,Loyalty Rewards Points,card,stormy,2.74
+abaf003b-c12b-4d94-847b-97ddb4462d69,2023-08-04,10,bffbba47-9dd0-417d-a2cf-f6d9cbf68b0b,grapes,produce,2.22,1,0,20% Off Entire Purchase,card,rainy,1.59
+624439ee-9e9d-4b1d-ba74-274ec4db3d26,2023-10-02,10,d6e0b1cd-0cd6-4639-ad3f-9f2eed317a73,tomatoes,produce,8.63,1,0,20% Off Entire Purchase,cash,sunny,6.26
+eb3f4e48-885e-4459-b1af-3f8feb40228a,2023-08-23,18,18e9f118-8fb7-4048-8a52-abd491196d6c,carrots,produce,1.09,1,0,Buy One Get One Free,cash,rainy,0.78
+2ff914b1-b1ad-4c26-a9d6-7b9fe90e75e0,2023-08-16,21,2868e692-ce2b-42ce-ada5-78916ae838d7,soda,beverage,10.77,1,0,Free Gift with Purchase,cash,stormy,7.54
+3915ddd2-d40e-4075-9b2e-db332d2c15de,2024-04-12,21,b50a50f6-8faf-4277-a1f9-2b8bb0f24941,butter,dairy,1.35,1,0,Buy One Get One Free,cash,sunny,1.04
+e76303db-fc7c-4562-8250-a23d7a084a59,2024-05-29,16,ac7d4d37-7039-4797-919a-2cb4b6e6c0d4,cereal,grains,10.1,1,0,Buy One Get One Free,card,rainy,7.01
+76095adc-950d-47fc-bb1b-a01adc77a2f7,2024-05-26,17,82c775a0-5577-4c73-9ced-da7d3ab92d82,apples,produce,10.47,1,0,20% Off Entire Purchase,cash,rainy,7.32
+c4891c4e-550a-4643-8ebe-adea77721558,2023-09-09,20,485ba581-c061-4350-ba20-ace0abf1a299,cheese,dairy,4.12,1,0,Loyalty Rewards Points,cash,stormy,2.92
+1aa2f027-226e-4b62-8b71-cd9958002105,2023-06-02,16,f8869313-c33c-48c5-ab3e-9da58bfca1af,rice,grains,1.37,1,0,Loyalty Rewards Points,cash,cloudy,0.91
+3a6f3b3a-c8da-467b-95e1-5b37a54d3848,2023-06-04,21,66a32bf1-3464-459d-b2ae-c9357ba8ec26,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,rainy,7.09
+2b47b0b5-4fe6-47f1-8447-44801f97e5ce,2023-08-16,14,94e5125e-a811-4fea-99fa-8e1adac8bbaa,orange juice,beverage,12.28,1,0,Buy One Get One Free,cash,sunny,8.32
+149e3f43-3825-4bc9-ab0c-34b8e12f6a9c,2024-05-23,14,3efb5dc6-da07-485b-a563-8f120f85825a,butter,dairy,1.35,1,0,20% Off Entire Purchase,card,rainy,0.98
+2baca47f-8795-450f-a0bb-c1efe035c671,2023-12-17,19,628f5c27-4c2e-4577-b37f-b6da7d5eb9de,pizza,frozen,9.45,1,0,Free Gift with Purchase,card,rainy,6.86
+5761ada2-99a3-445c-9fdd-b87ee17a79c4,2023-09-06,14,0d548560-1ad9-4c2a-ab5c-3bba230f45ec,pork,meat,4.06,2,0,Loyalty Rewards Points,cash,cloudy,2.82
+5761ada2-99a3-445c-9fdd-b87ee17a79c4,2023-09-06,14,0d548560-1ad9-4c2a-ab5c-3bba230f45ec,butter,dairy,1.35,2,0,Loyalty Rewards Points,card,cloudy,0.9
+b6419371-e5d5-4e63-aa20-966c33a769fe,2024-01-26,14,28c0e6a1-c5b1-4720-8f5f-de690f856b06,pork,meat,4.06,1,0,Loyalty Rewards Points,card,stormy,2.88
+011f8217-ec9f-4e18-bc8e-d14af8232074,2023-09-14,20,37919a50-24e3-4f42-ac86-448d769b3598,potatoes,produce,4.09,1,0,Free Gift with Purchase,card,cloudy,3.04
+32e42d50-3559-4b9e-af21-6ed0d038a733,2023-06-22,18,c7966f77-3102-44c8-b0c1-dfe9e76eb8e2,pasta,grains,3.78,1,0,Buy One Get One Free,card,rainy,2.49
+fe7764f1-f610-4238-920d-be70b61b2db2,2024-03-17,13,09a2be11-8cec-4184-9055-53161803603e,lettuce,produce,12.33,2,0,Buy One Get One Free,card,rainy,9.16
+fe7764f1-f610-4238-920d-be70b61b2db2,2024-03-17,13,09a2be11-8cec-4184-9055-53161803603e,rice,grains,1.37,2,0,Free Gift with Purchase,card,rainy,0.98
+1fadef2b-c3a4-4b67-ad46-42064acb0d09,2023-10-11,18,aad6db2e-5dd4-4a83-98ee-32d0d9d78493,fish,seafood,8.07,1,0,Free Gift with Purchase,cash,stormy,5.98
+6b1eb2ad-919b-4e4b-add0-93193aafbf86,2023-07-03,15,4a9b2e61-873b-40c9-9fad-823ff26ac2b3,rice,grains,1.37,1,0,Loyalty Rewards Points,card,rainy,0.91
+70fc7170-eb50-4a21-aad9-dc5b798d3173,2023-11-05,9,e34042cf-2be1-4b6e-a5f8-e56246688029,bananas,produce,13.49,1,0,Loyalty Rewards Points,cash,cloudy,9.75
+9c1c86c2-8629-441c-bbae-9f9396f25acf,2023-09-30,19,60b44f97-93fa-4527-bd96-8951ad8089f0,tea,beverage,3.18,1,0,20% Off Entire Purchase,cash,stormy,2.28
+a51cd295-d843-481c-a4ce-26f6475ab48f,2023-07-18,16,424c0df2-1ca6-497f-97e4-4c9e4b0fcfd8,tea,beverage,3.18,1,0,Free Gift with Purchase,cash,cloudy,2.31
+eb9fc5a0-fabe-41a5-a87c-ffc3680e85b2,2023-09-27,15,b4c59cb2-4f59-4644-bc01-352eb6f802b4,pizza,frozen,9.45,1,0,20% Off Entire Purchase,cash,rainy,6.04
+3a1d3d7a-eba3-4b41-b4bd-38a85ecb8eee,2024-02-25,13,a01ea6ae-1cef-4dfa-a33e-de353bb3cea5,chicken,meat,6.91,1,0,20% Off Entire Purchase,cash,rainy,5.02
+0bdec204-d969-4a72-b4c3-b8088917a828,2023-06-02,12,4ae79fd2-a281-432f-81a0-218f376739c0,bread,bakery,9.95,2,0,Free Gift with Purchase,cash,sunny,7.38
+0bdec204-d969-4a72-b4c3-b8088917a828,2023-06-02,12,4ae79fd2-a281-432f-81a0-218f376739c0,grapes,produce,2.22,2,0,Loyalty Rewards Points,cash,sunny,1.55
+a74c6285-ad36-4d2f-8dd4-7cf9ac60e6ae,2023-08-12,19,b6743c2e-206d-46d0-bb51-fa6351a5d4fd,chicken,meat,6.91,1,0,Free Gift with Purchase,cash,sunny,4.49
+0fda0c94-050d-4b26-8973-375b3c4e6ba7,2023-07-07,19,566cd9aa-406b-44c8-9963-d12f4bc093f4,butter,dairy,1.35,1,0,Loyalty Rewards Points,card,cloudy,1.03
+caeb94ec-fb0a-455c-b45b-04fdf92cd5cf,2023-12-05,9,36981c1c-5ccb-4e5c-954e-a9580b3e9377,beef,meat,1.42,1,0,Loyalty Rewards Points,cash,sunny,1.07
+929be72b-de8a-440b-85e2-6d205681cf54,2024-01-27,19,5d63f8f0-a4e8-4dc6-90a7-dda3098fe609,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,card,sunny,1.68
+a54b06df-0237-4201-b621-fdeb09e9e1e0,2023-06-09,10,8fe4a4b6-94c5-42db-99a8-6bb64e50e1ff,chocolate,snacks,2.3,1,0,Free Gift with Purchase,cash,sunny,1.64
+014db50c-5cbb-4ddc-845d-32f395a469ac,2023-09-23,10,a445c7c9-ebe9-45d9-93ce-4da8ab7239a2,cookies,snacks,14.4,1,0,Free Gift with Purchase,cash,cloudy,10.7
+c84d31d2-3f3f-4692-bd68-74f8df13067e,2023-10-14,21,93ba8f0f-8344-4f18-b0ea-7781b72edef0,bananas,produce,13.49,1,0,20% Off Entire Purchase,card,cloudy,8.77
+cedfd491-b232-49e7-8a51-63dd96568d18,2023-09-28,13,6e715998-664d-4554-888b-dd4b8a286f2e,yogurt,dairy,2.35,1,0,Loyalty Rewards Points,cash,stormy,1.67
+778ff5ba-2b63-434c-ad28-1e5ffcfdf5fa,2024-05-29,20,a8099687-54f1-4b83-a083-82348169f516,pasta,grains,3.78,1,0,20% Off Entire Purchase,cash,sunny,2.63
+77609a84-74af-42c0-9328-40b3f32fb697,2024-01-18,21,23c1766c-4c03-40ca-9e73-b9f7570e9b32,coffee,beverage,5.76,1,0,Free Gift with Purchase,card,cloudy,3.93
+812f71b1-00da-4fde-8467-83d2c4f28aa8,2023-08-22,19,848410f5-53cd-4ba8-bde6-1fb9998b38d9,soda,beverage,10.77,1,0,Buy One Get One Free,card,sunny,7.99
+449a7c9b-0168-48fe-a2db-c6fab720484f,2024-01-02,13,440148ed-b661-4030-81af-ced19daac915,coffee,beverage,5.76,1,0,Buy One Get One Free,card,stormy,3.92
+c3ac2b6b-fe0d-4601-8d06-0dbeb8e763af,2023-06-28,16,2987c2b1-45ed-447c-861c-9f450146e8c6,rice,grains,1.37,2,0,Free Gift with Purchase,cash,stormy,1.05
+c3ac2b6b-fe0d-4601-8d06-0dbeb8e763af,2023-06-28,16,2987c2b1-45ed-447c-861c-9f450146e8c6,pizza,frozen,9.45,2,0,20% Off Entire Purchase,cash,stormy,6.07
+5a5fbb00-c7b6-4a40-9bbc-c5f5f90c00ce,2023-12-11,12,2121256d-59c7-442d-8b10-667219c77930,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,cloudy,8.28
+969e5194-2cb8-42cf-9adf-d1c0abf600ad,2024-05-20,13,478e36d1-4359-4fd9-a1f5-745fa6395ebe,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,cash,sunny,6.01
+a485464d-f7db-4344-a4ef-e0b9a8ef60ac,2024-05-07,20,4e185f63-2451-4267-85de-3d4ee5ff4c5c,chocolate,snacks,2.3,1,0,20% Off Entire Purchase,cash,stormy,1.48
+b6a68a6e-0bab-4118-a521-d13f380ec76a,2023-06-29,17,2427cdb8-01e9-43d2-96ce-9c57e1662984,carrots,produce,1.09,1,0,Free Gift with Purchase,cash,sunny,0.8
+cf071521-468c-4616-bc4a-18a17f0d7ba9,2023-08-18,20,9f548fd0-6b30-433f-aa1c-fa29cf3f6790,orange juice,beverage,12.28,1,0,Loyalty Rewards Points,card,sunny,8.84
+29a35b46-339a-4cb8-8612-eed48808f173,2024-05-01,9,a6f4e8c3-9e84-42eb-bf8b-a899b12224bb,beef,meat,1.42,1,0,Buy One Get One Free,card,stormy,0.96
+93c4e465-8bcf-4a8b-b006-7b9289c2c200,2024-02-22,11,a32912e4-c14c-404d-b22b-77f65caf2c8d,cookies,snacks,14.4,1,0,20% Off Entire Purchase,cash,cloudy,10.75
+537cb102-3aaf-4d7d-a0b8-9c4a2733acd6,2024-01-01,21,b5d19aae-a593-4be5-b2d9-528d943a1c0d,yogurt,dairy,2.35,1,0,Free Gift with Purchase,card,rainy,1.72
+7d895838-e104-4071-bc37-b9f62cf6d91f,2023-11-23,19,92d30e27-98a3-4336-83e3-a9bbed0eb7a4,bananas,produce,13.49,1,0,Free Gift with Purchase,card,rainy,8.66
+44c1972f-fdb0-439d-8333-a6e6ad5422bb,2023-08-06,15,c31d9514-a3f9-4e07-b757-b1f44980f5b2,ice cream,dairy,12.86,1,0,Buy One Get One Free,card,stormy,9.13
+9b2380ed-0f89-49c1-9f8c-a978b4e1cf66,2023-07-08,17,3ead15cf-b5f2-4793-b063-5413497ff754,cereal,grains,10.1,1,0,20% Off Entire Purchase,card,cloudy,6.64
+f33d096d-9a59-40f2-beba-504ccb59c577,2023-06-17,15,78c3e6b4-d105-426b-b73d-b57fd8fc68a4,eggs,dairy,11.31,1,0,Free Gift with Purchase,card,stormy,7.27
+0f3f3a19-dc1d-4a59-96d1-fb6935b326b3,2024-04-06,18,be72b1c7-114b-4620-b0d0-3bd491f033ae,potatoes,produce,4.09,2,0,Loyalty Rewards Points,cash,sunny,3.02
+0f3f3a19-dc1d-4a59-96d1-fb6935b326b3,2024-04-06,18,be72b1c7-114b-4620-b0d0-3bd491f033ae,pasta,grains,3.78,2,0,20% Off Entire Purchase,card,sunny,2.44
+b403e7fd-9a36-499b-b493-7b2aeeda9132,2024-03-29,21,7adb273e-264f-4710-afb2-0c761e621302,tomatoes,produce,8.63,1,0,Loyalty Rewards Points,card,rainy,5.9
+c299ce78-0eb8-40ca-a965-dbff27bfc255,2024-05-16,18,966590bb-9eff-4256-8719-63cfa9c9f36c,beef,meat,1.42,1,0,20% Off Entire Purchase,cash,cloudy,1.04
+047617d8-a10d-45ae-b651-05b020027cad,2024-05-15,11,af67defd-bc78-4dba-8f52-9c6fc30fc578,bread,bakery,9.95,1,0,Free Gift with Purchase,card,stormy,6.67
+219eb4ae-6758-41c4-a4e2-9350b9ce9c35,2024-01-07,18,e465ecfc-edb4-4d93-95ef-c323483d212a,fish,seafood,8.07,1,0,Loyalty Rewards Points,card,stormy,5.74
+2534a483-f365-447e-81b4-b475005fc746,2024-01-31,9,b22c626b-dd50-4372-9186-af92babfd1cf,pork,meat,4.06,2,0,20% Off Entire Purchase,cash,stormy,2.78
+2534a483-f365-447e-81b4-b475005fc746,2024-01-31,9,b22c626b-dd50-4372-9186-af92babfd1cf,coffee,beverage,5.76,2,0,Free Gift with Purchase,card,stormy,4.2
+0621be6e-45a6-4902-bfde-64b702e507a4,2023-10-19,10,4b2197ce-65e3-4c27-a219-1c82fa3c1125,pizza,frozen,9.45,2,0,Free Gift with Purchase,card,sunny,6.58
+0621be6e-45a6-4902-bfde-64b702e507a4,2023-10-19,10,4b2197ce-65e3-4c27-a219-1c82fa3c1125,grapes,produce,2.22,2,0,Loyalty Rewards Points,cash,sunny,1.4
+930d4fbe-69f9-4b49-8633-83cfb861fe97,2023-06-12,15,5b315563-5005-475e-b342-b37d0f86e504,ice cream,dairy,12.86,2,0,20% Off Entire Purchase,cash,rainy,8.18
+930d4fbe-69f9-4b49-8633-83cfb861fe97,2023-06-12,15,5b315563-5005-475e-b342-b37d0f86e504,onions,produce,9.25,2,0,Loyalty Rewards Points,cash,rainy,6.05
+1fb371b2-f053-42a7-bc48-131859eab776,2023-08-26,16,1df76259-a69c-4217-9d8e-a0c150cb3797,coffee,beverage,5.76,2,0,Free Gift with Purchase,card,cloudy,3.98
+1fb371b2-f053-42a7-bc48-131859eab776,2023-08-26,16,1df76259-a69c-4217-9d8e-a0c150cb3797,potatoes,produce,4.09,2,0,20% Off Entire Purchase,cash,cloudy,2.76
+2c0c24a5-fb25-4719-9d16-894d4feadc33,2023-08-11,13,77eb99d9-5a36-42a3-9f74-90ad320e646d,beef,meat,1.42,1,0,Free Gift with Purchase,cash,rainy,1.07
+4b45619d-fab6-4fe9-980a-4f5ba672e510,2024-05-17,17,07dcae26-884d-4f9c-9a5c-0e883681e751,apples,produce,10.47,1,0,Loyalty Rewards Points,card,rainy,7.06
+61f7ae49-227d-4654-bd40-8460e5dbf010,2024-02-23,17,15030893-31a8-4106-a57a-9db32448855f,eggs,dairy,11.31,2,0,Buy One Get One Free,cash,stormy,7.49
+61f7ae49-227d-4654-bd40-8460e5dbf010,2024-02-23,17,15030893-31a8-4106-a57a-9db32448855f,butter,dairy,1.35,2,0,Loyalty Rewards Points,cash,stormy,0.9
+d1dac14e-1629-4247-afa7-5d61660b8204,2024-01-01,10,ca910400-a039-4fb5-982a-283446f95bf3,fish,seafood,8.07,2,0,Loyalty Rewards Points,cash,stormy,5.72
+d1dac14e-1629-4247-afa7-5d61660b8204,2024-01-01,10,ca910400-a039-4fb5-982a-283446f95bf3,coffee,beverage,5.76,2,0,20% Off Entire Purchase,card,stormy,3.72
+48197f88-5ae9-418d-ab2e-237825354918,2024-05-11,14,8dea89d4-cca3-499d-ad40-5d803676fafb,beef,meat,1.42,1,0,20% Off Entire Purchase,cash,sunny,0.93
+0f84a864-4189-4fd6-a80e-bb5ac22593ee,2023-11-17,18,66e1a67b-5d3e-4b18-a81e-bbdc351fe2d8,bread,bakery,9.95,1,0,20% Off Entire Purchase,cash,cloudy,7.0
+31118758-e240-47d0-b750-0fb24566270c,2024-03-20,10,8a66fd39-35a7-4742-bf37-363f26830dae,soda,beverage,10.77,1,0,Free Gift with Purchase,card,cloudy,6.93
+8752178a-bb61-4a58-a654-9d2c65ed51a6,2024-04-22,13,098090a7-5d68-4a70-b67c-22bd7008b5f4,lettuce,produce,12.33,1,0,Buy One Get One Free,cash,sunny,9.37
+5e449e42-a7b8-4a58-858b-bfd24efff3c2,2023-06-25,11,0afaa9fe-cb61-448c-ba09-27872178c45f,chocolate,snacks,2.3,2,0,Loyalty Rewards Points,cash,sunny,1.66
+5e449e42-a7b8-4a58-858b-bfd24efff3c2,2023-06-25,11,0afaa9fe-cb61-448c-ba09-27872178c45f,coffee,beverage,5.76,2,0,Buy One Get One Free,cash,sunny,4.11
+90a7ed21-f976-4d7e-8723-8f0e5f711522,2024-05-24,9,5558455d-2c89-4a91-b8c2-8e924d09be67,tea,beverage,3.18,1,0,20% Off Entire Purchase,card,stormy,2.45
+1580260c-c0d3-4de2-9691-384ae3b93680,2024-05-13,9,bbf582ed-5574-4a50-969f-d09f90537400,butter,dairy,1.35,1,0,Loyalty Rewards Points,card,rainy,0.99
+2d7a00c1-eb38-47a5-aeb9-99c2bfbebac5,2023-06-20,15,c9cb357e-035f-4bc3-99e9-42ec8b1d80cd,cookies,snacks,14.4,1,0,Buy One Get One Free,card,rainy,10.82
+a2c3c127-31e1-4660-bd4c-72c3142e6128,2024-05-30,12,c71b652e-3722-4ca3-90f5-9b9cfbade0bd,rice,grains,1.37,1,0,20% Off Entire Purchase,card,cloudy,0.92
+a39ecad7-a9bb-4789-9a7b-7eafae635308,2024-03-09,13,6b935ba7-2ae9-4862-8590-feb5ca901b5b,tea,beverage,3.18,1,0,Free Gift with Purchase,card,stormy,2.36
+4c4a33b7-ddf7-49a4-bcf8-3c7398f91104,2023-07-10,14,10864d7a-0e3d-4f58-8285-08ff73bbf0ff,potatoes,produce,4.09,1,0,Loyalty Rewards Points,cash,sunny,2.69
+df3b6719-a2f1-41ae-b558-4ea8e590c292,2023-09-13,16,2ef4078e-3c7c-464a-a234-7b6a8705d8f4,pasta,grains,3.78,1,0,Loyalty Rewards Points,cash,rainy,2.43
+7148c74e-b2aa-446a-9845-bf66e12ea763,2023-07-29,18,1a2b539d-ccae-4fa8-98ca-529c884f5001,pasta,grains,3.78,1,0,Free Gift with Purchase,cash,cloudy,2.43
+cb06800d-553d-4b7c-8edb-bcf0c08160f3,2023-09-15,19,68454ed5-937b-4103-b000-7473664c399f,coffee,beverage,5.76,1,0,Loyalty Rewards Points,card,cloudy,3.75
+3f8bcd50-1e4b-4043-b162-cfb1f27ec680,2024-02-26,13,f26e58e0-e84f-4969-8984-98c9e1a07070,pizza,frozen,9.45,1,0,Free Gift with Purchase,card,stormy,7.01
